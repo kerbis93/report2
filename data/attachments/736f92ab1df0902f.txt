@@ -1,0 +1,32 @@
+[
+  {
+    "query": "tea pot",
+    "clip_id": "248014",
+    "story_id": "20123",
+    "autoRank": "0.36382945493870211"
+  },
+  {
+    "query": "tea pot",
+    "clip_id": "54725",
+    "story_id": "12394",
+    "autoRank": "0.35014374011404203"
+  },
+  {
+    "query": "tea pot",
+    "clip_id": "48126",
+    "story_id": "12046",
+    "autoRank": "0.34763957944765878"
+  },
+  {
+    "query": "tea pot",
+    "clip_id": "239643",
+    "story_id": "19799",
+    "autoRank": "0.328047267979037"
+  },
+  {
+    "query": "tea pot",
+    "clip_id": "49271",
+    "story_id": "12127",
+    "autoRank": "0.3250980856312381"
+  }
+]

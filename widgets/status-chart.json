@@ -1,0 +1,1961 @@
+[ {
+  "uid" : "af854b200649b530",
+  "name" : "Verify search term = \"working out at home\"",
+  "time" : {
+    "start" : 1667490289210,
+    "stop" : 1667490290233,
+    "duration" : 1023
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6778dd10935f9cc",
+  "name" : "Verify search term = \"black\"",
+  "time" : {
+    "start" : 1667489881869,
+    "stop" : 1667489890227,
+    "duration" : 8358
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "af3efed84a5d3479",
+  "name" : "Verify search term = \"spinning\"",
+  "time" : {
+    "start" : 1667490207106,
+    "stop" : 1667490214502,
+    "duration" : 7396
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbdd36244f75585f",
+  "name" : "Verify search term = \"innocent\"",
+  "time" : {
+    "start" : 1667490074332,
+    "stop" : 1667490076208,
+    "duration" : 1876
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3a5b9a0b4fb29a4",
+  "name" : "Verify search term = \"beauty shot\"",
+  "time" : {
+    "start" : 1667489862395,
+    "stop" : 1667489871106,
+    "duration" : 8711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53bab6cd8668cc34",
+  "name" : "Verify search term = \"humanity\"",
+  "time" : {
+    "start" : 1667490073831,
+    "stop" : 1667490074331,
+    "duration" : 500
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cc9ed431e24648d",
+  "name" : "Verify search term = \"dramatic\"",
+  "time" : {
+    "start" : 1667489246227,
+    "stop" : 1667489258090,
+    "duration" : 11863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "daab5dd75d337715",
+  "name" : "Verify search term = \"vibing - slang\"",
+  "time" : {
+    "start" : 1667489738358,
+    "stop" : 1667489740661,
+    "duration" : 2303
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "19bbc4a7e6441c55",
+  "name" : "Verify search term = \"documentary of domestic animals\"",
+  "time" : {
+    "start" : 1667489234845,
+    "stop" : 1667489243991,
+    "duration" : 9146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "375d313f229401e6",
+  "name" : "Verify search term = \"the big bang\"",
+  "time" : {
+    "start" : 1667490249219,
+    "stop" : 1667490251943,
+    "duration" : 2724
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ed91186566dfefe",
+  "name" : "Verify search term = \"egg white\"",
+  "time" : {
+    "start" : 1667489289417,
+    "stop" : 1667489298388,
+    "duration" : 8971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a55ff77fcd46dbbb",
+  "name" : "Verify search term = \"subway\"",
+  "time" : {
+    "start" : 1667490223417,
+    "stop" : 1667490231969,
+    "duration" : 8552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79c7795591c04080",
+  "name" : "Verify search term = \"coffee berries\"",
+  "time" : {
+    "start" : 1667489205503,
+    "stop" : 1667489213617,
+    "duration" : 8114
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6336e764b65a4ee",
+  "name" : "Verify search term = \"stunning view/scenery\"",
+  "time" : {
+    "start" : 1667489637410,
+    "stop" : 1667489647809,
+    "duration" : 10399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15e515c3177da1c4",
+  "name" : "Verify search term = \"wind blowing\"",
+  "time" : {
+    "start" : 1667489763408,
+    "stop" : 1667489773699,
+    "duration" : 10291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa3ea70cdf060af2",
+  "name" : "Verify search term = \"melting statue\"",
+  "time" : {
+    "start" : 1667490097654,
+    "stop" : 1667490098338,
+    "duration" : 684
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccdc8d712bd565e",
+  "name" : "Verify search term = \"techno\"",
+  "time" : {
+    "start" : 1667489689832,
+    "stop" : 1667489698937,
+    "duration" : 9105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "639dc84b24cbdeff",
+  "name" : "Verify search term = \"big size model\"",
+  "time" : {
+    "start" : 1667489104819,
+    "stop" : 1667489107338,
+    "duration" : 2519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef81a663478fbf3a",
+  "name" : "Verify search term = \"divine\"",
+  "time" : {
+    "start" : 1667489232601,
+    "stop" : 1667489234844,
+    "duration" : 2243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e00a5ca2d68d8131",
+  "name" : "Verify search term = \"yellow cab\"",
+  "time" : {
+    "start" : 1667490290240,
+    "stop" : 1667490292426,
+    "duration" : 2186
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec369d9953b4eeeb",
+  "name" : "Verify search term = \"homeless\"",
+  "time" : {
+    "start" : 1667489414997,
+    "stop" : 1667489425822,
+    "duration" : 10825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d72252abe24bb1b2",
+  "name" : "Verify search term = \"feeling\"",
+  "time" : {
+    "start" : 1667489329995,
+    "stop" : 1667489339631,
+    "duration" : 9636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3df1240252d8548",
+  "name" : "Verify search term = \"space\"",
+  "time" : {
+    "start" : 1667490196574,
+    "stop" : 1667490205268,
+    "duration" : 8694
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "89d2de75024668ed",
+  "name" : "Verify search term = \"the big bang\"",
+  "time" : {
+    "start" : 1667489704230,
+    "stop" : 1667489712613,
+    "duration" : 8383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f17ffb5719464865",
+  "name" : "Verify search term = \"climate change\"",
+  "time" : {
+    "start" : 1667489935426,
+    "stop" : 1667489943302,
+    "duration" : 7876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b5e89e49d74abd4",
+  "name" : "Verify search term = \"pop colture\"",
+  "time" : {
+    "start" : 1667489530003,
+    "stop" : 1667489532330,
+    "duration" : 2327
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb88b0c7a3133d1b",
+  "name" : "Verify search term = \"time\"",
+  "time" : {
+    "start" : 1667489724433,
+    "stop" : 1667489725453,
+    "duration" : 1020
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8d2cf0339e5eb76",
+  "name" : "Verify search term = \"muscle\"",
+  "time" : {
+    "start" : 1667490120526,
+    "stop" : 1667490128289,
+    "duration" : 7763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4771159246313be",
+  "name" : "Verify search term = \"goofing around  - slang\"",
+  "time" : {
+    "start" : 1667490034512,
+    "stop" : 1667490035331,
+    "duration" : 819
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4f25b0217258fc3",
+  "name" : "Verify search term = \"powerful\"",
+  "time" : {
+    "start" : 1667489532331,
+    "stop" : 1667489542956,
+    "duration" : 10625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82a45721e033e86d",
+  "name" : "Verify search term = \"wandering city\"",
+  "time" : {
+    "start" : 1667489748816,
+    "stop" : 1667489759501,
+    "duration" : 10685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b8e7100b0020bcd",
+  "name" : "Verify search term = \"subway\"",
+  "time" : {
+    "start" : 1667489647810,
+    "stop" : 1667489658731,
+    "duration" : 10921
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2f81b80adf7e6b7",
+  "name" : "Verify search term = \"authentic style\"",
+  "time" : {
+    "start" : 1667489852324,
+    "stop" : 1667489853933,
+    "duration" : 1609
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a75eb61da48018cc",
+  "name" : "Verify search term = \"youtube\"",
+  "time" : {
+    "start" : 1667489838139,
+    "stop" : 1667489847590,
+    "duration" : 9451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd2f1097ae6b2198",
+  "name" : "Verify search term = \"authentic style\"",
+  "time" : {
+    "start" : 1667489059957,
+    "stop" : 1667489063661,
+    "duration" : 3704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e7d8bee350c26c4",
+  "name" : "Verify search term = \"tecnology\"",
+  "time" : {
+    "start" : 1667490248727,
+    "stop" : 1667490249218,
+    "duration" : 491
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd12d06fa7dce373",
+  "name" : "Verify search term = \"cinematic shot\"",
+  "time" : {
+    "start" : 1667489185621,
+    "stop" : 1667489195521,
+    "duration" : 9900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c87ad21669063098",
+  "name" : "Verify search term = \"green leaves\"",
+  "time" : {
+    "start" : 1667489383301,
+    "stop" : 1667489393613,
+    "duration" : 10312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a432ad37f9c4aa6b",
+  "name" : "Verify search term = \"gender fluid\"",
+  "time" : {
+    "start" : 1667490022183,
+    "stop" : 1667490025937,
+    "duration" : 3754
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6e97f2e798149ec",
+  "name" : "Verify search term = \"scorsese\"",
+  "time" : {
+    "start" : 1667489570933,
+    "stop" : 1667489573306,
+    "duration" : 2373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86887fbf1e3a9713",
+  "name" : "Verify search term = \"commercial vibe\"",
+  "time" : {
+    "start" : 1667489213618,
+    "stop" : 1667489223621,
+    "duration" : 10003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8ed72a0b5ca3dd8",
+  "name" : "Verify search term = \"spaceship\"",
+  "time" : {
+    "start" : 1667489610987,
+    "stop" : 1667489617822,
+    "duration" : 6835
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bac33a4c5958dc79",
+  "name" : "Verify search term = \"beyonce\"",
+  "time" : {
+    "start" : 1667489083908,
+    "stop" : 1667489094617,
+    "duration" : 10709
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af1877057c4f51a9",
+  "name" : "Verify search term = \"holding hands\"",
+  "time" : {
+    "start" : 1667489404084,
+    "stop" : 1667489414993,
+    "duration" : 10909
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa1c92186d72b3f0",
+  "name" : "Verify search term = \"wireframe\"",
+  "time" : {
+    "start" : 1667490287170,
+    "stop" : 1667490288105,
+    "duration" : 935
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5819cae6abc556d",
+  "name" : "Verify search term = \"valetines\"",
+  "time" : {
+    "start" : 1667489734305,
+    "stop" : 1667489738356,
+    "duration" : 4051
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d2c4bdaf11ed8e5",
+  "name" : "Verify search term = \"artgrid\"",
+  "time" : {
+    "start" : 1667489851572,
+    "stop" : 1667489852321,
+    "duration" : 749
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "878fcf4f071f448d",
+  "name" : "Verify search term = \"modern dance\"",
+  "time" : {
+    "start" : 1667490109503,
+    "stop" : 1667490120526,
+    "duration" : 11023
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fbe42f6f512761f",
+  "name" : "Verify search term = \"coffee berries\"",
+  "time" : {
+    "start" : 1667489943304,
+    "stop" : 1667489944718,
+    "duration" : 1414
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8c7ad91fc29adee",
+  "name" : "Verify search term = \"golden hour\"",
+  "time" : {
+    "start" : 1667490025939,
+    "stop" : 1667490034505,
+    "duration" : 8566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "138ec159b35b1abb",
+  "name" : "Verify search term = \"vj\"",
+  "time" : {
+    "start" : 1667489740663,
+    "stop" : 1667489748813,
+    "duration" : 8150
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2708390592db8e01",
+  "name" : "Verify search term = \"melting statue\"",
+  "time" : {
+    "start" : 1667489468740,
+    "stop" : 1667489476940,
+    "duration" : 8200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7fe00fcc8852b70",
+  "name" : "Verify search term = \"goosebumps\"",
+  "time" : {
+    "start" : 1667490035758,
+    "stop" : 1667490036263,
+    "duration" : 505
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2887d446017280e2",
+  "name" : "Verify search term = \"park\"",
+  "time" : {
+    "start" : 1667490141416,
+    "stop" : 1667490151274,
+    "duration" : 9858
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "48d030c2356e1f9f",
+  "name" : "Verify search term = \"tribal\"",
+  "time" : {
+    "start" : 1667489725455,
+    "stop" : 1667489734304,
+    "duration" : 8849
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "493bf4fd9b3b7197",
+  "name" : "Verify search term = \"autumn leaves\"",
+  "time" : {
+    "start" : 1667489063663,
+    "stop" : 1667489074809,
+    "duration" : 11146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5b27c1ce5367a99",
+  "name" : "Verify search term = \"black children\"",
+  "time" : {
+    "start" : 1667489908423,
+    "stop" : 1667489917327,
+    "duration" : 8904
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5684947c2c2bd6c1",
+  "name" : "Verify search term = \"cherry blossom\"",
+  "time" : {
+    "start" : 1667489175369,
+    "stop" : 1667489185620,
+    "duration" : 10251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f03cf1b1fd49af1",
+  "name" : "Verify search term = \"scorsese\"",
+  "time" : {
+    "start" : 1667490171521,
+    "stop" : 1667490171962,
+    "duration" : 441
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2427da622db45056",
+  "name" : "Verify search term = \"feeling\"",
+  "time" : {
+    "start" : 1667490003539,
+    "stop" : 1667490014338,
+    "duration" : 10799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a989e7bd952f0ff",
+  "name" : "Verify search term = \"time\"",
+  "time" : {
+    "start" : 1667490255558,
+    "stop" : 1667490256133,
+    "duration" : 575
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9b05341d60b7669",
+  "name" : "Verify search term = \"street style\"",
+  "time" : {
+    "start" : 1667489627012,
+    "stop" : 1667489637409,
+    "duration" : 10397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "419c335cca39c5fe",
+  "name" : "Verify search term = \"old school\"",
+  "time" : {
+    "start" : 1667490128291,
+    "stop" : 1667490137076,
+    "duration" : 8785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69fd9673a525f9b",
+  "name" : "Verify search term = \"dramatic\"",
+  "time" : {
+    "start" : 1667489950054,
+    "stop" : 1667489958597,
+    "duration" : 8543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aca47a5febd6c07a",
+  "name" : "Verify search term = \"space\"",
+  "time" : {
+    "start" : 1667489599903,
+    "stop" : 1667489610985,
+    "duration" : 11082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1adee6761fee111d",
+  "name" : "Verify search term = \"overweight\"",
+  "time" : {
+    "start" : 1667490137079,
+    "stop" : 1667490141412,
+    "duration" : 4333
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c523853391f4537",
+  "name" : "Verify search term = \"tea pot\"",
+  "time" : {
+    "start" : 1667490241448,
+    "stop" : 1667490244027,
+    "duration" : 2579
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fd5e2abd88605d3",
+  "name" : "Verify search term = \"big empty space\"",
+  "time" : {
+    "start" : 1667489871723,
+    "stop" : 1667489872212,
+    "duration" : 489
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "72746b4e6e1cdf9f",
+  "name" : "Verify search term = \"humanity\"",
+  "time" : {
+    "start" : 1667489425824,
+    "stop" : 1667489428946,
+    "duration" : 3122
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2b8705391b8fe36",
+  "name" : "Verify search term = \"tiktok\"",
+  "time" : {
+    "start" : 1667489712616,
+    "stop" : 1667489721712,
+    "duration" : 9096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdf089d1e41f0de3",
+  "name" : "Verify search term = \"slow motion\"",
+  "time" : {
+    "start" : 1667490181382,
+    "stop" : 1667490187784,
+    "duration" : 6402
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "48beb74297b3b9f",
+  "name" : "Verify search term = \"school bus\"",
+  "time" : {
+    "start" : 1667490166548,
+    "stop" : 1667490171514,
+    "duration" : 4966
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a745adcd87b19f8",
+  "name" : "Verify search term = \"snack\"",
+  "time" : {
+    "start" : 1667490187789,
+    "stop" : 1667490196571,
+    "duration" : 8782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dd9cda594ec5bae",
+  "name" : "Verify search term = \"emotional\"",
+  "time" : {
+    "start" : 1667489986483,
+    "stop" : 1667489994903,
+    "duration" : 8420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcd37fc4bd490997",
+  "name" : "Verify search term = \"master\"",
+  "time" : {
+    "start" : 1667489459814,
+    "stop" : 1667489468738,
+    "duration" : 8924
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "852d5fcc9deb532a",
+  "name" : "Verify search term = \"bussiness\"",
+  "time" : {
+    "start" : 1667489917332,
+    "stop" : 1667489917925,
+    "duration" : 593
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ac6387545420a36",
+  "name" : "Verify search term = \"youtube\"",
+  "time" : {
+    "start" : 1667490292428,
+    "stop" : 1667490297576,
+    "duration" : 5148
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "15d209cdccff8733",
+  "name" : "Verify search term = \"abstract visuals\"",
+  "time" : {
+    "start" : 1667489849119,
+    "stop" : 1667489850449,
+    "duration" : 1330
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8125c485724f825",
+  "name" : "Verify search term = \"tim burton\"",
+  "time" : {
+    "start" : 1667490255136,
+    "stop" : 1667490255549,
+    "duration" : 413
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b11240030f3ac821",
+  "name" : "Verify search term = \"woman in a dreamy scene\"",
+  "time" : {
+    "start" : 1667490288676,
+    "stop" : 1667490289209,
+    "duration" : 533
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "386c8a2a8b92efd5",
+  "name" : "Verify search term = \"cherry blossom\"",
+  "time" : {
+    "start" : 1667489929558,
+    "stop" : 1667489933429,
+    "duration" : 3871
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "41f4721a3beb87ed",
+  "name" : "Verify search term = \"overweight\"",
+  "time" : {
+    "start" : 1667489516020,
+    "stop" : 1667489520817,
+    "duration" : 4797
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27457bae94aaa0",
+  "name" : "Verify search term = \"street style\"",
+  "time" : {
+    "start" : 1667490214507,
+    "stop" : 1667490222609,
+    "duration" : 8102
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2954976e11aae6c8",
+  "name" : "Verify search term = \"domestic violence\"",
+  "time" : {
+    "start" : 1667489948929,
+    "stop" : 1667489950053,
+    "duration" : 1124
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b38be0754ac226b6",
+  "name" : "Verify search term = \"shapes\"",
+  "time" : {
+    "start" : 1667490171963,
+    "stop" : 1667490181375,
+    "duration" : 9412
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "accb94c42c2caffc",
+  "name" : "Verify search term = \"autumn leaves\"",
+  "time" : {
+    "start" : 1667489853935,
+    "stop" : 1667489862394,
+    "duration" : 8459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebbd8af0af938225",
+  "name" : "Verify search term = \"black background\"",
+  "time" : {
+    "start" : 1667489897741,
+    "stop" : 1667489908421,
+    "duration" : 10680
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2017afe7c5b5a298",
+  "name" : "Verify search term = \"pop colture\"",
+  "time" : {
+    "start" : 1667490151275,
+    "stop" : 1667490151726,
+    "duration" : 451
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "10f238019e31397e",
+  "name" : "Verify search term = \"vibing - slang\"",
+  "time" : {
+    "start" : 1667490262480,
+    "stop" : 1667490262980,
+    "duration" : 500
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "655ea3e1f3dc54bc",
+  "name" : "Verify search term = \"liquid flowing\"",
+  "time" : {
+    "start" : 1667490082386,
+    "stop" : 1667490091794,
+    "duration" : 9408
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a52743551bde81b",
+  "name" : "Verify search term = \"running water\"",
+  "time" : {
+    "start" : 1667490160229,
+    "stop" : 1667490166546,
+    "duration" : 6317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa9343b93ef8070a",
+  "name" : "Verify search term = \"spinning\"",
+  "time" : {
+    "start" : 1667489617823,
+    "stop" : 1667489627010,
+    "duration" : 9187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b14247145c563e7",
+  "name" : "Verify search term = \"homeless\"",
+  "time" : {
+    "start" : 1667490066623,
+    "stop" : 1667490073829,
+    "duration" : 7206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1aa81a3eccd3800",
+  "name" : "Verify search term = \"powerful\"",
+  "time" : {
+    "start" : 1667490151732,
+    "stop" : 1667490159713,
+    "duration" : 7981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "664128b72f864e9d",
+  "name" : "Verify search term = \"intro\"",
+  "time" : {
+    "start" : 1667489433429,
+    "stop" : 1667489442694,
+    "duration" : 9265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb05edd12bc6a90c",
+  "name" : "Verify search term = \"Eye Candy\"",
+  "time" : {
+    "start" : 1667489847629,
+    "stop" : 1667489849119,
+    "duration" : 1490
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9054fabf80943b7",
+  "name" : "Verify search term = \"tim burton\"",
+  "time" : {
+    "start" : 1667489721713,
+    "stop" : 1667489724424,
+    "duration" : 2711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a8dd8ac9ce6d002",
+  "name" : "Verify search term = \"sun flare\"",
+  "time" : {
+    "start" : 1667490231972,
+    "stop" : 1667490239580,
+    "duration" : 7608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "456edc3549094193",
+  "name" : "Verify search term = \"drone\"",
+  "time" : {
+    "start" : 1667489258091,
+    "stop" : 1667489267814,
+    "duration" : 9723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b806fe6f7f8900c1",
+  "name" : "Verify search term = \"black & white\"",
+  "time" : {
+    "start" : 1667489890228,
+    "stop" : 1667489897740,
+    "duration" : 7512
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a61ef95cf72b5218",
+  "name" : "Verify search term = \"tecnology\"",
+  "time" : {
+    "start" : 1667489698938,
+    "stop" : 1667489704229,
+    "duration" : 5291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8178fcb7eb7caec",
+  "name" : "Verify search term = \"running water\"",
+  "time" : {
+    "start" : 1667489552206,
+    "stop" : 1667489563097,
+    "duration" : 10891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d5378ac17242695",
+  "name" : "Verify search term = \"intro\"",
+  "time" : {
+    "start" : 1667490076209,
+    "stop" : 1667490079734,
+    "duration" : 3525
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "44761026b6cbed76",
+  "name" : "Verify search term = \"woman in a dreamy scene\"",
+  "time" : {
+    "start" : 1667489793816,
+    "stop" : 1667489822491,
+    "duration" : 28675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fef34191c924425",
+  "name" : "Verify search term = \"amazing view/scenery\"",
+  "time" : {
+    "start" : 1667489037605,
+    "stop" : 1667489049916,
+    "duration" : 12311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b735739f9a41400",
+  "name" : "Verify search term = \"golden hour\"",
+  "time" : {
+    "start" : 1667489357641,
+    "stop" : 1667489367814,
+    "duration" : 10173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1505bc6590c0c3a1",
+  "name" : "Verify search term = \"amazing view/scenery\"",
+  "time" : {
+    "start" : 1667489850452,
+    "stop" : 1667489851570,
+    "duration" : 1118
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "56d82fc76944e427",
+  "name" : "Verify search term = \"green leaves\"",
+  "time" : {
+    "start" : 1667490038348,
+    "stop" : 1667490046105,
+    "duration" : 7757
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a8659fe597d3622",
+  "name" : "Verify search term = \"earth\"",
+  "time" : {
+    "start" : 1667489966637,
+    "stop" : 1667489975599,
+    "duration" : 8962
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7340d54201ae95a4",
+  "name" : "Verify search term = \"vj\"",
+  "time" : {
+    "start" : 1667490262982,
+    "stop" : 1667490269469,
+    "duration" : 6487
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aafcb924a1fe2a81",
+  "name" : "Verify search term = \"war zone\"",
+  "time" : {
+    "start" : 1667490272844,
+    "stop" : 1667490275644,
+    "duration" : 2800
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "26f0d839d811f465",
+  "name" : "Verify search term = \"domestic violence\"",
+  "time" : {
+    "start" : 1667489243997,
+    "stop" : 1667489246226,
+    "duration" : 2229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1547a1c8c1ab4368",
+  "name" : "Verify search term = \"cinematic shot\"",
+  "time" : {
+    "start" : 1667489933431,
+    "stop" : 1667489935424,
+    "duration" : 1993
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac7db3cdce2ed255",
+  "name" : "Verify search term = \"holding hands\"",
+  "time" : {
+    "start" : 1667490055714,
+    "stop" : 1667490066621,
+    "duration" : 10907
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d551a42b595568",
+  "name" : "Verify search term = \"sustainability\"",
+  "time" : {
+    "start" : 1667490239581,
+    "stop" : 1667490241448,
+    "duration" : 1867
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a564da20fac5756",
+  "name" : "Verify search term = \"tea pot\"",
+  "time" : {
+    "start" : 1667489678740,
+    "stop" : 1667489689830,
+    "duration" : 11090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdad0a576109a567",
+  "name" : "Verify search term = \"goosebumps\"",
+  "time" : {
+    "start" : 1667489373321,
+    "stop" : 1667489375422,
+    "duration" : 2101
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a39b6bd2f08a90f4",
+  "name" : "Verify search term = \"artgrid\"",
+  "time" : {
+    "start" : 1667489049918,
+    "stop" : 1667489059955,
+    "duration" : 10037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee3a9ab17d13f936",
+  "name" : "Verify search term = \"mobile\"",
+  "time" : {
+    "start" : 1667490098339,
+    "stop" : 1667490109502,
+    "duration" : 11163
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "753512735224961b",
+  "name" : "Verify search term = \"spaceship\"",
+  "time" : {
+    "start" : 1667490205270,
+    "stop" : 1667490207098,
+    "duration" : 1828
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d93a6ad122cf37",
+  "name" : "Verify search term = \"modern dance\"",
+  "time" : {
+    "start" : 1667489485712,
+    "stop" : 1667489495303,
+    "duration" : 9591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdee8eb51af92acf",
+  "name" : "Verify search term = \"earth\"",
+  "time" : {
+    "start" : 1667489267815,
+    "stop" : 1667489277406,
+    "duration" : 9591
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae7759fd35cde9db",
+  "name" : "Verify search term = \"slow motion\"",
+  "time" : {
+    "start" : 1667489581913,
+    "stop" : 1667489590830,
+    "duration" : 8917
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f959af5b681dc28",
+  "name" : "Verify search term = \"reverb\"",
+  "time" : {
+    "start" : 1667489542957,
+    "stop" : 1667489552202,
+    "duration" : 9245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16bbab73c6f49d89",
+  "name" : "Verify search term = \"stunning view/scenery\"",
+  "time" : {
+    "start" : 1667490222614,
+    "stop" : 1667490223416,
+    "duration" : 802
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "61550077f0e8a6a5",
+  "name" : "Verify search term = \"war zone\"",
+  "time" : {
+    "start" : 1667489759502,
+    "stop" : 1667489763407,
+    "duration" : 3905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d508a44ec82e3ac3",
+  "name" : "Verify search term = \"tiktok\"",
+  "time" : {
+    "start" : 1667490251945,
+    "stop" : 1667490255124,
+    "duration" : 3179
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6363919716737236",
+  "name" : "Verify search term = \"lights in a tunnel\"",
+  "time" : {
+    "start" : 1667489442697,
+    "stop" : 1667489451493,
+    "duration" : 8796
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58245f1ce6791640",
+  "name" : "Verify search term = \"having fun\"",
+  "time" : {
+    "start" : 1667489393615,
+    "stop" : 1667489404083,
+    "duration" : 10468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b927adcf585dc5d",
+  "name" : "Verify search term = \"muscle\"",
+  "time" : {
+    "start" : 1667489495305,
+    "stop" : 1667489504509,
+    "duration" : 9204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5488d8fe198356c1",
+  "name" : "Verify search term = \"black background\"",
+  "time" : {
+    "start" : 1667489136905,
+    "stop" : 1667489146377,
+    "duration" : 9472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7c862941c987461",
+  "name" : "Verify search term = \"drone\"",
+  "time" : {
+    "start" : 1667489958599,
+    "stop" : 1667489966636,
+    "duration" : 8037
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f075568c5dafd08",
+  "name" : "Verify search term = \"wandering city\"",
+  "time" : {
+    "start" : 1667490269470,
+    "stop" : 1667490272843,
+    "duration" : 3373
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "76a0849b4e32f27f",
+  "name" : "Verify search term = \"having fun\"",
+  "time" : {
+    "start" : 1667490046106,
+    "stop" : 1667490055713,
+    "duration" : 9607
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "78088e5b2043e637",
+  "name" : "Verify search term = \"big size model\"",
+  "time" : {
+    "start" : 1667489872213,
+    "stop" : 1667489872823,
+    "duration" : 610
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b9e3bb5abc34cc8",
+  "name" : "Verify search term = \"old school\"",
+  "time" : {
+    "start" : 1667489504511,
+    "stop" : 1667489516018,
+    "duration" : 11507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6baea18e451398d",
+  "name" : "Verify search term = \"abstract visuals\"",
+  "time" : {
+    "start" : 1667489025747,
+    "stop" : 1667489037604,
+    "duration" : 11857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4c878371a5d299e",
+  "name" : "Verify search term = \"divine\"",
+  "time" : {
+    "start" : 1667489947419,
+    "stop" : 1667489948434,
+    "duration" : 1015
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb5ea70450c34043",
+  "name" : "Verify search term = \"park\"",
+  "time" : {
+    "start" : 1667489520818,
+    "stop" : 1667489530001,
+    "duration" : 9183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2cb5d1d7872ab10",
+  "name" : "Verify search term = \"wireframe\"",
+  "time" : {
+    "start" : 1667489773700,
+    "stop" : 1667489783731,
+    "duration" : 10031
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6540c441d07f9837",
+  "name" : "Verify search term = \"fast car\"",
+  "time" : {
+    "start" : 1667489319213,
+    "stop" : 1667489329993,
+    "duration" : 10780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30977367e9b33233",
+  "name" : "Verify search term = \"bird eye\"",
+  "time" : {
+    "start" : 1667489107340,
+    "stop" : 1667489118517,
+    "duration" : 11177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e121a881354bf8fc",
+  "name" : "Verify search term = \"valetines\"",
+  "time" : {
+    "start" : 1667490261967,
+    "stop" : 1667490262479,
+    "duration" : 512
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6221f4bdddfe1951",
+  "name" : "Verify search term = \"beauty shot\"",
+  "time" : {
+    "start" : 1667489074810,
+    "stop" : 1667489083904,
+    "duration" : 9094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d000c259161e7b00",
+  "name" : "Verify search term = \"documentary of domestic animals\"",
+  "time" : {
+    "start" : 1667489948437,
+    "stop" : 1667489948922,
+    "duration" : 485
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1c22e2186d06519",
+  "name" : "Verify search term = \"woman falling with colorful light\"",
+  "time" : {
+    "start" : 1667489783733,
+    "stop" : 1667489793809,
+    "duration" : 10076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58a30a6f100354f2",
+  "name" : "Verify search term = \"lights in a tunnel\"",
+  "time" : {
+    "start" : 1667490079737,
+    "stop" : 1667490082385,
+    "duration" : 2648
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9668875f8469249b",
+  "name" : "Verify search term = \"emotional\"",
+  "time" : {
+    "start" : 1667489298390,
+    "stop" : 1667489309514,
+    "duration" : 11124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d71dae2dc851962",
+  "name" : "Verify search term = \"mobile\"",
+  "time" : {
+    "start" : 1667489476942,
+    "stop" : 1667489485712,
+    "duration" : 8770
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeb599a64a57ea9c",
+  "name" : "Verify search term = \"effort\"",
+  "time" : {
+    "start" : 1667489975601,
+    "stop" : 1667489985006,
+    "duration" : 9405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e6c79e822dd6735",
+  "name" : "Verify search term = \"black\"",
+  "time" : {
+    "start" : 1667489118519,
+    "stop" : 1667489125942,
+    "duration" : 7423
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6370441fe40bec17",
+  "name" : "Verify search term = \"yellow cab\"",
+  "time" : {
+    "start" : 1667489832909,
+    "stop" : 1667489838136,
+    "duration" : 5227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8456336672fba4c8",
+  "name" : "Verify search term = \"woman falling with colorful light\"",
+  "time" : {
+    "start" : 1667490288109,
+    "stop" : 1667490288673,
+    "duration" : 564
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a546136f8c1544",
+  "name" : "Verify search term = \"big empty space\"",
+  "time" : {
+    "start" : 1667489094619,
+    "stop" : 1667489104818,
+    "duration" : 10199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36ea02cd6b0b2e48",
+  "name" : "Verify search term = \"busy\"",
+  "time" : {
+    "start" : 1667489917930,
+    "stop" : 1667489925766,
+    "duration" : 7836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b76d6a082b8f6d8a",
+  "name" : "Verify search term = \"wind blowing\"",
+  "time" : {
+    "start" : 1667490275645,
+    "stop" : 1667490287168,
+    "duration" : 11523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "254676ffe9494aaa",
+  "name" : "Verify search term = \"reverb\"",
+  "time" : {
+    "start" : 1667490159716,
+    "stop" : 1667490160228,
+    "duration" : 512
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "754f232d863b958b",
+  "name" : "Verify search term = \"focus change\"",
+  "time" : {
+    "start" : 1667490014341,
+    "stop" : 1667490021735,
+    "duration" : 7394
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e5aa2d02137e19",
+  "name" : "Verify search term = \"challenge\"",
+  "time" : {
+    "start" : 1667489925768,
+    "stop" : 1667489929555,
+    "duration" : 3787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7e91c9944cf89d1",
+  "name" : "Verify search term = \"empty train\"",
+  "time" : {
+    "start" : 1667489309516,
+    "stop" : 1667489319212,
+    "duration" : 9696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d7128ee9852cdc0",
+  "name" : "Verify search term = \"working out at home\"",
+  "time" : {
+    "start" : 1667489822493,
+    "stop" : 1667489832905,
+    "duration" : 10412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2d9ff1ef6d73d39",
+  "name" : "Verify search term = \"Eye Candy\"",
+  "time" : {
+    "start" : 1667489022621,
+    "stop" : 1667489025745,
+    "duration" : 3124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "943f9befede71d48",
+  "name" : "Verify search term = \"bussiness\"",
+  "time" : {
+    "start" : 1667489158800,
+    "stop" : 1667489161042,
+    "duration" : 2242
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ad7d811d1bfba63",
+  "name" : "Verify search term = \"school bus\"",
+  "time" : {
+    "start" : 1667489563099,
+    "stop" : 1667489570931,
+    "duration" : 7832
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84bfe803ea53cc98",
+  "name" : "Verify search term = \"graphical loop\"",
+  "time" : {
+    "start" : 1667490036268,
+    "stop" : 1667490038339,
+    "duration" : 2071
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "32fd13ebe2fff69e",
+  "name" : "Verify search term = \"master\"",
+  "time" : {
+    "start" : 1667490091796,
+    "stop" : 1667490097652,
+    "duration" : 5856
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "90f1805cac2711a3",
+  "name" : "Verify search term = \"liquid flowing\"",
+  "time" : {
+    "start" : 1667489451495,
+    "stop" : 1667489459812,
+    "duration" : 8317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "773d9f4c841e3923",
+  "name" : "Verify search term = \"fast car\"",
+  "time" : {
+    "start" : 1667489998937,
+    "stop" : 1667490003539,
+    "duration" : 4602
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e075ba52df4fc93e",
+  "name" : "Verify search term = \"tribal\"",
+  "time" : {
+    "start" : 1667490256140,
+    "stop" : 1667490261965,
+    "duration" : 5825
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "23d99cd600d1d7bd",
+  "name" : "Verify search term = \"google\"",
+  "time" : {
+    "start" : 1667490035336,
+    "stop" : 1667490035756,
+    "duration" : 420
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "38e06a8dfcf4fb5a",
+  "name" : "Verify search term = \"empty train\"",
+  "time" : {
+    "start" : 1667489994905,
+    "stop" : 1667489998936,
+    "duration" : 4031
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1796c29980660483",
+  "name" : "Verify search term = \"focus change\"",
+  "time" : {
+    "start" : 1667489339633,
+    "stop" : 1667489348903,
+    "duration" : 9270
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "650fec0bd640651e",
+  "name" : "Verify search term = \"gender fluid\"",
+  "time" : {
+    "start" : 1667489350013,
+    "stop" : 1667489357634,
+    "duration" : 7621
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37df9483a291cf66",
+  "name" : "Verify search term = \"black & white\"",
+  "time" : {
+    "start" : 1667489125943,
+    "stop" : 1667489136901,
+    "duration" : 10958
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "767485d6ff6ee71",
+  "name" : "Verify search term = \"effort\"",
+  "time" : {
+    "start" : 1667489277408,
+    "stop" : 1667489289415,
+    "duration" : 12007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fefdd66fa0b07779",
+  "name" : "Verify search term = \"snack\"",
+  "time" : {
+    "start" : 1667489590833,
+    "stop" : 1667489599901,
+    "duration" : 9068
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2fc20d007819331",
+  "name" : "Verify search term = \"google\"",
+  "time" : {
+    "start" : 1667489370342,
+    "stop" : 1667489373320,
+    "duration" : 2978
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "398b1b2f9a477430",
+  "name" : "Verify search term = \"fool around  slang\"",
+  "time" : {
+    "start" : 1667489348904,
+    "stop" : 1667489350013,
+    "duration" : 1109
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb349284f18f49c6",
+  "name" : "Verify search term = \"shapes\"",
+  "time" : {
+    "start" : 1667489573308,
+    "stop" : 1667489581913,
+    "duration" : 8605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ec58e3aed5d6205",
+  "name" : "Verify search term = \"bird eye\"",
+  "time" : {
+    "start" : 1667489872825,
+    "stop" : 1667489881868,
+    "duration" : 9043
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60300c5f38999f87",
+  "name" : "Verify search term = \"challenge\"",
+  "time" : {
+    "start" : 1667489171823,
+    "stop" : 1667489175367,
+    "duration" : 3544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4ebd827c2e02014",
+  "name" : "Verify search term = \"commercial vibe\"",
+  "time" : {
+    "start" : 1667489944719,
+    "stop" : 1667489945072,
+    "duration" : 353
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8e4872294d6b95a",
+  "name" : "Verify search term = \"innocent\"",
+  "time" : {
+    "start" : 1667489428947,
+    "stop" : 1667489433427,
+    "duration" : 4480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0f97953cef31b32",
+  "name" : "Verify search term = \"black children\"",
+  "time" : {
+    "start" : 1667489146379,
+    "stop" : 1667489158799,
+    "duration" : 12420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "219b50dbb6ed6cd2",
+  "name" : "Verify search term = \"goofing around  - slang\"",
+  "time" : {
+    "start" : 1667489367815,
+    "stop" : 1667489370341,
+    "duration" : 2526
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "552436ee7d22bd6c",
+  "name" : "Verify search term = \"fool around  slang\"",
+  "time" : {
+    "start" : 1667490021739,
+    "stop" : 1667490022176,
+    "duration" : 437
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d1ba835f7c36865",
+  "name" : "Verify search term = \"sun flare\"",
+  "time" : {
+    "start" : 1667489658732,
+    "stop" : 1667489667424,
+    "duration" : 8692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6eb43384b1eb4cd",
+  "name" : "Verify search term = \"techno\"",
+  "time" : {
+    "start" : 1667490244027,
+    "stop" : 1667490248725,
+    "duration" : 4698
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "27e8d88534945eb8",
+  "name" : "Verify search term = \"sustainability\"",
+  "time" : {
+    "start" : 1667489667426,
+    "stop" : 1667489678738,
+    "duration" : 11312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "343e71f0f2534f25",
+  "name" : "Verify search term = \"cyberpunk\"",
+  "time" : {
+    "start" : 1667489945073,
+    "stop" : 1667489947418,
+    "duration" : 2345
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c23ff3859477f8f",
+  "name" : "Verify search term = \"graphical loop\"",
+  "time" : {
+    "start" : 1667489375423,
+    "stop" : 1667489383299,
+    "duration" : 7876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8ef0a265a75196d",
+  "name" : "Verify search term = \"cyberpunk\"",
+  "time" : {
+    "start" : 1667489223622,
+    "stop" : 1667489232600,
+    "duration" : 8978
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba210f7f5dc4732f",
+  "name" : "Verify search term = \"busy\"",
+  "time" : {
+    "start" : 1667489161042,
+    "stop" : 1667489171820,
+    "duration" : 10778
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "936b2a4da00bcf63",
+  "name" : "Verify search term = \"egg white\"",
+  "time" : {
+    "start" : 1667489985007,
+    "stop" : 1667489986477,
+    "duration" : 1470
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a98eeff5dd1deb9f",
+  "name" : "Verify search term = \"climate change\"",
+  "time" : {
+    "start" : 1667489195525,
+    "stop" : 1667489205502,
+    "duration" : 9977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6321211fa0ec42a",
+  "name" : "Verify search term = \"beyonce\"",
+  "time" : {
+    "start" : 1667489871108,
+    "stop" : 1667489871722,
+    "duration" : 614
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

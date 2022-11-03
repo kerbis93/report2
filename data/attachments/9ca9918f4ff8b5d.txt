@@ -1,0 +1,158 @@
+[
+  {
+    "storyId": 27640,
+    "name": "Milkshake, Strawberry, Studio, Photography",
+    "clip_id": "483623",
+    "order": 0
+  },
+  {
+    "storyId": 27640,
+    "name": "Milkshake, Strawberry, Studio, Photography",
+    "clip_id": "483624",
+    "order": 1
+  },
+  {
+    "storyId": 27640,
+    "name": "Dried Flowers, Vase, Studio, Photography",
+    "clip_id": "483625",
+    "order": 2
+  },
+  {
+    "storyId": 27640,
+    "name": "Milkshake, Strawberry, Studio, Photography",
+    "clip_id": "483622",
+    "order": 3
+  },
+  {
+    "storyId": 27640,
+    "name": "Cotton Flowers, Studio, Photography, Dry",
+    "clip_id": "483627",
+    "order": 4
+  },
+  {
+    "storyId": 27640,
+    "name": "Cotton Flowers, Studio, Photography, Dry",
+    "clip_id": "483626",
+    "order": 5
+  },
+  {
+    "storyId": 27640,
+    "name": "Dried Phalaris Grass, Studio, Photography, Eye Candy",
+    "clip_id": "483613",
+    "order": 6
+  },
+  {
+    "storyId": 27640,
+    "name": "Vase, Dried Flowers, Studio, Shooting",
+    "clip_id": "483617",
+    "order": 7
+  },
+  {
+    "storyId": 27640,
+    "name": "Studio, Photography, Eye Candy, Vase",
+    "clip_id": "483610",
+    "order": 8
+  },
+  {
+    "storyId": 27640,
+    "name": "Dried Phalaris Grass, Studio, Photography, Eye Candy",
+    "clip_id": "483612",
+    "order": 9
+  },
+  {
+    "storyId": 27640,
+    "name": "Studio, Shooting, Still Life, Dry Flowers",
+    "clip_id": "483621",
+    "order": 10
+  },
+  {
+    "storyId": 27640,
+    "name": "Dry Grains, Studio, Photography, Eye Candy",
+    "clip_id": "483609",
+    "order": 11
+  },
+  {
+    "storyId": 27640,
+    "name": "Dry Flowers, Studio, Photography, Eye Candy",
+    "clip_id": "483620",
+    "order": 12
+  },
+  {
+    "storyId": 27640,
+    "name": "Dry Grains, Vase, Studio, Photography",
+    "clip_id": "483606",
+    "order": 13
+  },
+  {
+    "storyId": 27640,
+    "name": "Dry Flowers, Still Life, Studio, Photography",
+    "clip_id": "483619",
+    "order": 14
+  },
+  {
+    "storyId": 27640,
+    "name": "Dry Grains, Studio, Photography, Vase",
+    "clip_id": "483608",
+    "order": 15
+  },
+  {
+    "storyId": 27640,
+    "name": "Dried Phalaris Grass, Studio, Photography, Eye Candy",
+    "clip_id": "483611",
+    "order": 16
+  },
+  {
+    "storyId": 27640,
+    "name": "Dry Grains, Vase, Studio, Photography",
+    "clip_id": "483607",
+    "order": 17
+  },
+  {
+    "storyId": 27640,
+    "name": "Textile, Studio, Photography, Eye Candy",
+    "clip_id": "483629",
+    "order": 18
+  },
+  {
+    "storyId": 27640,
+    "name": "Vase, Dried Flowers, Studio, Shooting",
+    "clip_id": "483615",
+    "order": 19
+  },
+  {
+    "storyId": 27640,
+    "name": "Dried Flowers, Studio, Shooting, Still Life",
+    "clip_id": "483614",
+    "order": 20
+  },
+  {
+    "storyId": 27640,
+    "name": "Vase, Dried Flowers, Studio, Shooting",
+    "clip_id": "483616",
+    "order": 21
+  },
+  {
+    "storyId": 27640,
+    "name": "Vase, Dried Flowers, Studio, Shooting",
+    "clip_id": "483618",
+    "order": 22
+  },
+  {
+    "storyId": 27640,
+    "name": "Pebbles, Seashell, Studio, Photography",
+    "clip_id": "483632",
+    "order": 23
+  },
+  {
+    "storyId": 27640,
+    "name": "Textile, Pebbles, Seashell, Studio",
+    "clip_id": "483631",
+    "order": 24
+  },
+  {
+    "storyId": 27640,
+    "name": "Textile, Studio, Photography, Eye Candy",
+    "clip_id": "483628",
+    "order": 25
+  }
+]

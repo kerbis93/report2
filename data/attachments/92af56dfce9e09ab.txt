@@ -1,0 +1,2402 @@
+[
+  {
+    "storyId": 27982,
+    "name": "Berries, Coffee Beans, Colombia, Plant",
+    "clip_id": "495571",
+    "order": 0
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Berries, Plant, Harvesting",
+    "clip_id": "495579",
+    "order": 1
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Beans, Ripe, Crop, Berries",
+    "clip_id": "495595",
+    "order": 2
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Berries, Farmer, Harvesting",
+    "clip_id": "495564",
+    "order": 3
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Berries, Berries, Crop Basket, Produce",
+    "clip_id": "495592",
+    "order": 4
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Berries, Picking, Colombia, Coffee Beans",
+    "clip_id": "495563",
+    "order": 5
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Harvesting, Coffee Beans, Berries",
+    "clip_id": "495566",
+    "order": 6
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Harvesting, Coffee Beans, Berries",
+    "clip_id": "495572",
+    "order": 7
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Plant, Coffee Beans, Berries",
+    "clip_id": "495569",
+    "order": 8
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Plant, Crop, Coffee Beans",
+    "clip_id": "495570",
+    "order": 9
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Makineta, Cup, Berries",
+    "clip_id": "286676",
+    "order": 10
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Picking, Berries",
+    "clip_id": "495588",
+    "order": 11
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Picking, Berries",
+    "clip_id": "495586",
+    "order": 12
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Farmer, Picking, Coffee Plants",
+    "clip_id": "495587",
+    "order": 13
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmer, Picking",
+    "clip_id": "495597",
+    "order": 14
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmers, Workers",
+    "clip_id": "495594",
+    "order": 15
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Coffee Plants, Picking",
+    "clip_id": "495589",
+    "order": 16
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Bean, Holding, Farmer, Plant",
+    "clip_id": "495614",
+    "order": 17
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Farmer, Berries, Plantation",
+    "clip_id": "495568",
+    "order": 18
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Berries, Farmer",
+    "clip_id": "495576",
+    "order": 19
+  },
+  {
+    "storyId": 27982,
+    "name": "Harvesting, Picking, Crop, Coffee Beans",
+    "clip_id": "495562",
+    "order": 20
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Picking, Coffee Beans, Berries",
+    "clip_id": "495577",
+    "order": 21
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Berries, Plantation",
+    "clip_id": "495578",
+    "order": 22
+  },
+  {
+    "storyId": 27982,
+    "name": "Peel, Coffee Bean, Hands, Ripe",
+    "clip_id": "495591",
+    "order": 23
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmer, Picking",
+    "clip_id": "495596",
+    "order": 24
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Plants, Plantation, Picking, Farmer",
+    "clip_id": "495590",
+    "order": 25
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmers, Workers",
+    "clip_id": "495593",
+    "order": 26
+  },
+  {
+    "storyId": 18706,
+    "name": "Cinemagraph, Croissant, Pastry, Coffee",
+    "clip_id": "208671",
+    "order": 27
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Coffee Tree, Leaves, Fruit",
+    "clip_id": "414721",
+    "order": 28
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Picking, Harvesting, Coffee Beans",
+    "clip_id": "495574",
+    "order": 29
+  },
+  {
+    "storyId": 11722,
+    "name": "tropical fruit growing on a green tree in jungle",
+    "clip_id": "42772",
+    "order": 30
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Coffee Tree, Leaves, Fruit",
+    "clip_id": "414722",
+    "order": 31
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Farmer, Coffee Plants, Picking",
+    "clip_id": "495585",
+    "order": 32
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Fruit, Picking, Hands",
+    "clip_id": "414742",
+    "order": 33
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Coffee Tree, Leaves, Fruit",
+    "clip_id": "414723",
+    "order": 34
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Coffee Beans, Picking",
+    "clip_id": "495573",
+    "order": 35
+  },
+  {
+    "storyId": 22393,
+    "name": "Peppercorns, Mortar And Pestle, Flying, Black Pepper",
+    "clip_id": "323211",
+    "order": 36
+  },
+  {
+    "storyId": 18706,
+    "name": "Cinemagraph, Breakfast, Coffee, Croissant",
+    "clip_id": "208682",
+    "order": 37
+  },
+  {
+    "storyId": 20462,
+    "name": "Flower, Plant, Red, Black",
+    "clip_id": "259775",
+    "order": 38
+  },
+  {
+    "storyId": 22393,
+    "name": "Peppercorns, Flying, Spoon, Wooden Spoon",
+    "clip_id": "323214",
+    "order": 39
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Handful, Esspresso",
+    "clip_id": "284917",
+    "order": 40
+  },
+  {
+    "storyId": 20906,
+    "name": "Berry, Berry, Blue, Blue",
+    "clip_id": "273727",
+    "order": 41
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee beans bumping into each other in the air",
+    "clip_id": "38331",
+    "order": 42
+  },
+  {
+    "storyId": 22393,
+    "name": "Peppercorns, Flying, Spoon, Falling",
+    "clip_id": "323215",
+    "order": 43
+  },
+  {
+    "storyId": 22393,
+    "name": "Peppercorns, Spoon, Flying, Falling",
+    "clip_id": "323213",
+    "order": 44
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Hazelnut, Ingredient, Dropping",
+    "clip_id": "295827",
+    "order": 45
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Spilling, Brown",
+    "clip_id": "386342",
+    "order": 46
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Brown Chocolate, Dropping, Ingredient",
+    "clip_id": "295813",
+    "order": 47
+  },
+  {
+    "storyId": 12198,
+    "name": "close up a few coffee beans on a table",
+    "clip_id": "50398",
+    "order": 48
+  },
+  {
+    "storyId": 12861,
+    "name": "brown coffee beans on counter",
+    "clip_id": "60909",
+    "order": 49
+  },
+  {
+    "storyId": 12198,
+    "name": "brown coffee beans mixed around in a grinder ",
+    "clip_id": "50375",
+    "order": 50
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee Beans, Coffee, Esspresso, Caffeine",
+    "clip_id": "284916",
+    "order": 51
+  },
+  {
+    "storyId": 12882,
+    "name": "olives falling and dropping into funnel",
+    "clip_id": "61235",
+    "order": 52
+  },
+  {
+    "storyId": 11541,
+    "name": "brown coffee beans flying into each other in the air",
+    "clip_id": "38333",
+    "order": 53
+  },
+  {
+    "storyId": 24586,
+    "name": "Holly, Berries, Wet, Red",
+    "clip_id": "387699",
+    "order": 54
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "284919",
+    "order": 55
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Strainer, Ground, Picking",
+    "clip_id": "414718",
+    "order": 56
+  },
+  {
+    "storyId": 22393,
+    "name": "Peppercorns, Mortar And Pestle, Flying, Dry Pepper",
+    "clip_id": "323217",
+    "order": 57
+  },
+  {
+    "storyId": 28376,
+    "name": "Tribal, Red, Beads, Bowls",
+    "clip_id": "506433",
+    "order": 58
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Picking, Coffee Farm, Hand",
+    "clip_id": "414745",
+    "order": 59
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Branch, Coffee Farm, Fruit",
+    "clip_id": "414710",
+    "order": 60
+  },
+  {
+    "storyId": 17582,
+    "name": "Coffee-Beans, Roasted, Flying, Tossed",
+    "clip_id": "173348",
+    "order": 61
+  },
+  {
+    "storyId": 27309,
+    "name": "Pepper, Salt, Spices, Granules",
+    "clip_id": "421111",
+    "order": 62
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans moving around on a table",
+    "clip_id": "50399",
+    "order": 63
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Branch, Hands, Leaves",
+    "clip_id": "414715",
+    "order": 64
+  },
+  {
+    "storyId": 11541,
+    "name": "roasted coffee beans bumping into each other",
+    "clip_id": "38332",
+    "order": 65
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Plantation, Harvesting",
+    "clip_id": "495575",
+    "order": 66
+  },
+  {
+    "storyId": 16575,
+    "name": "light roast coffee beans smoking",
+    "clip_id": "144468",
+    "order": 67
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295858",
+    "order": 68
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee, Beans, Roasted, Pile",
+    "clip_id": "433548",
+    "order": 69
+  },
+  {
+    "storyId": 24838,
+    "name": "Leaves, Berries, Red, Fruits",
+    "clip_id": "397756",
+    "order": 70
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Cup, Esspresso",
+    "clip_id": "284908",
+    "order": 71
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323180",
+    "order": 72
+  },
+  {
+    "storyId": 14827,
+    "name": "pile of coffee beans moving",
+    "clip_id": "102411",
+    "order": 73
+  },
+  {
+    "storyId": 24586,
+    "name": "Berries, Growing, Twig, Branch",
+    "clip_id": "387676",
+    "order": 74
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Capsules, Espresso, Pod",
+    "clip_id": "360545",
+    "order": 75
+  },
+  {
+    "storyId": 14714,
+    "name": "roasted coffee beans dropping into a larger batch extreme slow-motion",
+    "clip_id": "99208",
+    "order": 76
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee Beans, Roasting, Traditional, Coffee Roaster",
+    "clip_id": "495673",
+    "order": 77
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Hazelnut, Falling, Caffeine",
+    "clip_id": "295823",
+    "order": 78
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee Beans, Roasted, Coffee, Flying",
+    "clip_id": "323200",
+    "order": 79
+  },
+  {
+    "storyId": 14642,
+    "name": "Coffee, Kitchen, Beans, Chef",
+    "clip_id": "97272",
+    "order": 80
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans poured into a pile",
+    "clip_id": "50352",
+    "order": 81
+  },
+  {
+    "storyId": 26912,
+    "name": "Almonds, Explosion, Phantom, Fly",
+    "clip_id": "462117",
+    "order": 82
+  },
+  {
+    "storyId": 25073,
+    "name": "Berry, Flowers, Fruits, Nature",
+    "clip_id": "404279",
+    "order": 83
+  },
+  {
+    "storyId": 16575,
+    "name": "coffee beans roasting with smoke rising",
+    "clip_id": "144473",
+    "order": 84
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee Beans, Caffeine, Coffee, Beans",
+    "clip_id": "433516",
+    "order": 85
+  },
+  {
+    "storyId": 14827,
+    "name": "person scooping coffee beans by hand",
+    "clip_id": "102408",
+    "order": 86
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240143",
+    "order": 87
+  },
+  {
+    "storyId": 11077,
+    "name": "cherries resting on banana leaf",
+    "clip_id": "24460",
+    "order": 88
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans spinning in front of furnace in dim room",
+    "clip_id": "64092",
+    "order": 89
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Tour, Picking, Coffee Beans, Coffee Farm",
+    "clip_id": "414717",
+    "order": 90
+  },
+  {
+    "storyId": 24586,
+    "name": "Berries, Growing, Twig, Branch",
+    "clip_id": "387677",
+    "order": 91
+  },
+  {
+    "storyId": 26654,
+    "name": "Coffee, Beans, Pouring, Caffeine",
+    "clip_id": "454264",
+    "order": 92
+  },
+  {
+    "storyId": 14827,
+    "name": "coffee beans being poured into a batch",
+    "clip_id": "102412",
+    "order": 93
+  },
+  {
+    "storyId": 12198,
+    "name": "Brown roasted coffee beans ",
+    "clip_id": "50381",
+    "order": 94
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246219",
+    "order": 95
+  },
+  {
+    "storyId": 29681,
+    "name": "3D, Balls, Rolling, Circles",
+    "clip_id": "543346",
+    "order": 96
+  },
+  {
+    "storyId": 10889,
+    "name": "Olives on an olive tree branch",
+    "clip_id": "18824",
+    "order": 97
+  },
+  {
+    "storyId": 11077,
+    "name": "water splashes on cherries ",
+    "clip_id": "24468",
+    "order": 98
+  },
+  {
+    "storyId": 16575,
+    "name": "brown coffee beans with smoke rising",
+    "clip_id": "144476",
+    "order": 99
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Esspresso, Caffeine",
+    "clip_id": "284918",
+    "order": 100
+  },
+  {
+    "storyId": 14762,
+    "name": "coffee beans flying up and falling back down ",
+    "clip_id": "100424",
+    "order": 101
+  },
+  {
+    "storyId": 24838,
+    "name": "Leaves, Berries, Fruits, Flowers",
+    "clip_id": "397758",
+    "order": 102
+  },
+  {
+    "storyId": 14827,
+    "name": "pile of coffee beans being poured",
+    "clip_id": "102410",
+    "order": 103
+  },
+  {
+    "storyId": 16575,
+    "name": "smoke rising from roasting coffee beans\n\n",
+    "clip_id": "144470",
+    "order": 104
+  },
+  {
+    "storyId": 12198,
+    "name": "close up of coffee beans falling onto a display",
+    "clip_id": "50395",
+    "order": 105
+  },
+  {
+    "storyId": 26033,
+    "name": "Roasted, Pile, Falling, Brown",
+    "clip_id": "433557",
+    "order": 106
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Caffeine, Ingredient, Falling",
+    "clip_id": "295817",
+    "order": 107
+  },
+  {
+    "storyId": 27089,
+    "name": "Plants, Budding, Buds, Leaves",
+    "clip_id": "467495",
+    "order": 108
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Caffeine, Fruit, Flowers",
+    "clip_id": "295821",
+    "order": 109
+  },
+  {
+    "storyId": 14827,
+    "name": "coffee beans moving in a grinder with a filter",
+    "clip_id": "102414",
+    "order": 110
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans thrown into the air rack-focus",
+    "clip_id": "81145",
+    "order": 111
+  },
+  {
+    "storyId": 14827,
+    "name": "coffee beans in a grinder with a filter",
+    "clip_id": "102413",
+    "order": 112
+  },
+  {
+    "storyId": 22393,
+    "name": "Flying, Beauty Shot, Red Pepper, Mortar And Pestle",
+    "clip_id": "323216",
+    "order": 113
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Beans",
+    "clip_id": "286851",
+    "order": 114
+  },
+  {
+    "storyId": 18936,
+    "name": "Breakfast, Cereal, Colorful, Sweet",
+    "clip_id": "215214",
+    "order": 115
+  },
+  {
+    "storyId": 16051,
+    "name": "spoon being thrown into a bowl of colorful cereal and making a mess",
+    "clip_id": "129629",
+    "order": 116
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Picking, Branch, Fingers",
+    "clip_id": "414744",
+    "order": 117
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Roasted, Pile, Falling",
+    "clip_id": "433554",
+    "order": 118
+  },
+  {
+    "storyId": 27090,
+    "name": "Red, Floribunda, Rose, Flower",
+    "clip_id": "467506",
+    "order": 119
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee beans flying into each other in the air",
+    "clip_id": "38330",
+    "order": 120
+  },
+  {
+    "storyId": 12198,
+    "name": "industrial grinder turning around coffee beans inside",
+    "clip_id": "50372",
+    "order": 121
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans exploding in the air rack-focus",
+    "clip_id": "81142",
+    "order": 122
+  },
+  {
+    "storyId": 17812,
+    "name": "Flora, Fruit, Agriculture, Forest",
+    "clip_id": "179027",
+    "order": 123
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240141",
+    "order": 124
+  },
+  {
+    "storyId": 11077,
+    "name": "damp cherries on banana leaf",
+    "clip_id": "24467",
+    "order": 125
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Grinder, Coffee, Manual Coffee Grinder",
+    "clip_id": "386344",
+    "order": 126
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans being poured onto a pile",
+    "clip_id": "50396",
+    "order": 127
+  },
+  {
+    "storyId": 24586,
+    "name": "Berries, Growing, Twig, Branch",
+    "clip_id": "387675",
+    "order": 128
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Spilling, Burlap Sack",
+    "clip_id": "386343",
+    "order": 129
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Esspresso, Caffeine",
+    "clip_id": "284914",
+    "order": 130
+  },
+  {
+    "storyId": 11196,
+    "name": "man spreads out olives evenly ",
+    "clip_id": "31927",
+    "order": 131
+  },
+  {
+    "storyId": 16575,
+    "name": "roasting coffee beans browning",
+    "clip_id": "144475",
+    "order": 132
+  },
+  {
+    "storyId": 11541,
+    "name": "brown coffee beans falling off hessian material",
+    "clip_id": "38361",
+    "order": 133
+  },
+  {
+    "storyId": 26940,
+    "name": "Pepper Seed, Falling, Mortar And Pestle, Spice",
+    "clip_id": "463168",
+    "order": 134
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Roasted, Pile, Falling",
+    "clip_id": "433559",
+    "order": 135
+  },
+  {
+    "storyId": 11355,
+    "name": "dry sprout on the floor",
+    "clip_id": "34953",
+    "order": 136
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans thrown in the air rack-focus",
+    "clip_id": "81143",
+    "order": 137
+  },
+  {
+    "storyId": 14827,
+    "name": "person grabbing a handful of roasted coffee beans",
+    "clip_id": "102409",
+    "order": 138
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Liquid, Roasted, Pile",
+    "clip_id": "433558",
+    "order": 139
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans fall into pile ",
+    "clip_id": "50378",
+    "order": 140
+  },
+  {
+    "storyId": 12882,
+    "name": "black and green olives falling from wash machine in factory",
+    "clip_id": "61234",
+    "order": 141
+  },
+  {
+    "storyId": 16575,
+    "name": "coffee beans with smoke rising roasting",
+    "clip_id": "144474",
+    "order": 142
+  },
+  {
+    "storyId": 22393,
+    "name": "Spoon, Peppercorns, Black Pepper, Wooden Spoon",
+    "clip_id": "323212",
+    "order": 143
+  },
+  {
+    "storyId": 15024,
+    "name": "person harvesting grapes",
+    "clip_id": "106898",
+    "order": 144
+  },
+  {
+    "storyId": 12198,
+    "name": "Dark roasted coffee beans ",
+    "clip_id": "50380",
+    "order": 145
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323177",
+    "order": 146
+  },
+  {
+    "storyId": 12198,
+    "name": "close up of dark roasted coffee beans",
+    "clip_id": "50382",
+    "order": 147
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee Beans, Caffeine, Coffee, Steam",
+    "clip_id": "433520",
+    "order": 148
+  },
+  {
+    "storyId": 21586,
+    "name": "Caramel, Coffee, Candy, Sweet",
+    "clip_id": "295829",
+    "order": 149
+  },
+  {
+    "storyId": 12198,
+    "name": "Brown coffee beans dropped onto brass plate",
+    "clip_id": "50384",
+    "order": 150
+  },
+  {
+    "storyId": 21586,
+    "name": "Hazelnut, Coffee Beans, Ingredient, Falling",
+    "clip_id": "295825",
+    "order": 151
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323183",
+    "order": 152
+  },
+  {
+    "storyId": 11077,
+    "name": "damp cherries ",
+    "clip_id": "24469",
+    "order": 153
+  },
+  {
+    "storyId": 12198,
+    "name": "brown coffee beans fall onto a pile",
+    "clip_id": "50387",
+    "order": 154
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans being sprinkled into a pile ",
+    "clip_id": "50404",
+    "order": 155
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Roasted, Pile, Falling",
+    "clip_id": "433555",
+    "order": 156
+  },
+  {
+    "storyId": 29681,
+    "name": "3D, Balls, Rolling, Beads",
+    "clip_id": "543352",
+    "order": 157
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans scooped out of container",
+    "clip_id": "50345",
+    "order": 158
+  },
+  {
+    "storyId": 29439,
+    "name": "Coffee, Coffee Beans, Roasted, Falling",
+    "clip_id": "536015",
+    "order": 159
+  },
+  {
+    "storyId": 22392,
+    "name": "Coffee Beans, Coffee, Flying, Brown",
+    "clip_id": "323199",
+    "order": 160
+  },
+  {
+    "storyId": 11719,
+    "name": "red berries in the red petaled flower in the summer",
+    "clip_id": "42601",
+    "order": 161
+  },
+  {
+    "storyId": 11077,
+    "name": "yellow and red cherries",
+    "clip_id": "24462",
+    "order": 162
+  },
+  {
+    "storyId": 12266,
+    "name": "black grapes covered in rain drops moving in wind in vineyard ",
+    "clip_id": "51874",
+    "order": 163
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee Beans, Coffee, Caffeine, Esspresso",
+    "clip_id": "284915",
+    "order": 164
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448397",
+    "order": 165
+  },
+  {
+    "storyId": 11541,
+    "name": "man lifting coffee beans from bag",
+    "clip_id": "38370",
+    "order": 166
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Caffeine, Pile",
+    "clip_id": "284921",
+    "order": 167
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans mixed around in a grinder",
+    "clip_id": "50374",
+    "order": 168
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Caramel, Candy, Falling",
+    "clip_id": "295830",
+    "order": 169
+  },
+  {
+    "storyId": 11541,
+    "name": "brown coffee beans being mixed together",
+    "clip_id": "38364",
+    "order": 170
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee, Caffeine, Coffee Beans, Brown",
+    "clip_id": "433519",
+    "order": 171
+  },
+  {
+    "storyId": 11541,
+    "name": "man lifting coffee beans from a bag",
+    "clip_id": "38369",
+    "order": 172
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Seed",
+    "clip_id": "448392",
+    "order": 173
+  },
+  {
+    "storyId": 26909,
+    "name": "Berries, Falling, Milk, Phantom",
+    "clip_id": "462072",
+    "order": 174
+  },
+  {
+    "storyId": 10890,
+    "name": "Olives Falling Off Conveyor belt",
+    "clip_id": "18851",
+    "order": 175
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448398",
+    "order": 176
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Blur, Espresso, Texture",
+    "clip_id": "360527",
+    "order": 177
+  },
+  {
+    "storyId": 13838,
+    "name": "grinder moving around",
+    "clip_id": "79556",
+    "order": 178
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Espresso, Blur, Wood Table",
+    "clip_id": "360533",
+    "order": 179
+  },
+  {
+    "storyId": 14762,
+    "name": "coffee beans thrown up in the air and falling back down ",
+    "clip_id": "100425",
+    "order": 180
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Sack, Falling, Roasted",
+    "clip_id": "433552",
+    "order": 181
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee Cherries, Pouring, Falling, Container",
+    "clip_id": "495642",
+    "order": 182
+  },
+  {
+    "storyId": 11541,
+    "name": "roasted brown coffee beans being mixed together",
+    "clip_id": "38366",
+    "order": 183
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans moved around",
+    "clip_id": "50373",
+    "order": 184
+  },
+  {
+    "storyId": 13838,
+    "name": "coffee beans in a grinder",
+    "clip_id": "79526",
+    "order": 185
+  },
+  {
+    "storyId": 12676,
+    "name": "olives falling into a net",
+    "clip_id": "58890",
+    "order": 186
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Capsules, Espresso, Blur",
+    "clip_id": "360544",
+    "order": 187
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323179",
+    "order": 188
+  },
+  {
+    "storyId": 11076,
+    "name": "cherries fall into water",
+    "clip_id": "24389",
+    "order": 189
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Beans, Coffee Machine",
+    "clip_id": "286859",
+    "order": 190
+  },
+  {
+    "storyId": 16051,
+    "name": "brown cereal pieces and milk falling into a bowl on a table ",
+    "clip_id": "129617",
+    "order": 191
+  },
+  {
+    "storyId": 18936,
+    "name": "Cereal, Chocolate-Flavored, Bowl, Breakfast",
+    "clip_id": "215269",
+    "order": 192
+  },
+  {
+    "storyId": 14827,
+    "name": "roasted coffee beans being poured",
+    "clip_id": "102407",
+    "order": 193
+  },
+  {
+    "storyId": 20866,
+    "name": "Coffee Bean, Dropping, Pile, Caffeine",
+    "clip_id": "272531",
+    "order": 194
+  },
+  {
+    "storyId": 27089,
+    "name": "Blossom, Flowering, Camelia, Branch",
+    "clip_id": "467462",
+    "order": 195
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323184",
+    "order": 196
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448400",
+    "order": 197
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Tour, Picking, Coffee Beans, Branch",
+    "clip_id": "414714",
+    "order": 198
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans poured into a display box",
+    "clip_id": "50351",
+    "order": 199
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240142",
+    "order": 200
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Roasted, Pile, Falling",
+    "clip_id": "433553",
+    "order": 201
+  },
+  {
+    "storyId": 19814,
+    "name": "Beans, Coffee, Barista, Gourmet",
+    "clip_id": "240135",
+    "order": 202
+  },
+  {
+    "storyId": 12669,
+    "name": "small red grape cluster in a vineyard",
+    "clip_id": "58758",
+    "order": 203
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448343",
+    "order": 204
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323182",
+    "order": 205
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448399",
+    "order": 206
+  },
+  {
+    "storyId": 27955,
+    "name": "Leaves, Wind, Foliage, Outdoors",
+    "clip_id": "494746",
+    "order": 207
+  },
+  {
+    "storyId": 27955,
+    "name": "Ribes, Leaves, Branches, Outdoors",
+    "clip_id": "494744",
+    "order": 208
+  },
+  {
+    "storyId": 21558,
+    "name": "Coffee Beans, Coffee, Falls",
+    "clip_id": "294482",
+    "order": 209
+  },
+  {
+    "storyId": 12485,
+    "name": "fresh coffee beans macro",
+    "clip_id": "56349",
+    "order": 210
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee, Beans, Roasted, Pile",
+    "clip_id": "433546",
+    "order": 211
+  },
+  {
+    "storyId": 11196,
+    "name": "olives fall onto heap in collection crate",
+    "clip_id": "31920",
+    "order": 212
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans in a pile",
+    "clip_id": "50406",
+    "order": 213
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448339",
+    "order": 214
+  },
+  {
+    "storyId": 24624,
+    "name": "Blackberries, Colander, Garden, Sunshine",
+    "clip_id": "389736",
+    "order": 215
+  },
+  {
+    "storyId": 18679,
+    "name": "Green, Grapes, Grapevine, Fruit",
+    "clip_id": "207409",
+    "order": 216
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495608",
+    "order": 217
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495601",
+    "order": 218
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans falling into a pile",
+    "clip_id": "50397",
+    "order": 219
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Grinder, Spilling",
+    "clip_id": "386340",
+    "order": 220
+  },
+  {
+    "storyId": 27089,
+    "name": "Branches, Budding, Tree, Bud",
+    "clip_id": "467448",
+    "order": 221
+  },
+  {
+    "storyId": 13038,
+    "name": "green olives hanging on tree on sunny day",
+    "clip_id": "63893",
+    "order": 222
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323186",
+    "order": 223
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Smoke, Brown",
+    "clip_id": "323185",
+    "order": 224
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee Beans, Roasting, Traditional, Coffee Roaster",
+    "clip_id": "495674",
+    "order": 225
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246216",
+    "order": 226
+  },
+  {
+    "storyId": 15310,
+    "name": "Cherry Tomatoes, Tomatoes, Vegetable, Olive Oil",
+    "clip_id": "113113",
+    "order": 227
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Fruit, Strainer, Bowl",
+    "clip_id": "414730",
+    "order": 228
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246217",
+    "order": 229
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Moving",
+    "clip_id": "448396",
+    "order": 230
+  },
+  {
+    "storyId": 23021,
+    "name": "Plums, Fruits, Market, Natural Foods",
+    "clip_id": "342136",
+    "order": 231
+  },
+  {
+    "storyId": 19975,
+    "name": "Eclair, Coffee, Cake, Ingredient",
+    "clip_id": "244572",
+    "order": 232
+  },
+  {
+    "storyId": 12198,
+    "name": "large roaster turning coffee beans around",
+    "clip_id": "50364",
+    "order": 233
+  },
+  {
+    "storyId": 11541,
+    "name": "male hands lifting coffee beans from bag and dropping them back into bag",
+    "clip_id": "38311",
+    "order": 234
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448337",
+    "order": 235
+  },
+  {
+    "storyId": 20866,
+    "name": "Coffee Bean, Dropping, Pile, Caffeine",
+    "clip_id": "272530",
+    "order": 236
+  },
+  {
+    "storyId": 11077,
+    "name": "cream poured over cherries on banana leaf",
+    "clip_id": "24466",
+    "order": 237
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323178",
+    "order": 238
+  },
+  {
+    "storyId": 27089,
+    "name": "Bud, Blossom, Flowering, Branch",
+    "clip_id": "467454",
+    "order": 239
+  },
+  {
+    "storyId": 26032,
+    "name": "Caffeine, Coffee, Coffee Beans, Burlap Fabric",
+    "clip_id": "433528",
+    "order": 240
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans poured into a pile",
+    "clip_id": "50379",
+    "order": 241
+  },
+  {
+    "storyId": 14995,
+    "name": "fresh cherries arranged in a pile on a black background",
+    "clip_id": "106262",
+    "order": 242
+  },
+  {
+    "storyId": 11267,
+    "name": "coffee beans flying around in a mixer",
+    "clip_id": "32739",
+    "order": 243
+  },
+  {
+    "storyId": 14651,
+    "name": "almonds falling onto melted chocolate ",
+    "clip_id": "97521",
+    "order": 244
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Beans",
+    "clip_id": "286849",
+    "order": 245
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295860",
+    "order": 246
+  },
+  {
+    "storyId": 27090,
+    "name": "Red, Floribunda, Rose, Flower",
+    "clip_id": "467505",
+    "order": 247
+  },
+  {
+    "storyId": 25463,
+    "name": "Coffee Beans, Fruit, Hands, Coffee Farm",
+    "clip_id": "414709",
+    "order": 248
+  },
+  {
+    "storyId": 14995,
+    "name": "water droplets on picked cherries ",
+    "clip_id": "106264",
+    "order": 249
+  },
+  {
+    "storyId": 12198,
+    "name": "freshly roasted coffee beans",
+    "clip_id": "50350",
+    "order": 250
+  },
+  {
+    "storyId": 26033,
+    "name": "Coffee Beans, Roasted, Pile, Falling",
+    "clip_id": "433556",
+    "order": 251
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans dropped into a pile",
+    "clip_id": "50385",
+    "order": 252
+  },
+  {
+    "storyId": 28681,
+    "name": "Raspberry, Hand, Hand Picked, Artisanal",
+    "clip_id": "516562",
+    "order": 253
+  },
+  {
+    "storyId": 12198,
+    "name": "macro shot of coffee beans ",
+    "clip_id": "50401",
+    "order": 254
+  },
+  {
+    "storyId": 29681,
+    "name": "3D, Beads, Circling, Loop",
+    "clip_id": "543339",
+    "order": 255
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448338",
+    "order": 256
+  },
+  {
+    "storyId": 27468,
+    "name": "Coffee Beans, Grinding, Machine, Coffee",
+    "clip_id": "478483",
+    "order": 257
+  },
+  {
+    "storyId": 10889,
+    "name": "Pan across olive branch with olives hanging",
+    "clip_id": "18826",
+    "order": 258
+  },
+  {
+    "storyId": 27955,
+    "name": "Ribes, Leaves, Branches, Outdoors",
+    "clip_id": "494743",
+    "order": 259
+  },
+  {
+    "storyId": 26446,
+    "name": "Hand, Touching, Coffee, Beans",
+    "clip_id": "448393",
+    "order": 260
+  },
+  {
+    "storyId": 16782,
+    "name": "Olive, Olives, Tree, Olivetree",
+    "clip_id": "151260",
+    "order": 261
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Seed",
+    "clip_id": "448391",
+    "order": 262
+  },
+  {
+    "storyId": 21255,
+    "name": "Coffee, Coffee Beans, Cup, Esspresso",
+    "clip_id": "284910",
+    "order": 263
+  },
+  {
+    "storyId": 12493,
+    "name": "fresh organic pepper ",
+    "clip_id": "56477",
+    "order": 264
+  },
+  {
+    "storyId": 16051,
+    "name": "milk pouring into a bowl full of brown cereal and making a mess on the table ",
+    "clip_id": "129618",
+    "order": 265
+  },
+  {
+    "storyId": 18936,
+    "name": "Cereal, Chocolate-Flavored, Bowl, Breakfast",
+    "clip_id": "215270",
+    "order": 266
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495609",
+    "order": 267
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Seed",
+    "clip_id": "448395",
+    "order": 268
+  },
+  {
+    "storyId": 18600,
+    "name": "Christmas, Tree, Christmas Tree, New Year",
+    "clip_id": "205454",
+    "order": 269
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448340",
+    "order": 270
+  },
+  {
+    "storyId": 26942,
+    "name": "Cherry Tomato, Tomatoes, Falling, Rolling",
+    "clip_id": "463231",
+    "order": 271
+  },
+  {
+    "storyId": 26934,
+    "name": "Mozzarella Cheese, Cherry Tomato, Rolling, Basil",
+    "clip_id": "462925",
+    "order": 272
+  },
+  {
+    "storyId": 13710,
+    "name": "seeds on tree branches",
+    "clip_id": "76351",
+    "order": 273
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans sprinkled and dropped into a pile on brass plate",
+    "clip_id": "50386",
+    "order": 274
+  },
+  {
+    "storyId": 27090,
+    "name": "Red, Floribunda, Rose, Flower",
+    "clip_id": "467514",
+    "order": 275
+  },
+  {
+    "storyId": 12198,
+    "name": "macro shot of coffee beans being sprinkled into a pile",
+    "clip_id": "50402",
+    "order": 276
+  },
+  {
+    "storyId": 11541,
+    "name": "coffee beans being mixed together",
+    "clip_id": "38363",
+    "order": 277
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246227",
+    "order": 278
+  },
+  {
+    "storyId": 10889,
+    "name": "Olives on an olive branch",
+    "clip_id": "18825",
+    "order": 279
+  },
+  {
+    "storyId": 13052,
+    "name": "fresh roasted coffee beans in processing machine in factory",
+    "clip_id": "64070",
+    "order": 280
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Capsules, Espresso, Pod",
+    "clip_id": "360542",
+    "order": 281
+  },
+  {
+    "storyId": 21586,
+    "name": "Coffee Beans, Jasmine, Fresh, Falling",
+    "clip_id": "295820",
+    "order": 282
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Falling, Roasted",
+    "clip_id": "448359",
+    "order": 283
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Espresso, Blur, Spread",
+    "clip_id": "360531",
+    "order": 284
+  },
+  {
+    "storyId": 16051,
+    "name": "two kinds of cereal in a bowl making a mess all over the table",
+    "clip_id": "129644",
+    "order": 285
+  },
+  {
+    "storyId": 18936,
+    "name": "Bowl, Cereal, Breakfast, Chocolate",
+    "clip_id": "215229",
+    "order": 286
+  },
+  {
+    "storyId": 21588,
+    "name": "Coffee, Coffee Beans, Falling, Wood",
+    "clip_id": "295864",
+    "order": 287
+  },
+  {
+    "storyId": 11196,
+    "name": "olives ripening on branch ",
+    "clip_id": "31800",
+    "order": 288
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans displayed on decorated brass plate",
+    "clip_id": "50388",
+    "order": 289
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Falling, Roasted",
+    "clip_id": "448356",
+    "order": 290
+  },
+  {
+    "storyId": 22390,
+    "name": "Coffee, Coffee Beans, Brown, Caffeine",
+    "clip_id": "323181",
+    "order": 291
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans sprinkled onto a heap in container",
+    "clip_id": "50383",
+    "order": 292
+  },
+  {
+    "storyId": 11541,
+    "name": "person picking brown coffee beans from bag with a metal tool",
+    "clip_id": "38321",
+    "order": 293
+  },
+  {
+    "storyId": 18540,
+    "name": "Building, Historic, Aerial, City",
+    "clip_id": "203780",
+    "order": 294
+  },
+  {
+    "storyId": 10865,
+    "name": "Blueberries rolling in water extreme closeup",
+    "clip_id": "18078",
+    "order": 295
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246218",
+    "order": 296
+  },
+  {
+    "storyId": 22984,
+    "name": "Coffee, Coffee Beans, Roasted, Roasting Machine",
+    "clip_id": "341170",
+    "order": 297
+  },
+  {
+    "storyId": 14817,
+    "name": "mulberries flying up in the air and falling back down over a light blue background ",
+    "clip_id": "102142",
+    "order": 298
+  },
+  {
+    "storyId": 13038,
+    "name": "olives hanging on tree on sunny day",
+    "clip_id": "63890",
+    "order": 299
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Moving",
+    "clip_id": "448362",
+    "order": 300
+  },
+  {
+    "storyId": 24529,
+    "name": "Coffee Beans, Coffee, Grinder, Spilling",
+    "clip_id": "386341",
+    "order": 301
+  },
+  {
+    "storyId": 24792,
+    "name": "Grapes, Vineyard, Growth, Crop",
+    "clip_id": "395742",
+    "order": 302
+  },
+  {
+    "storyId": 11196,
+    "name": "olive fall into heap in crate",
+    "clip_id": "31924",
+    "order": 303
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Espresso, Moving, Blur",
+    "clip_id": "360530",
+    "order": 304
+  },
+  {
+    "storyId": 21022,
+    "name": "Summer Fruits, Strawberry, Fruit, Blackberry",
+    "clip_id": "275716",
+    "order": 305
+  },
+  {
+    "storyId": 27090,
+    "name": "Pink, Flowers, Tree, Branches",
+    "clip_id": "467553",
+    "order": 306
+  },
+  {
+    "storyId": 27090,
+    "name": "Red, Plant, Leaves, Branches",
+    "clip_id": "467534",
+    "order": 307
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Smoke",
+    "clip_id": "448342",
+    "order": 308
+  },
+  {
+    "storyId": 12485,
+    "name": "grinding fresh coffee beans",
+    "clip_id": "56345",
+    "order": 309
+  },
+  {
+    "storyId": 14642,
+    "name": "Coffee, Kitchen, Beans, Chef",
+    "clip_id": "97273",
+    "order": 310
+  },
+  {
+    "storyId": 14817,
+    "name": "mulberries flying up in the air ",
+    "clip_id": "102143",
+    "order": 311
+  },
+  {
+    "storyId": 28034,
+    "name": "Man, Pouring, Coffee Beans, Process",
+    "clip_id": "495640",
+    "order": 312
+  },
+  {
+    "storyId": 14995,
+    "name": "water droplets on fresh cherries on a black background ",
+    "clip_id": "106263",
+    "order": 313
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Espresso, Blur, Spread",
+    "clip_id": "360535",
+    "order": 314
+  },
+  {
+    "storyId": 28376,
+    "name": "Threads, Beads, Tribal, Jewelry",
+    "clip_id": "506436",
+    "order": 315
+  },
+  {
+    "storyId": 29095,
+    "name": "Granola, Bowl, Blueberries, Honey",
+    "clip_id": "526780",
+    "order": 316
+  },
+  {
+    "storyId": 11077,
+    "name": "pair of mango's on banana leaf",
+    "clip_id": "24418",
+    "order": 317
+  },
+  {
+    "storyId": 14817,
+    "name": "grapes flying up and falling back down ",
+    "clip_id": "102133",
+    "order": 318
+  },
+  {
+    "storyId": 11077,
+    "name": "damp red cherries ",
+    "clip_id": "24470",
+    "order": 319
+  },
+  {
+    "storyId": 29095,
+    "name": "Granola, Bowl, Blueberries, Honey",
+    "clip_id": "526779",
+    "order": 320
+  },
+  {
+    "storyId": 27089,
+    "name": "Blossom, Flowering, Branch, Flowers",
+    "clip_id": "467498",
+    "order": 321
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Seed",
+    "clip_id": "448354",
+    "order": 322
+  },
+  {
+    "storyId": 14762,
+    "name": "coffee beans falling onto a wooden surface and bouncing ",
+    "clip_id": "100456",
+    "order": 323
+  },
+  {
+    "storyId": 14642,
+    "name": "Coffee, Kitchen, Beans, Chef",
+    "clip_id": "97304",
+    "order": 324
+  },
+  {
+    "storyId": 26446,
+    "name": "Hand, Touching, Coffee, Beans",
+    "clip_id": "448394",
+    "order": 325
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Roasting Machine",
+    "clip_id": "286853",
+    "order": 326
+  },
+  {
+    "storyId": 11541,
+    "name": "man grabbing coffee beans from a bag with his hands",
+    "clip_id": "38313",
+    "order": 327
+  },
+  {
+    "storyId": 14642,
+    "name": "Breakfast, Kitchen, Cereals, Chef",
+    "clip_id": "97278",
+    "order": 328
+  },
+  {
+    "storyId": 25744,
+    "name": "Blueberries, Splash, Falling, Fruit",
+    "clip_id": "423828",
+    "order": 329
+  },
+  {
+    "storyId": 13052,
+    "name": "coffee beans falling into filled hessian bag white background",
+    "clip_id": "64104",
+    "order": 330
+  },
+  {
+    "storyId": 11541,
+    "name": "mans hands lifting coffee beans from bag and dropping them back into bag",
+    "clip_id": "38312",
+    "order": 331
+  },
+  {
+    "storyId": 12198,
+    "name": "large grinder moving coffee beans around",
+    "clip_id": "50370",
+    "order": 332
+  },
+  {
+    "storyId": 16051,
+    "name": "milk being poured into a white bowl full of colorful cereal ",
+    "clip_id": "129599",
+    "order": 333
+  },
+  {
+    "storyId": 18936,
+    "name": "Cereal, Colorful, Sweet, Plaid-Tablecloth",
+    "clip_id": "215251",
+    "order": 334
+  },
+  {
+    "storyId": 27420,
+    "name": "Loquat, Tree, Leaves, Fruit",
+    "clip_id": "476959",
+    "order": 335
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495602",
+    "order": 336
+  },
+  {
+    "storyId": 26940,
+    "name": "Mortar And Pestle, Pepper Seed, Spice, Herb",
+    "clip_id": "463169",
+    "order": 337
+  },
+  {
+    "storyId": 13052,
+    "name": "roast coffee beans falling into hessian bag white background",
+    "clip_id": "64105",
+    "order": 338
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Moving",
+    "clip_id": "448363",
+    "order": 339
+  },
+  {
+    "storyId": 14762,
+    "name": "dry fruit and almonds thrown up and falling back down ",
+    "clip_id": "100430",
+    "order": 340
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Espresso, Blur, Spread",
+    "clip_id": "360528",
+    "order": 341
+  },
+  {
+    "storyId": 11355,
+    "name": "green plant flowers sprout",
+    "clip_id": "34952",
+    "order": 342
+  },
+  {
+    "storyId": 18936,
+    "name": "Bowl, Cereal, Breakfast, Chocolate",
+    "clip_id": "215228",
+    "order": 343
+  },
+  {
+    "storyId": 16051,
+    "name": "mixed up cereal and milk in a bowl and all over the table",
+    "clip_id": "129643",
+    "order": 344
+  },
+  {
+    "storyId": 22962,
+    "name": "Marbles, Round, Pink, Colorful",
+    "clip_id": "340646",
+    "order": 345
+  },
+  {
+    "storyId": 14714,
+    "name": "coffee beans falling in front of a fire extreme slow-motion",
+    "clip_id": "99228",
+    "order": 346
+  },
+  {
+    "storyId": 28034,
+    "name": "Coffee, Beans, Harvesting, Picking",
+    "clip_id": "495604",
+    "order": 347
+  },
+  {
+    "storyId": 20866,
+    "name": "Coffee Bean, Studio, Rolling, Wooden Surface",
+    "clip_id": "272532",
+    "order": 348
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Moving",
+    "clip_id": "448361",
+    "order": 349
+  },
+  {
+    "storyId": 19972,
+    "name": "Plants, Windy, Tree, Swaying",
+    "clip_id": "244453",
+    "order": 350
+  },
+  {
+    "storyId": 14817,
+    "name": "purple grapes flying up and falling back down ",
+    "clip_id": "102135",
+    "order": 351
+  },
+  {
+    "storyId": 11541,
+    "name": "roasted coffee beans flying into each other",
+    "clip_id": "38329",
+    "order": 352
+  },
+  {
+    "storyId": 20462,
+    "name": "Plant, Green, Leaf, Pointy",
+    "clip_id": "259771",
+    "order": 353
+  },
+  {
+    "storyId": 18679,
+    "name": "Green, Grapes, Woman, Hide",
+    "clip_id": "207461",
+    "order": 354
+  },
+  {
+    "storyId": 13469,
+    "name": "person scooping up pomegranate seeds with a wooden spoon",
+    "clip_id": "71054",
+    "order": 355
+  },
+  {
+    "storyId": 12198,
+    "name": "large coffee grinder slowly moving fresh coffee beans inside",
+    "clip_id": "50368",
+    "order": 356
+  },
+  {
+    "storyId": 23602,
+    "name": "Coffee Beans, Spinning, Blur, Plant",
+    "clip_id": "360536",
+    "order": 357
+  },
+  {
+    "storyId": 14813,
+    "name": "Coffee, Beans, Falling, Dropping",
+    "clip_id": "101891",
+    "order": 358
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Caffeine, Beans",
+    "clip_id": "286858",
+    "order": 359
+  },
+  {
+    "storyId": 11541,
+    "name": "roasted coffee beans being mixed together",
+    "clip_id": "38365",
+    "order": 360
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans displayed on brass plate ",
+    "clip_id": "50390",
+    "order": 361
+  },
+  {
+    "storyId": 12198,
+    "name": "fresh coffee beans poured into a container for sale ",
+    "clip_id": "50346",
+    "order": 362
+  },
+  {
+    "storyId": 11541,
+    "name": "man lifting coffee beans from coffee bag",
+    "clip_id": "38368",
+    "order": 363
+  },
+  {
+    "storyId": 20462,
+    "name": "Bumblebee, Bee, Flower, Pink",
+    "clip_id": "259774",
+    "order": 364
+  },
+  {
+    "storyId": 12198,
+    "name": "dark roasted coffee beans being sprinkled next to regular beans",
+    "clip_id": "50405",
+    "order": 365
+  },
+  {
+    "storyId": 12669,
+    "name": "grapes with water drop on a vine",
+    "clip_id": "58759",
+    "order": 366
+  },
+  {
+    "storyId": 11196,
+    "name": "pile of olives gets topped off with more olives ",
+    "clip_id": "31928",
+    "order": 367
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Falling, Roasted",
+    "clip_id": "448355",
+    "order": 368
+  },
+  {
+    "storyId": 20382,
+    "name": "Peppercorns, Falling, Pepper, Rolling",
+    "clip_id": "256597",
+    "order": 369
+  },
+  {
+    "storyId": 13908,
+    "name": "coffee beans in the air rack-focus",
+    "clip_id": "81141",
+    "order": 370
+  },
+  {
+    "storyId": 27035,
+    "name": "Gummies, Jelly Sweets, Sugar Coated, Phantom",
+    "clip_id": "465391",
+    "order": 371
+  },
+  {
+    "storyId": 26446,
+    "name": "Hand, Touching, Coffee, Beans",
+    "clip_id": "448360",
+    "order": 372
+  },
+  {
+    "storyId": 16782,
+    "name": "Olive, Olives, Tree, Olivetree",
+    "clip_id": "151245",
+    "order": 373
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee, Cup, Pouring, Coffee Beans",
+    "clip_id": "433532",
+    "order": 374
+  },
+  {
+    "storyId": 26446,
+    "name": "Coffee, Beans, Roasted, Seed",
+    "clip_id": "448353",
+    "order": 375
+  },
+  {
+    "storyId": 15706,
+    "name": "person putting a tea bag into a cup of tea and taking it out ",
+    "clip_id": "122141",
+    "order": 376
+  },
+  {
+    "storyId": 26046,
+    "name": "Cherries, Fruit, Water, Splash",
+    "clip_id": "434252",
+    "order": 377
+  },
+  {
+    "storyId": 13038,
+    "name": "person picking olives on sunny day",
+    "clip_id": "63897",
+    "order": 378
+  },
+  {
+    "storyId": 29439,
+    "name": "Coffee, Coffee Beans, Roasted, Falling",
+    "clip_id": "536028",
+    "order": 379
+  },
+  {
+    "storyId": 26032,
+    "name": "Coffee, Cup, Splashing, Tea",
+    "clip_id": "433511",
+    "order": 380
+  },
+  {
+    "storyId": 29095,
+    "name": "Granola, Bowl, Blueberries, Yogurt",
+    "clip_id": "526777",
+    "order": 381
+  },
+  {
+    "storyId": 15539,
+    "name": "Berries, Strawberries, Drops, Water",
+    "clip_id": "118000",
+    "order": 382
+  },
+  {
+    "storyId": 12644,
+    "name": "sprinkles fall onto chocolate covered ice cream white background",
+    "clip_id": "58451",
+    "order": 383
+  },
+  {
+    "storyId": 10865,
+    "name": "Blueberries being poured into water",
+    "clip_id": "18080",
+    "order": 384
+  },
+  {
+    "storyId": 24624,
+    "name": "Blackberries, Hand, Fingers, Picking",
+    "clip_id": "389738",
+    "order": 385
+  },
+  {
+    "storyId": 12669,
+    "name": "grape vine cut with scissors ",
+    "clip_id": "58757",
+    "order": 386
+  },
+  {
+    "storyId": 12198,
+    "name": "coffee beans poured into a large grinder",
+    "clip_id": "50363",
+    "order": 387
+  },
+  {
+    "storyId": 16300,
+    "name": "potted plant with thick green leaves ",
+    "clip_id": "136892",
+    "order": 388
+  },
+  {
+    "storyId": 11196,
+    "name": "blurry to focused heap of olives",
+    "clip_id": "31929",
+    "order": 389
+  },
+  {
+    "storyId": 20036,
+    "name": "Coffee, Beans, Roasted, Espresso",
+    "clip_id": "246221",
+    "order": 390
+  },
+  {
+    "storyId": 11719,
+    "name": "small purple and pink berries hanging from plants",
+    "clip_id": "42624",
+    "order": 391
+  },
+  {
+    "storyId": 12870,
+    "name": "man in a red jacket sitting on a yellow tractor by a mountain",
+    "clip_id": "61017",
+    "order": 392
+  },
+  {
+    "storyId": 12266,
+    "name": "rain drops on cluster of black grapes moving in the wind ",
+    "clip_id": "51885",
+    "order": 393
+  },
+  {
+    "storyId": 21353,
+    "name": "Tree Blossom, Tree Blossom, Spring, Springtime",
+    "clip_id": "288147",
+    "order": 394
+  },
+  {
+    "storyId": 21329,
+    "name": "Coffee, Coffee Beans, Coffee Roaster, Roast",
+    "clip_id": "286850",
+    "order": 395
+  },
+  {
+    "storyId": 19814,
+    "name": "Cafe, Coffee-Beans, Fresh, Barista",
+    "clip_id": "240140",
+    "order": 396
+  },
+  {
+    "storyId": 21760,
+    "name": "Branch, Nature, Treetop, Leaves",
+    "clip_id": "300577",
+    "order": 397
+  },
+  {
+    "storyId": 29439,
+    "name": "Coffee, Coffee Beans, Roasted, Falling",
+    "clip_id": "536011",
+    "order": 398
+  },
+  {
+    "storyId": 15310,
+    "name": "Pomegranates, Fruit, Sweet, Silver",
+    "clip_id": "113093",
+    "order": 399
+  }
+]

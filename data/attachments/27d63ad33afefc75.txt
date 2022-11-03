@@ -1,0 +1,32 @@
+[
+  {
+    "storyId": 19604,
+    "name": "Human, Font, Words, Overlay",
+    "clip_id": "235163",
+    "order": 0
+  },
+  {
+    "storyId": 19596,
+    "name": "1980S, Words, Retro, Text",
+    "clip_id": "234922",
+    "order": 1
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442976",
+    "order": 2
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442988",
+    "order": 3
+  },
+  {
+    "storyId": 29149,
+    "name": "Homeless, Veteran, Panhandler, Street",
+    "clip_id": "528330",
+    "order": 4
+  }
+]

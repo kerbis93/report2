@@ -1,0 +1,20 @@
+[
+  {
+    "query": "modern dance",
+    "clip_id": "48173",
+    "story_id": "12049",
+    "autoRank": "0.36543326725142866"
+  },
+  {
+    "query": "modern dance",
+    "clip_id": "48390",
+    "story_id": "12069",
+    "autoRank": "0.35411517873941017"
+  },
+  {
+    "query": "modern dance",
+    "clip_id": "18543",
+    "story_id": "10880",
+    "autoRank": "0.35072980006022231"
+  }
+]

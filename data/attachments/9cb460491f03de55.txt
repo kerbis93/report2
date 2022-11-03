@@ -1,0 +1,14 @@
+[
+  {
+    "query": "mobile",
+    "clip_id": "350133",
+    "story_id": "23270",
+    "autoRank": "0.34841861511476308"
+  },
+  {
+    "query": "mobile",
+    "clip_id": "350247",
+    "story_id": "23492",
+    "autoRank": "0.3474451208769998"
+  }
+]

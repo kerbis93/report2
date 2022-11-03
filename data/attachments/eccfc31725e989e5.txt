@@ -1,0 +1,14 @@
+[
+  {
+    "query": "goosebumps",
+    "clip_id": "365634",
+    "story_id": "23762",
+    "autoRank": "0.303112102308806"
+  },
+  {
+    "query": "goosebumps",
+    "clip_id": "310681",
+    "story_id": "22085",
+    "autoRank": "0.30271138665471814"
+  }
+]

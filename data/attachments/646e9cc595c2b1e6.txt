@@ -1,0 +1,20 @@
+[
+  {
+    "query": "green leaves",
+    "clip_id": "111825",
+    "story_id": "15256",
+    "autoRank": "0.38050432313425114"
+  },
+  {
+    "query": "green leaves",
+    "clip_id": "95479",
+    "story_id": "14590",
+    "autoRank": "0.37822595483341059"
+  },
+  {
+    "query": "green leaves",
+    "clip_id": "59946",
+    "story_id": "12787",
+    "autoRank": "0.37774821525250374"
+  }
+]

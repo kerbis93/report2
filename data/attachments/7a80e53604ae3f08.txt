@@ -1,0 +1,338 @@
+[
+  {
+    "storyId": 21968,
+    "name": "Tea Pot, Tea, Purring, Lid",
+    "clip_id": "309272",
+    "order": 0
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea, Tea Pot, Water, Cups",
+    "clip_id": "309265",
+    "order": 1
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea, Tea Pot, Cups, Clay",
+    "clip_id": "309266",
+    "order": 2
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea Pot, Cups, Clay, Purring",
+    "clip_id": "309268",
+    "order": 3
+  },
+  {
+    "storyId": 21968,
+    "name": "Herbs, Tea, Tea Pot, Wooden Tray",
+    "clip_id": "309271",
+    "order": 4
+  },
+  {
+    "storyId": 21968,
+    "name": "Herbs, Wooden Tray, Wooden Spoon, Tea Pot",
+    "clip_id": "309270",
+    "order": 5
+  },
+  {
+    "storyId": 28398,
+    "name": "Waitress, Serving, Customers, Cafe",
+    "clip_id": "508108",
+    "order": 6
+  },
+  {
+    "storyId": 28398,
+    "name": "Woman, Pouring, Tea Pot, Sitting",
+    "clip_id": "508097",
+    "order": 7
+  },
+  {
+    "storyId": 26988,
+    "name": "Tea, Pot, Pouring, Man",
+    "clip_id": "461647",
+    "order": 8
+  },
+  {
+    "storyId": 26988,
+    "name": "Fire, Tea, Pot, Pouring",
+    "clip_id": "461646",
+    "order": 9
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea, Tea Pot, Cups, Clay",
+    "clip_id": "309273",
+    "order": 10
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea Pot, Tea, Water, Hot",
+    "clip_id": "309264",
+    "order": 11
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea, Cups, Tea Pot, Purring",
+    "clip_id": "309267",
+    "order": 12
+  },
+  {
+    "storyId": 26990,
+    "name": "Tea Pot, Jordan, Pouring, Glass",
+    "clip_id": "461777",
+    "order": 13
+  },
+  {
+    "storyId": 28398,
+    "name": "Cafe, Business Meeting, Sitting, Tea Pot",
+    "clip_id": "508098",
+    "order": 14
+  },
+  {
+    "storyId": 28398,
+    "name": "Cafe, Talking, Sitting, Drink",
+    "clip_id": "508117",
+    "order": 15
+  },
+  {
+    "storyId": 21968,
+    "name": "Man, Traditional Attire, Tea, Tea Pot",
+    "clip_id": "309276",
+    "order": 16
+  },
+  {
+    "storyId": 28398,
+    "name": "Waitress, Serving, Tea Pot, Drink",
+    "clip_id": "508106",
+    "order": 17
+  },
+  {
+    "storyId": 26359,
+    "name": "Mongolian, Woman, Pouring, Milk",
+    "clip_id": "444613",
+    "order": 18
+  },
+  {
+    "storyId": 26990,
+    "name": "Jordan, Camp Fire, Tea Pot, Wadi Rum",
+    "clip_id": "461772",
+    "order": 19
+  },
+  {
+    "storyId": 21862,
+    "name": "Elderly Woman, Old Age, Nursing Assistant, Asian Woman",
+    "clip_id": "305358",
+    "order": 20
+  },
+  {
+    "storyId": 26990,
+    "name": "Tea Pot, Camp Fire, Jordan, Wadi Rum",
+    "clip_id": "461774",
+    "order": 21
+  },
+  {
+    "storyId": 21968,
+    "name": "Tea Pot, Cups, Clay, Traditional Attire",
+    "clip_id": "309277",
+    "order": 22
+  },
+  {
+    "storyId": 21968,
+    "name": "Man, Bowls, Tea Pot, Tea",
+    "clip_id": "309254",
+    "order": 23
+  },
+  {
+    "storyId": 23458,
+    "name": "Blacksmith, Equipment, Hammer, Tea Pot",
+    "clip_id": "342701",
+    "order": 24
+  },
+  {
+    "storyId": 26359,
+    "name": "Mongolian, Pouring, Milk, Tea",
+    "clip_id": "444614",
+    "order": 25
+  },
+  {
+    "storyId": 21862,
+    "name": "Elderly Woman, Old Age, Nursing Assistant, Asian Woman",
+    "clip_id": "305361",
+    "order": 26
+  },
+  {
+    "storyId": 21968,
+    "name": "Man, Beard, Long Hair, Traditional Attire",
+    "clip_id": "309278",
+    "order": 27
+  },
+  {
+    "storyId": 26359,
+    "name": "Mongolian, Milk, Tea, Cooking",
+    "clip_id": "444611",
+    "order": 28
+  },
+  {
+    "storyId": 10848,
+    "name": "old metal teapots on counter",
+    "clip_id": "17819",
+    "order": 29
+  },
+  {
+    "storyId": 27453,
+    "name": "Pouring, Tea, Bedouin Tent, Jordan",
+    "clip_id": "476063",
+    "order": 30
+  },
+  {
+    "storyId": 21968,
+    "name": "Man, 4Th Wall, Traditional Attire, Tea",
+    "clip_id": "309275",
+    "order": 31
+  },
+  {
+    "storyId": 28398,
+    "name": "Talking, Sitting, Cafe, Man",
+    "clip_id": "508113",
+    "order": 32
+  },
+  {
+    "storyId": 18145,
+    "name": "woman blowing on a cup of hot tea and taking a sip",
+    "clip_id": "190952",
+    "order": 33
+  },
+  {
+    "storyId": 28398,
+    "name": "Cafe, Business Meeting, Window, Talking",
+    "clip_id": "508114",
+    "order": 34
+  },
+  {
+    "storyId": 26990,
+    "name": "Couple, Jordan, Wadi Rum, Desert",
+    "clip_id": "461776",
+    "order": 35
+  },
+  {
+    "storyId": 27453,
+    "name": "Bedouin, Man, Pita Bread, Fire",
+    "clip_id": "476071",
+    "order": 36
+  },
+  {
+    "storyId": 28398,
+    "name": "Smartphone, Selfie, Woman, Sitting",
+    "clip_id": "508100",
+    "order": 37
+  },
+  {
+    "storyId": 27453,
+    "name": "Man, Bedouin Tent, Jordan, Traditional",
+    "clip_id": "476067",
+    "order": 38
+  },
+  {
+    "storyId": 27453,
+    "name": "Bedouin Tent, Jordan, Traditional, Hospitality",
+    "clip_id": "476072",
+    "order": 39
+  },
+  {
+    "storyId": 28398,
+    "name": "Business Meeting, Cafe, Talking, Sitting",
+    "clip_id": "508095",
+    "order": 40
+  },
+  {
+    "storyId": 26990,
+    "name": "Jordan, Wadi Rum, Desert, Dunes",
+    "clip_id": "461773",
+    "order": 41
+  },
+  {
+    "storyId": 18145,
+    "name": "woman pouring tea from a glass tea pot",
+    "clip_id": "190908",
+    "order": 42
+  },
+  {
+    "storyId": 21968,
+    "name": "Man, Portrait, Cups, Tea",
+    "clip_id": "309256",
+    "order": 43
+  },
+  {
+    "storyId": 28398,
+    "name": "Talking, Sitting, Cafe, Woman",
+    "clip_id": "508096",
+    "order": 44
+  },
+  {
+    "storyId": 28398,
+    "name": "Man, Woman, Date, Talking",
+    "clip_id": "508099",
+    "order": 45
+  },
+  {
+    "storyId": 28398,
+    "name": "Looking, Smartphone, Woman, Man",
+    "clip_id": "508111",
+    "order": 46
+  },
+  {
+    "storyId": 28398,
+    "name": "Cafe, Business Meeting, Window, Talking",
+    "clip_id": "508115",
+    "order": 47
+  },
+  {
+    "storyId": 28398,
+    "name": "Sitting, Laughing, Talking, Man",
+    "clip_id": "508110",
+    "order": 48
+  },
+  {
+    "storyId": 25503,
+    "name": "Woman, Sitting, Laptop, Rooftop",
+    "clip_id": "416030",
+    "order": 49
+  },
+  {
+    "storyId": 10899,
+    "name": "Potter pouring hot drink in workplace",
+    "clip_id": "19131",
+    "order": 50
+  },
+  {
+    "storyId": 11369,
+    "name": "woman wraps spiced raw chicken in foil in kitchen",
+    "clip_id": "35402",
+    "order": 51
+  },
+  {
+    "storyId": 18145,
+    "name": "woman pouring tea from a glass tea pot",
+    "clip_id": "190906",
+    "order": 52
+  },
+  {
+    "storyId": 28398,
+    "name": "Looking, Smiling, Smartphone, Sitting",
+    "clip_id": "508116",
+    "order": 53
+  },
+  {
+    "storyId": 18145,
+    "name": "woman bringing tea pot and a cup to a table",
+    "clip_id": "190907",
+    "order": 54
+  },
+  {
+    "storyId": 14256,
+    "name": "cast iron pot and tea kettle on a glowing campfire",
+    "clip_id": "88348",
+    "order": 55
+  }
+]

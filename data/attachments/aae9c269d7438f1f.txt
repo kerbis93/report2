@@ -1,0 +1,26 @@
+[
+  {
+    "query": "black background",
+    "clip_id": "119063",
+    "story_id": "15574",
+    "autoRank": "0.36728956325623907"
+  },
+  {
+    "query": "black background",
+    "clip_id": "201437",
+    "story_id": "18449",
+    "autoRank": "0.36724930794373212"
+  },
+  {
+    "query": "black background",
+    "clip_id": "295896",
+    "story_id": "21589",
+    "autoRank": "0.36661227088345782"
+  },
+  {
+    "query": "black background",
+    "clip_id": "227893",
+    "story_id": "19376",
+    "autoRank": "0.36601771144478767"
+  }
+]

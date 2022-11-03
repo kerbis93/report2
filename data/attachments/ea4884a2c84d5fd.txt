@@ -1,0 +1,176 @@
+[
+  {
+    "storyId": 29533,
+    "name": "Domestic Violence, Upset, Girl, Father",
+    "clip_id": "538397",
+    "order": 0
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Poor, Afraid, Bedroom",
+    "clip_id": "277832",
+    "order": 1
+  },
+  {
+    "storyId": 27974,
+    "name": "Girl, Covering Ears, Poor, Afraid",
+    "clip_id": "277831",
+    "order": 2
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Bedroom, Reconciling",
+    "clip_id": "277816",
+    "order": 3
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Afraid, Noise, Bedroom",
+    "clip_id": "277837",
+    "order": 4
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Hugging, Afraid, Bedroom",
+    "clip_id": "277840",
+    "order": 5
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Covering Ears, Afraid, Bedroom",
+    "clip_id": "277834",
+    "order": 6
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Covering Ears, Bedroom, Afraid",
+    "clip_id": "277835",
+    "order": 7
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Bedroom, Reconciling",
+    "clip_id": "277817",
+    "order": 8
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Afraid, Hugging, Violence",
+    "clip_id": "277839",
+    "order": 9
+  },
+  {
+    "storyId": 27974,
+    "name": "Girl, Covering Ears, Poor, Afraid",
+    "clip_id": "277830",
+    "order": 10
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Reconciling, Bedroom",
+    "clip_id": "277818",
+    "order": 11
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Bedroom, Tension",
+    "clip_id": "277825",
+    "order": 12
+  },
+  {
+    "storyId": 27974,
+    "name": "Parents, Fighting, Daughter, Poor",
+    "clip_id": "277829",
+    "order": 13
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Covering Ears, Afraid, Bedroom",
+    "clip_id": "277836",
+    "order": 14
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Reconciling, Bedroom",
+    "clip_id": "277821",
+    "order": 15
+  },
+  {
+    "storyId": 27974,
+    "name": "Wife, Husband, Bedroom, Sad",
+    "clip_id": "277824",
+    "order": 16
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Reconciling, Bedroom",
+    "clip_id": "277820",
+    "order": 17
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Reconciling, Bedroom",
+    "clip_id": "277819",
+    "order": 18
+  },
+  {
+    "storyId": 27974,
+    "name": "Battered Woman, Bedroom, Sad, Violence",
+    "clip_id": "277827",
+    "order": 19
+  },
+  {
+    "storyId": 27974,
+    "name": "Battered Woman, Bedroom, Sad, Looking At Camera",
+    "clip_id": "277828",
+    "order": 20
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Afraid, Bedroom, Violence",
+    "clip_id": "277838",
+    "order": 21
+  },
+  {
+    "storyId": 27974,
+    "name": "Siblings, Covering Ears, Afraid, Bedroom",
+    "clip_id": "277833",
+    "order": 22
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Bedroom, Kissing",
+    "clip_id": "277826",
+    "order": 23
+  },
+  {
+    "storyId": 27974,
+    "name": "Husband, Wife, Reconciling, Bedroom",
+    "clip_id": "277822",
+    "order": 24
+  },
+  {
+    "storyId": 27974,
+    "name": "Battered Woman, Poverty, Wiping Tears, Violence",
+    "clip_id": "277841",
+    "order": 25
+  },
+  {
+    "storyId": 27974,
+    "name": "Battered Woman, Wiping Tears, Violence, Poverty",
+    "clip_id": "277842",
+    "order": 26
+  },
+  {
+    "storyId": 27974,
+    "name": "Wife, Bedroom, Poor, Husband",
+    "clip_id": "277823",
+    "order": 27
+  },
+  {
+    "storyId": 27974,
+    "name": "Girl, Cleaning, Kitchen, Messy",
+    "clip_id": "277843",
+    "order": 28
+  }
+]

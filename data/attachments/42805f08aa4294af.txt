@@ -1,0 +1,116 @@
+[
+  {
+    "storyId": 25507,
+    "name": "Box, Girl, Boys, Opening",
+    "clip_id": "416414",
+    "order": 0
+  },
+  {
+    "storyId": 29037,
+    "name": "Bored, Tired, Emoji, Face",
+    "clip_id": "525368",
+    "order": 1
+  },
+  {
+    "storyId": 29037,
+    "name": "Shocked, Shock, Emoji, Face",
+    "clip_id": "525364",
+    "order": 2
+  },
+  {
+    "storyId": 17785,
+    "name": "Positive, Coaching, Light-Table, Sand",
+    "clip_id": "178416",
+    "order": 3
+  },
+  {
+    "storyId": 24691,
+    "name": "Long Hair, Woman, Lake, Bled",
+    "clip_id": "391883",
+    "order": 4
+  },
+  {
+    "storyId": 19596,
+    "name": "1980S, Words, Retro, Text",
+    "clip_id": "234769",
+    "order": 5
+  },
+  {
+    "storyId": 28862,
+    "name": "Girls, Friends, Looking At Camera, Posing",
+    "clip_id": "521056",
+    "order": 6
+  },
+  {
+    "storyId": 25261,
+    "name": "Green Screen, Woman, Dancing, Party",
+    "clip_id": "410205",
+    "order": 7
+  },
+  {
+    "storyId": 27759,
+    "name": "Animated, 2D, Cartoon, Emojis",
+    "clip_id": "487418",
+    "order": 8
+  },
+  {
+    "storyId": 25264,
+    "name": "Green Screen, Chroma Key, Protest, Woman",
+    "clip_id": "410390",
+    "order": 9
+  },
+  {
+    "storyId": 11553,
+    "name": "male model tacking off his jacket while showing his tongue",
+    "clip_id": "38615",
+    "order": 10
+  },
+  {
+    "storyId": 18214,
+    "name": "Young, Shopping, Retail, Shop",
+    "clip_id": "193792",
+    "order": 11
+  },
+  {
+    "storyId": 26552,
+    "name": "Blink, Tongue Out, Emotion, Emoticon",
+    "clip_id": "445912",
+    "order": 12
+  },
+  {
+    "storyId": 20075,
+    "name": "Smiley, Eating, Candy, Animation",
+    "clip_id": "247162",
+    "order": 13
+  },
+  {
+    "storyId": 27609,
+    "name": "Yellow, Smiley, Open, Sad",
+    "clip_id": "482672",
+    "order": 14
+  },
+  {
+    "storyId": 18988,
+    "name": "Pajama-Party, Women, Girls, Pyjama",
+    "clip_id": "216666",
+    "order": 15
+  },
+  {
+    "storyId": 25462,
+    "name": "Green Screen, Protest, Protesting, Sign",
+    "clip_id": "410406",
+    "order": 16
+  },
+  {
+    "storyId": 29037,
+    "name": "Laughing, Emoji, Face, Expression",
+    "clip_id": "525365",
+    "order": 17
+  },
+  {
+    "storyId": 20654,
+    "name": "Man, Shouting, Noise, Yellow Background",
+    "clip_id": "265740",
+    "order": 18
+  }
+]

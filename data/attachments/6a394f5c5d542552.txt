@@ -1,0 +1,32 @@
+[
+  {
+    "query": "pop colture",
+    "clip_id": "173346",
+    "story_id": "17582",
+    "autoRank": "0.3060786315906508"
+  },
+  {
+    "query": "pop colture",
+    "clip_id": "19916",
+    "story_id": "10926",
+    "autoRank": "0.303853132814736"
+  },
+  {
+    "query": "pop colture",
+    "clip_id": "337353",
+    "story_id": "22872",
+    "autoRank": "0.30332074465592551"
+  },
+  {
+    "query": "pop colture",
+    "clip_id": "412630",
+    "story_id": "25358",
+    "autoRank": "0.30274170476544449"
+  },
+  {
+    "query": "pop colture",
+    "clip_id": "125225",
+    "story_id": "15858",
+    "autoRank": "0.30224291608952636"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "humanity",
+    "clip_id": "345765",
+    "story_id": "23139",
+    "autoRank": "0.30945719993447091"
+  },
+  {
+    "query": "humanity",
+    "clip_id": "359128",
+    "story_id": "23535",
+    "autoRank": "0.30567317743859412"
+  }
+]

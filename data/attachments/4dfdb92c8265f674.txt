@@ -1,0 +1,62 @@
+[
+  {
+    "query": "slow motion",
+    "clip_id": "111423",
+    "story_id": "15244",
+    "autoRank": "0.38873121970436081"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "98345",
+    "story_id": "14681",
+    "autoRank": "0.3872322538557969"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "36163",
+    "story_id": "11402",
+    "autoRank": "0.38574959492140665"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "113357",
+    "story_id": "15322",
+    "autoRank": "0.38410842106535747"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "94149",
+    "story_id": "14547",
+    "autoRank": "0.38270031113744141"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "96398",
+    "story_id": "14612",
+    "autoRank": "0.38231373633175486"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "81111",
+    "story_id": "13904",
+    "autoRank": "0.3818135992633373"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "101152",
+    "story_id": "14791",
+    "autoRank": "0.38154028098360349"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "87596",
+    "story_id": "14223",
+    "autoRank": "0.38145980589028822"
+  },
+  {
+    "query": "slow motion",
+    "clip_id": "84212",
+    "story_id": "14075",
+    "autoRank": "0.38135145169730511"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "query": "black & white",
+    "clip_id": "98362",
+    "story_id": "14681",
+    "autoRank": "0.36419591534001761"
+  },
+  {
+    "query": "black & white",
+    "clip_id": "90618",
+    "story_id": "14370",
+    "autoRank": "0.36129673340412688"
+  },
+  {
+    "query": "black & white",
+    "clip_id": "297385",
+    "story_id": "21654",
+    "autoRank": "0.35856370626280942"
+  }
+]

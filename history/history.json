@@ -1,0 +1,3816 @@
+{
+  "9df3453586ba26255f1a5c14ab19e593" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d72252abe24bb1b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489329995,
+        "stop" : 1667489339631,
+        "duration" : 9636
+      }
+    } ]
+  },
+  "d9ce42911e1b0a92f3bc91cfe746afdb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a52743551bde81b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490160229,
+        "stop" : 1667490166546,
+        "duration" : 6317
+      }
+    } ]
+  },
+  "304ab28bb52dd4c774fb8edc6d332daa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb05edd12bc6a90c",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 26 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"Eye Candy\",\"clip_id\":\"131927\",\"story_id\":\"16142\",\"autoRank\":\"0.30921891622711994\"},{\"query\":\"Eye Candy\",\"clip_id\":\"179847\",\"story_id\":\"17865\",\"autoRank\":\"0.30921891622711994\"},{\"query\":\"Eye Candy\",\"clip_id\":\"179882\",\"story_id\":\"17866\",\"autoRank\":\"0.30783265747470007\"},{\"query\":\"Eye Candy\",\"clip_id\":\"285494\",\"story_id\":\"21279\",\"autoRank\":\"0.30657582904425007\"},{\"query\":\"Eye Candy\",\"clip_id\":\"406104\",\"story_id\":\"25121\",\"autoRank\":\"0.30391480620923966\"},{\"query\":\"Eye Candy\",\"clip_id\":\"239541\",\"story_id\":\"19798\",\"autoRank\":\"0.30385936660527\"},{\"query\":\"Eye Candy\",\"clip_id\":\"320203\",\"story_id\":\"22291\",\"autoRank\":\"0.30383886862045556\"},{\"query\":\"Eye Candy\",\"clip_id\":\"32541\",\"story_id\":\"11256\",\"autoRank\":\"0.30339795984678375\"},{\"query\":\"Eye Candy\",\"clip_id\":\"217016\",\"story_id\":\"19001\",\"autoRank\":\"0.30328160499167234\"},{\"query\":\"Eye Candy\",\"clip_id\":\"406407\",\"story_id\":\"25128\",\"autoRank\":\"0.30327599981585612\"}]",
+      "time" : {
+        "start" : 1667489847629,
+        "stop" : 1667489849119,
+        "duration" : 1490
+      }
+    } ]
+  },
+  "a41b91928d6d7a8cf2be2865a3355f7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f075568c5dafd08",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 60 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"wandering city\",\"clip_id\":\"47395\",\"story_id\":\"11971\",\"autoRank\":\"0.32813892809614159\"},{\"query\":\"wandering city\",\"clip_id\":\"44718\",\"story_id\":\"11800\",\"autoRank\":\"0.32349002007939531\"},{\"query\":\"wandering city\",\"clip_id\":\"66262\",\"story_id\":\"13167\",\"autoRank\":\"0.31987971667533543\"},{\"query\":\"wandering city\",\"clip_id\":\"163141\",\"story_id\":\"17221\",\"autoRank\":\"0.31793126290184986\"},{\"query\":\"wandering city\",\"clip_id\":\"154661\",\"story_id\":\"16896\",\"autoRank\":\"0.31751485907578103\"},{\"query\":\"wandering city\",\"clip_id\":\"138509\",\"story_id\":\"18997\",\"autoRank\":\"0.31626091341344431\"},{\"query\":\"wandering city\",\"clip_id\":\"44513\",\"story_id\":\"11790\",\"autoRank\":\"0.31596329000810741\"},{\"query\":\"wandering city\",\"clip_id\":\"43687\",\"story_id\":\"11753\",\"autoRank\":\"0.31579614102725728\"}]",
+      "time" : {
+        "start" : 1667490269470,
+        "stop" : 1667490272843,
+        "duration" : 3373
+      }
+    } ]
+  },
+  "9daaed56100fccf6f1723847ebdf1e4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9054fabf80943b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489721713,
+        "stop" : 1667489724424,
+        "duration" : 2711
+      }
+    } ]
+  },
+  "d2eb5558d4d4a79b7cfa52114f84716b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86887fbf1e3a9713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489213618,
+        "stop" : 1667489223621,
+        "duration" : 10003
+      }
+    } ]
+  },
+  "518db44bc82c6da68f68d7b549bebf6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd2f1097ae6b2198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489059957,
+        "stop" : 1667489063661,
+        "duration" : 3704
+      }
+    } ]
+  },
+  "3bc78c0a1dd02b77622a1890676d8afb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7fe00fcc8852b70",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"goosebumps\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490035758,
+        "stop" : 1667490036263,
+        "duration" : 505
+      }
+    } ]
+  },
+  "b5c8ba33b273501bfd19edd31c71fbac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aafcb924a1fe2a81",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 103 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"war zone\",\"clip_id\":\"344438\",\"story_id\":\"23104\",\"autoRank\":\"0.31072795298945927\"},{\"query\":\"war zone\",\"clip_id\":\"419410\",\"story_id\":\"25589\",\"autoRank\":\"0.31049263754355794\"},{\"query\":\"war zone\",\"clip_id\":\"66773\",\"story_id\":\"13199\",\"autoRank\":\"0.3067186654605849\"},{\"query\":\"war zone\",\"clip_id\":\"71239\",\"story_id\":\"13476\",\"autoRank\":\"0.30587997299800906\"},{\"query\":\"war zone\",\"clip_id\":\"125286\",\"story_id\":\"15860\",\"autoRank\":\"0.30491426024394913\"},{\"query\":\"war zone\",\"clip_id\":\"18460\",\"story_id\":\"10879\",\"autoRank\":\"0.30409969103988266\"},{\"query\":\"war zone\",\"clip_id\":\"55490\",\"story_id\":\"12420\",\"autoRank\":\"0.30409305626655186\"},{\"query\":\"war zone\",\"clip_id\":\"344426\",\"story_id\":\"23374\",\"autoRank\":\"0.30404116041242624\"},{\"query\":\"war zone\",\"clip_id\":\"19470\",\"story_id\":\"10907\",\"autoRank\":\"0.30401848233794693\"}]",
+      "time" : {
+        "start" : 1667490272844,
+        "stop" : 1667490275644,
+        "duration" : 2800
+      }
+    } ]
+  },
+  "71b2f1c4c284e60723f4cd04a1615e15" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5b27c1ce5367a99",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"black children\",\"clip_id\":\"304700\",\"story_id\":\"21853\",\"autoRank\":\"0.3666180260244834\"},{\"query\":\"black children\",\"clip_id\":\"96484\",\"story_id\":\"14614\",\"autoRank\":\"0.36278864197546978\"},{\"query\":\"black children\",\"clip_id\":\"295468\",\"story_id\":\"21578\",\"autoRank\":\"0.35882691589400578\"},{\"query\":\"black children\",\"clip_id\":\"248863\",\"story_id\":\"20144\",\"autoRank\":\"0.3563614306222464\"},{\"query\":\"black children\",\"clip_id\":\"216814\",\"story_id\":\"18989\",\"autoRank\":\"0.35406020804729504\"},{\"query\":\"black children\",\"clip_id\":\"203268\",\"story_id\":\"18521\",\"autoRank\":\"0.33649622102543625\"}]",
+      "time" : {
+        "start" : 1667489908423,
+        "stop" : 1667489917327,
+        "duration" : 8904
+      }
+    } ]
+  },
+  "83fccc9019c76a3da31db9ffac62d029" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b76d6a082b8f6d8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490275645,
+        "stop" : 1667490287168,
+        "duration" : 11523
+      }
+    } ]
+  },
+  "ffc545699eaf1dbeff0356adb388fe08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c87ad21669063098",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489383301,
+        "stop" : 1667489393613,
+        "duration" : 10312
+      }
+    } ]
+  },
+  "5c66a2688e8c6b2bae7b696238d729e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6540c441d07f9837",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489319213,
+        "stop" : 1667489329993,
+        "duration" : 10780
+      }
+    } ]
+  },
+  "0649b9c02f4ca70d0c826348254aa502" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f03cf1b1fd49af1",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"scorsese\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490171521,
+        "stop" : 1667490171962,
+        "duration" : 441
+      }
+    } ]
+  },
+  "e51e7f90b17ed694b12192539c076a6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8ef0a265a75196d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489223622,
+        "stop" : 1667489232600,
+        "duration" : 8978
+      }
+    } ]
+  },
+  "a367d16503cf4177b1e7a318d667eb01" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58245f1ce6791640",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489393615,
+        "stop" : 1667489404083,
+        "duration" : 10468
+      }
+    } ]
+  },
+  "70a5e915f6df51954b71760f9eb885dd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2fc20d007819331",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 3 \nLength of returned list: 6 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"google\",\"clip_id\":\"395356\",\"story_id\":\"24776\",\"autoRank\":\"0.30278126791841259\"}]",
+      "time" : {
+        "start" : 1667489370342,
+        "stop" : 1667489373320,
+        "duration" : 2978
+      }
+    } ]
+  },
+  "9ec797facf1a38ddd1ca4ea94f455b89" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2017afe7c5b5a298",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"pop colture\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490151275,
+        "stop" : 1667490151726,
+        "duration" : 451
+      }
+    } ]
+  },
+  "689f6642cee667a75a81cccfe552db0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bac33a4c5958dc79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489083908,
+        "stop" : 1667489094617,
+        "duration" : 10709
+      }
+    } ]
+  },
+  "334ab4c8809027b433858ff13a5b1aba" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a432ad37f9c4aa6b",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 145 \nReturned mandatory clips: 3 \nUnreturned mandatory clips: [{\"query\":\"gender fluid\",\"clip_id\":\"406474\",\"story_id\":\"25130\",\"autoRank\":\"0.30533037683255643\"},{\"query\":\"gender fluid\",\"clip_id\":\"51468\",\"story_id\":\"12246\",\"autoRank\":\"0.30473359311822862\"},{\"query\":\"gender fluid\",\"clip_id\":\"68352\",\"story_id\":\"13289\",\"autoRank\":\"0.30385465717109222\"},{\"query\":\"gender fluid\",\"clip_id\":\"305816\",\"story_id\":\"21872\",\"autoRank\":\"0.30350547470521855\"},{\"query\":\"gender fluid\",\"clip_id\":\"84140\",\"story_id\":\"14069\",\"autoRank\":\"0.30334100292090355\"},{\"query\":\"gender fluid\",\"clip_id\":\"170999\",\"story_id\":\"17518\",\"autoRank\":\"0.3028294736030096\"},{\"query\":\"gender fluid\",\"clip_id\":\"325564\",\"story_id\":\"22477\",\"autoRank\":\"0.30275467783926452\"}]",
+      "time" : {
+        "start" : 1667490022183,
+        "stop" : 1667490025937,
+        "duration" : 3754
+      }
+    } ]
+  },
+  "3d41550adce3deffdd195b09ab06c70d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb349284f18f49c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489573308,
+        "stop" : 1667489581913,
+        "duration" : 8605
+      }
+    } ]
+  },
+  "95371080ca0e388ce0510a634ac23ab8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16bbab73c6f49d89",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 17 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"stunning view/scenery\",\"clip_id\":\"394500\",\"story_id\":\"24751\",\"autoRank\":\"0.31308568472053494\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"262408\",\"story_id\":\"20543\",\"autoRank\":\"0.31133808213900516\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"343374\",\"story_id\":\"23065\",\"autoRank\":\"0.31052699490440355\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"77018\",\"story_id\":\"13732\",\"autoRank\":\"0.310371049554502\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"205135\",\"story_id\":\"18587\",\"autoRank\":\"0.30949395218393527\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"294885\",\"story_id\":\"21565\",\"autoRank\":\"0.30947548749159565\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"138574\",\"story_id\":\"16373\",\"autoRank\":\"0.30921592278690135\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"203805\",\"story_id\":\"18541\",\"autoRank\":\"0.30879388003633812\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"97610\",\"story_id\":\"14652\",\"autoRank\":\"0.30875393228742609\"}]",
+      "time" : {
+        "start" : 1667490222614,
+        "stop" : 1667490223416,
+        "duration" : 802
+      }
+    } ]
+  },
+  "68ed4c42b5b0480820078ee1a23eed39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "754f232d863b958b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490014341,
+        "stop" : 1667490021735,
+        "duration" : 7394
+      }
+    } ]
+  },
+  "e656e5a6cb05ea17d56574b44110ea64" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4771159246313be",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"goofing around  - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490034512,
+        "stop" : 1667490035331,
+        "duration" : 819
+      }
+    } ]
+  },
+  "1034c22be0a325ace5f8a14b078d4d44" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d5378ac17242695",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 137 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"intro\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.31901059982594215\"},{\"query\":\"intro\",\"clip_id\":\"361562\",\"story_id\":\"23643\",\"autoRank\":\"0.31799846230043916\"},{\"query\":\"intro\",\"clip_id\":\"410366\",\"story_id\":\"25264\",\"autoRank\":\"0.31784395962525064\"},{\"query\":\"intro\",\"clip_id\":\"410215\",\"story_id\":\"25261\",\"autoRank\":\"0.31701554631903844\"},{\"query\":\"intro\",\"clip_id\":\"410258\",\"story_id\":\"25262\",\"autoRank\":\"0.31645939436623849\"},{\"query\":\"intro\",\"clip_id\":\"178540\",\"story_id\":\"17794\",\"autoRank\":\"0.31644866986436831\"},{\"query\":\"intro\",\"clip_id\":\"191206\",\"story_id\":\"18150\",\"autoRank\":\"0.31589808646862294\"},{\"query\":\"intro\",\"clip_id\":\"234498\",\"story_id\":\"19591\",\"autoRank\":\"0.31490495134107521\"},{\"query\":\"intro\",\"clip_id\":\"190602\",\"story_id\":\"18140\",\"autoRank\":\"0.31441116795383711\"},{\"query\":\"intro\",\"clip_id\":\"235162\",\"story_id\":\"19604\",\"autoRank\":\"0.31403641005007976\"}]",
+      "time" : {
+        "start" : 1667490076209,
+        "stop" : 1667490079734,
+        "duration" : 3525
+      }
+    } ]
+  },
+  "4fc2c1a5cdb01a45bcd5ef4f12de923e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6e5aa2d02137e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489925768,
+        "stop" : 1667489929555,
+        "duration" : 3787
+      }
+    } ]
+  },
+  "c47337cf90a8d866cbdb17e338c20c0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8c7ad91fc29adee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490025939,
+        "stop" : 1667490034505,
+        "duration" : 8566
+      }
+    } ]
+  },
+  "a859c0781384e9a455cac1a8350ae01d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6eb43384b1eb4cd",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 120 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"techno\",\"clip_id\":\"412350\",\"story_id\":\"25347\",\"autoRank\":\"0.31671903285695679\"},{\"query\":\"techno\",\"clip_id\":\"178543\",\"story_id\":\"17794\",\"autoRank\":\"0.31445832189033385\"},{\"query\":\"techno\",\"clip_id\":\"412421\",\"story_id\":\"25350\",\"autoRank\":\"0.30976652523428316\"},{\"query\":\"techno\",\"clip_id\":\"337336\",\"story_id\":\"22870\",\"autoRank\":\"0.30958817820494583\"},{\"query\":\"techno\",\"clip_id\":\"412696\",\"story_id\":\"25360\",\"autoRank\":\"0.3095828021980781\"},{\"query\":\"techno\",\"clip_id\":\"412413\",\"story_id\":\"25349\",\"autoRank\":\"0.30952442663464852\"}]",
+      "time" : {
+        "start" : 1667490244027,
+        "stop" : 1667490248725,
+        "duration" : 4698
+      }
+    } ]
+  },
+  "36f43cc892e369542297766996ba9cdd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fbe42f6f512761f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 23 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"coffee berries\",\"clip_id\":\"414721\",\"story_id\":\"25463\",\"autoRank\":\"0.33228633076123343\"},{\"query\":\"coffee berries\",\"clip_id\":\"208671\",\"story_id\":\"18706\",\"autoRank\":\"0.33156117256176582\"},{\"query\":\"coffee berries\",\"clip_id\":\"42772\",\"story_id\":\"11722\",\"autoRank\":\"0.33024213899847343\"},{\"query\":\"coffee berries\",\"clip_id\":\"323211\",\"story_id\":\"22393\",\"autoRank\":\"0.32438919984689851\"},{\"query\":\"coffee berries\",\"clip_id\":\"373140\",\"story_id\":\"23994\",\"autoRank\":\"0.32403269615803876\"},{\"query\":\"coffee berries\",\"clip_id\":\"259775\",\"story_id\":\"20462\",\"autoRank\":\"0.32316013272918787\"},{\"query\":\"coffee berries\",\"clip_id\":\"50398\",\"story_id\":\"12198\",\"autoRank\":\"0.32277875704602738\"},{\"query\":\"coffee berries\",\"clip_id\":\"284917\",\"story_id\":\"21255\",\"autoRank\":\"0.32247031340795079\"},{\"query\":\"coffee berries\",\"clip_id\":\"362360\",\"story_id\":\"23686\",\"autoRank\":\"0.32236579603276833\"}]",
+      "time" : {
+        "start" : 1667489943304,
+        "stop" : 1667489944718,
+        "duration" : 1414
+      }
+    } ]
+  },
+  "b9a69095a4cdcaf4f064e961ca846657" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "878fcf4f071f448d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 370 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"modern dance\",\"clip_id\":\"48173\",\"story_id\":\"12049\",\"autoRank\":\"0.36543326725142866\"},{\"query\":\"modern dance\",\"clip_id\":\"48390\",\"story_id\":\"12069\",\"autoRank\":\"0.35411517873941017\"},{\"query\":\"modern dance\",\"clip_id\":\"18543\",\"story_id\":\"10880\",\"autoRank\":\"0.35072980006022231\"}]",
+      "time" : {
+        "start" : 1667490109503,
+        "stop" : 1667490120526,
+        "duration" : 11023
+      }
+    } ]
+  },
+  "9f28ca3fb50503d39ab6f2ff9e52ab3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5488d8fe198356c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489136905,
+        "stop" : 1667489146377,
+        "duration" : 9472
+      }
+    } ]
+  },
+  "ea9a17e196c2cfae1d887a03118893b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15e515c3177da1c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489763408,
+        "stop" : 1667489773699,
+        "duration" : 10291
+      }
+    } ]
+  },
+  "465fe6c95f58fabf4423922d8aaee777" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "767485d6ff6ee71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489277408,
+        "stop" : 1667489289415,
+        "duration" : 12007
+      }
+    } ]
+  },
+  "f5b1fcf67cd42533fba5a5a5e5b51975" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d508a44ec82e3ac3",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 123 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"tiktok\",\"clip_id\":\"410388\",\"story_id\":\"25264\",\"autoRank\":\"0.31652417135338251\"},{\"query\":\"tiktok\",\"clip_id\":\"361562\",\"story_id\":\"23643\",\"autoRank\":\"0.31581488867207413\"},{\"query\":\"tiktok\",\"clip_id\":\"410235\",\"story_id\":\"25261\",\"autoRank\":\"0.3119656034591069\"},{\"query\":\"tiktok\",\"clip_id\":\"410296\",\"story_id\":\"25262\",\"autoRank\":\"0.31192709388103357\"},{\"query\":\"tiktok\",\"clip_id\":\"201406\",\"story_id\":\"18449\",\"autoRank\":\"0.30977454924771758\"},{\"query\":\"tiktok\",\"clip_id\":\"410304\",\"story_id\":\"25343\",\"autoRank\":\"0.30970068964029368\"},{\"query\":\"tiktok\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.30887158969596218\"},{\"query\":\"tiktok\",\"clip_id\":\"196169\",\"story_id\":\"18275\",\"autoRank\":\"0.30866203140748816\"},{\"query\":\"tiktok\",\"clip_id\":\"38614\",\"story_id\":\"11553\",\"autoRank\":\"0.30860561120588847\"},{\"query\":\"tiktok\",\"clip_id\":\"61303\",\"story_id\":\"12890\",\"autoRank\":\"0.30811668002395626\"}]",
+      "time" : {
+        "start" : 1667490251945,
+        "stop" : 1667490255124,
+        "duration" : 3179
+      }
+    } ]
+  },
+  "32fb4f0462deef8201ba83c18dbf7988" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdf089d1e41f0de3",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"slow motion\",\"clip_id\":\"111423\",\"story_id\":\"15244\",\"autoRank\":\"0.38873121970436081\"},{\"query\":\"slow motion\",\"clip_id\":\"36163\",\"story_id\":\"11402\",\"autoRank\":\"0.38574959492140665\"},{\"query\":\"slow motion\",\"clip_id\":\"113357\",\"story_id\":\"15322\",\"autoRank\":\"0.38410842106535747\"},{\"query\":\"slow motion\",\"clip_id\":\"94149\",\"story_id\":\"14547\",\"autoRank\":\"0.38270031113744141\"},{\"query\":\"slow motion\",\"clip_id\":\"96398\",\"story_id\":\"14612\",\"autoRank\":\"0.38231373633175486\"},{\"query\":\"slow motion\",\"clip_id\":\"81111\",\"story_id\":\"13904\",\"autoRank\":\"0.3818135992633373\"},{\"query\":\"slow motion\",\"clip_id\":\"101152\",\"story_id\":\"14791\",\"autoRank\":\"0.38154028098360349\"},{\"query\":\"slow motion\",\"clip_id\":\"87596\",\"story_id\":\"14223\",\"autoRank\":\"0.38145980589028822\"},{\"query\":\"slow motion\",\"clip_id\":\"84212\",\"story_id\":\"14075\",\"autoRank\":\"0.38135145169730511\"}]",
+      "time" : {
+        "start" : 1667490181382,
+        "stop" : 1667490187784,
+        "duration" : 6402
+      }
+    } ]
+  },
+  "a837428e6a4519a59c9d54abca787061" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38e06a8dfcf4fb5a",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 75 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"empty train\",\"clip_id\":\"130142\",\"story_id\":\"16068\",\"autoRank\":\"0.3528317319698781\"},{\"query\":\"empty train\",\"clip_id\":\"74065\",\"story_id\":\"13603\",\"autoRank\":\"0.3506471484813995\"}]",
+      "time" : {
+        "start" : 1667489994905,
+        "stop" : 1667489998936,
+        "duration" : 4031
+      }
+    } ]
+  },
+  "ebc712efe3e4eccfca3cdbb72f0d72a8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "552436ee7d22bd6c",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"fool around  slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490021739,
+        "stop" : 1667490022176,
+        "duration" : 437
+      }
+    } ]
+  },
+  "135754fa13b37d83a56897443549fe44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a39b6bd2f08a90f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489049918,
+        "stop" : 1667489059955,
+        "duration" : 10037
+      }
+    } ]
+  },
+  "39e06819a7e762a1626e9f6f75c7c4ca" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a989e7bd952f0ff",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"time\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490255558,
+        "stop" : 1667490256133,
+        "duration" : 575
+      }
+    } ]
+  },
+  "2f7aebaf5b472c790ca40fcba3f01e0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2427da622db45056",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490003539,
+        "stop" : 1667490014338,
+        "duration" : 10799
+      }
+    } ]
+  },
+  "3ace943efa4f1e81a2b321676c026c10" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2887d446017280e2",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"park\",\"clip_id\":\"100765\",\"story_id\":\"14770\",\"autoRank\":\"0.36454325497369183\"},{\"query\":\"park\",\"clip_id\":\"137510\",\"story_id\":\"16323\",\"autoRank\":\"0.36267183136295855\"},{\"query\":\"park\",\"clip_id\":\"23312\",\"story_id\":\"11045\",\"autoRank\":\"0.36135370435713909\"},{\"query\":\"park\",\"clip_id\":\"83212\",\"story_id\":\"14020\",\"autoRank\":\"0.36014301316087743\"},{\"query\":\"park\",\"clip_id\":\"278304\",\"story_id\":\"21084\",\"autoRank\":\"0.35959449390179088\"},{\"query\":\"park\",\"clip_id\":\"69335\",\"story_id\":\"13380\",\"autoRank\":\"0.3589438488122445\"},{\"query\":\"park\",\"clip_id\":\"287157\",\"story_id\":\"21335\",\"autoRank\":\"0.35844163589731287\"},{\"query\":\"park\",\"clip_id\":\"121694\",\"story_id\":\"15693\",\"autoRank\":\"0.35813107220859453\"},{\"query\":\"park\",\"clip_id\":\"126412\",\"story_id\":\"15901\",\"autoRank\":\"0.35684493444664422\"}]",
+      "time" : {
+        "start" : 1667490141416,
+        "stop" : 1667490151274,
+        "duration" : 9858
+      }
+    } ]
+  },
+  "3bb4474e8a9be9adcdee2be04685701d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23d99cd600d1d7bd",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"google\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490035336,
+        "stop" : 1667490035756,
+        "duration" : 420
+      }
+    } ]
+  },
+  "894c4aa2c67d6135d682715ea1d940b8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58a30a6f100354f2",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 106 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"lights in a tunnel\",\"clip_id\":\"219570\",\"story_id\":\"19093\",\"autoRank\":\"0.36284474849811077\"},{\"query\":\"lights in a tunnel\",\"clip_id\":\"176152\",\"story_id\":\"17681\",\"autoRank\":\"0.36233593956125809\"},{\"query\":\"lights in a tunnel\",\"clip_id\":\"203852\",\"story_id\":\"18545\",\"autoRank\":\"0.35896826069613141\"}]",
+      "time" : {
+        "start" : 1667490079737,
+        "stop" : 1667490082385,
+        "duration" : 2648
+      }
+    } ]
+  },
+  "6288e6eed4ae4b9865ea588004773b71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef81a663478fbf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489232601,
+        "stop" : 1667489234844,
+        "duration" : 2243
+      }
+    } ]
+  },
+  "87d0406027363ef05ca463e295e02486" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69fd9673a525f9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489950054,
+        "stop" : 1667489958597,
+        "duration" : 8543
+      }
+    } ]
+  },
+  "85ca7adc17acf8d11c35a70a58c26d28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fefdd66fa0b07779",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489590833,
+        "stop" : 1667489599901,
+        "duration" : 9068
+      }
+    } ]
+  },
+  "5849f569018f193ace3d89f983057228" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1505bc6590c0c3a1",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 11 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"amazing view/scenery\",\"clip_id\":\"234441\",\"story_id\":\"19535\",\"autoRank\":\"0.3458509298548112\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"263590\",\"story_id\":\"20590\",\"autoRank\":\"0.33695028828204465\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"260706\",\"story_id\":\"20488\",\"autoRank\":\"0.32210986556043447\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"394500\",\"story_id\":\"24751\",\"autoRank\":\"0.31474478199037836\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"262408\",\"story_id\":\"20543\",\"autoRank\":\"0.312993653948697\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"343374\",\"story_id\":\"23065\",\"autoRank\":\"0.31235446158937258\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"203805\",\"story_id\":\"18541\",\"autoRank\":\"0.31154133480172513\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"385188\",\"story_id\":\"24473\",\"autoRank\":\"0.31119582693883074\"}]",
+      "time" : {
+        "start" : 1667489850452,
+        "stop" : 1667489851570,
+        "duration" : 1118
+      }
+    } ]
+  },
+  "ffedfb356c2d5d6806b060fb9799f89f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2cb5d1d7872ab10",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"wireframe\",\"clip_id\":\"48035\",\"story_id\":\"12035\",\"autoRank\":\"0.31524360446638927\"},{\"query\":\"wireframe\",\"clip_id\":\"155182\",\"story_id\":\"16911\",\"autoRank\":\"0.31239262284781877\"}]",
+      "time" : {
+        "start" : 1667489773700,
+        "stop" : 1667489783731,
+        "duration" : 10031
+      }
+    } ]
+  },
+  "53639f9627ca1423062427d0d2888548" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d2c4bdaf11ed8e5",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"artgrid\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489851572,
+        "stop" : 1667489852321,
+        "duration" : 749
+      }
+    } ]
+  },
+  "1ad524bd50dbb7a42a09246cc2faa1f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae7759fd35cde9db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489581913,
+        "stop" : 1667489590830,
+        "duration" : 8917
+      }
+    } ]
+  },
+  "c8b40d7e0e97f1cb08a72f4123c3eb9a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89d2de75024668ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489704230,
+        "stop" : 1667489712613,
+        "duration" : 8383
+      }
+    } ]
+  },
+  "5afabfcdd4f292e2a5ac106eeefbe85c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b735739f9a41400",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489357641,
+        "stop" : 1667489367814,
+        "duration" : 10173
+      }
+    } ]
+  },
+  "565cddfaf595ea83b7b6024122355c9b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c23ff3859477f8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489375423,
+        "stop" : 1667489383299,
+        "duration" : 7876
+      }
+    } ]
+  },
+  "8e18af42a8d186822a26641e853faf98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ed91186566dfefe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489289417,
+        "stop" : 1667489298388,
+        "duration" : 8971
+      }
+    } ]
+  },
+  "297a620fd7385ba7182b358b8770923b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ac6387545420a36",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 235 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"youtube\",\"clip_id\":\"361562\",\"story_id\":\"23643\",\"autoRank\":\"0.30952772472458118\"},{\"query\":\"youtube\",\"clip_id\":\"235201\",\"story_id\":\"19604\",\"autoRank\":\"0.30831352873208673\"},{\"query\":\"youtube\",\"clip_id\":\"261416\",\"story_id\":\"20514\",\"autoRank\":\"0.30688196515027566\"},{\"query\":\"youtube\",\"clip_id\":\"410389\",\"story_id\":\"25264\",\"autoRank\":\"0.30678731235779205\"},{\"query\":\"youtube\",\"clip_id\":\"371849\",\"story_id\":\"23968\",\"autoRank\":\"0.30660660962270064\"},{\"query\":\"youtube\",\"clip_id\":\"178667\",\"story_id\":\"18097\",\"autoRank\":\"0.3065348006528309\"},{\"query\":\"youtube\",\"clip_id\":\"187354\",\"story_id\":\"18066\",\"autoRank\":\"0.30645314472044616\"},{\"query\":\"youtube\",\"clip_id\":\"410297\",\"story_id\":\"25262\",\"autoRank\":\"0.30606738433194408\"},{\"query\":\"youtube\",\"clip_id\":\"420070\",\"story_id\":\"25625\",\"autoRank\":\"0.30604649927139616\"}]",
+      "time" : {
+        "start" : 1667490292428,
+        "stop" : 1667490297576,
+        "duration" : 5148
+      }
+    } ]
+  },
+  "598d02413854fe02bee17cd08460fa81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ec58e3aed5d6205",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489872825,
+        "stop" : 1667489881868,
+        "duration" : 9043
+      }
+    } ]
+  },
+  "74509d7ee003154421d2e7e32aec1391" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "936b2a4da00bcf63",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 31 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"egg white\",\"clip_id\":\"100849\",\"story_id\":\"14773\",\"autoRank\":\"0.33909162410263605\"},{\"query\":\"egg white\",\"clip_id\":\"95029\",\"story_id\":\"14571\",\"autoRank\":\"0.33077675238300086\"},{\"query\":\"egg white\",\"clip_id\":\"255347\",\"story_id\":\"20362\",\"autoRank\":\"0.32776387675624435\"},{\"query\":\"egg white\",\"clip_id\":\"150958\",\"story_id\":\"16776\",\"autoRank\":\"0.32624230770338608\"},{\"query\":\"egg white\",\"clip_id\":\"127961\",\"story_id\":\"15974\",\"autoRank\":\"0.31973944272659033\"}]",
+      "time" : {
+        "start" : 1667489985007,
+        "stop" : 1667489986477,
+        "duration" : 1470
+      }
+    } ]
+  },
+  "a1050c4bc6ca24e6f2bb767c9120f9f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32fd13ebe2fff69e",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 211 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"master\",\"clip_id\":\"191068\",\"story_id\":\"18147\",\"autoRank\":\"0.30653878342506086\"},{\"query\":\"master\",\"clip_id\":\"357568\",\"story_id\":\"23457\",\"autoRank\":\"0.30427860292189396\"},{\"query\":\"master\",\"clip_id\":\"38614\",\"story_id\":\"11553\",\"autoRank\":\"0.304063901909279\"}]",
+      "time" : {
+        "start" : 1667490091796,
+        "stop" : 1667490097652,
+        "duration" : 5856
+      }
+    } ]
+  },
+  "7825d866277877d39b64e969ca3f4280" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e00a5ca2d68d8131",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 70 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"yellow cab\",\"clip_id\":\"95306\",\"story_id\":\"14586\",\"autoRank\":\"0.31274298383765814\"},{\"query\":\"yellow cab\",\"clip_id\":\"247174\",\"story_id\":\"20075\",\"autoRank\":\"0.31246192716284993\"},{\"query\":\"yellow cab\",\"clip_id\":\"118439\",\"story_id\":\"15558\",\"autoRank\":\"0.31215534667764033\"},{\"query\":\"yellow cab\",\"clip_id\":\"111428\",\"story_id\":\"15244\",\"autoRank\":\"0.31010881731414675\"},{\"query\":\"yellow cab\",\"clip_id\":\"390058\",\"story_id\":\"24635\",\"autoRank\":\"0.30835164644337842\"},{\"query\":\"yellow cab\",\"clip_id\":\"48299\",\"story_id\":\"12061\",\"autoRank\":\"0.30754998322173638\"},{\"query\":\"yellow cab\",\"clip_id\":\"267953\",\"story_id\":\"20726\",\"autoRank\":\"0.30686233282208275\"},{\"query\":\"yellow cab\",\"clip_id\":\"334958\",\"story_id\":\"22760\",\"autoRank\":\"0.30678618791833928\"},{\"query\":\"yellow cab\",\"clip_id\":\"46497\",\"story_id\":\"11883\",\"autoRank\":\"0.30557487937214051\"},{\"query\":\"yellow cab\",\"clip_id\":\"114919\",\"story_id\":\"15399\",\"autoRank\":\"0.30529442861903155\"}]",
+      "time" : {
+        "start" : 1667490290240,
+        "stop" : 1667490292426,
+        "duration" : 2186
+      }
+    } ]
+  },
+  "214cb320be6bb4f9a9d3b1edd8dde364" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba210f7f5dc4732f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489161042,
+        "stop" : 1667489171820,
+        "duration" : 10778
+      }
+    } ]
+  },
+  "58a21313a9188f7d7d69025c098f68ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a61ef95cf72b5218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489698938,
+        "stop" : 1667489704229,
+        "duration" : 5291
+      }
+    } ]
+  },
+  "2247a7af9da2b4d292f062ede9d9fdb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8178fcb7eb7caec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489552206,
+        "stop" : 1667489563097,
+        "duration" : 10891
+      }
+    } ]
+  },
+  "2d685f5adfbd872a3c2724f37dbf5430" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72746b4e6e1cdf9f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 4 \nLength of returned list: 5 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"humanity\",\"clip_id\":\"345765\",\"story_id\":\"23139\",\"autoRank\":\"0.30945719993447091\"},{\"query\":\"humanity\",\"clip_id\":\"359128\",\"story_id\":\"23535\",\"autoRank\":\"0.30567317743859412\"}]",
+      "time" : {
+        "start" : 1667489425824,
+        "stop" : 1667489428946,
+        "duration" : 3122
+      }
+    } ]
+  },
+  "514cb4b312ad66aedeea5d2488703d50" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee3a9ab17d13f936",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"mobile\",\"clip_id\":\"330215\",\"story_id\":\"22611\",\"autoRank\":\"0.35122647544916263\"},{\"query\":\"mobile\",\"clip_id\":\"294212\",\"story_id\":\"21550\",\"autoRank\":\"0.34907088445523071\"},{\"query\":\"mobile\",\"clip_id\":\"403237\",\"story_id\":\"25037\",\"autoRank\":\"0.34756278912473737\"},{\"query\":\"mobile\",\"clip_id\":\"344887\",\"story_id\":\"23119\",\"autoRank\":\"0.3471738379487288\"},{\"query\":\"mobile\",\"clip_id\":\"304663\",\"story_id\":\"21851\",\"autoRank\":\"0.34696484450226089\"},{\"query\":\"mobile\",\"clip_id\":\"276611\",\"story_id\":\"21049\",\"autoRank\":\"0.34666059961242957\"}]",
+      "time" : {
+        "start" : 1667490098339,
+        "stop" : 1667490109502,
+        "duration" : 11163
+      }
+    } ]
+  },
+  "9b42aa4776450c9549a2a0dd99749433" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0f97953cef31b32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489146379,
+        "stop" : 1667489158799,
+        "duration" : 12420
+      }
+    } ]
+  },
+  "0eb41f2945b1147db8018835b9a849bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b9e3bb5abc34cc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489504511,
+        "stop" : 1667489516018,
+        "duration" : 11507
+      }
+    } ]
+  },
+  "2b9fb6ef3ce40464d8c465bd89cb8151" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2b8705391b8fe36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489712616,
+        "stop" : 1667489721712,
+        "duration" : 9096
+      }
+    } ]
+  },
+  "82f601a3e93fe488edb684b505503146" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "398b1b2f9a477430",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"fool around  slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489348904,
+        "stop" : 1667489350013,
+        "duration" : 1109
+      }
+    } ]
+  },
+  "535049cd4a2ef83a5e46aab588d4df4c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa3ea70cdf060af2",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 4 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"melting statue\",\"clip_id\":\"102122\",\"story_id\":\"14817\",\"autoRank\":\"0.33037175207980451\"},{\"query\":\"melting statue\",\"clip_id\":\"56355\",\"story_id\":\"12486\",\"autoRank\":\"0.31520090098166\"},{\"query\":\"melting statue\",\"clip_id\":\"417030\",\"story_id\":\"25530\",\"autoRank\":\"0.3147557633857066\"},{\"query\":\"melting statue\",\"clip_id\":\"282824\",\"story_id\":\"21202\",\"autoRank\":\"0.3144404470800567\"},{\"query\":\"melting statue\",\"clip_id\":\"303287\",\"story_id\":\"21815\",\"autoRank\":\"0.31432854834294638\"},{\"query\":\"melting statue\",\"clip_id\":\"180639\",\"story_id\":\"17885\",\"autoRank\":\"0.31386533269505046\"},{\"query\":\"melting statue\",\"clip_id\":\"329111\",\"story_id\":\"22569\",\"autoRank\":\"0.31353521472099716\"},{\"query\":\"melting statue\",\"clip_id\":\"282750\",\"story_id\":\"21201\",\"autoRank\":\"0.31253144766817981\"},{\"query\":\"melting statue\",\"clip_id\":\"296077\",\"story_id\":\"21592\",\"autoRank\":\"0.31196632579000738\"},{\"query\":\"melting statue\",\"clip_id\":\"83721\",\"story_id\":\"14040\",\"autoRank\":\"0.31128144916054717\"}]",
+      "time" : {
+        "start" : 1667490097654,
+        "stop" : 1667490098338,
+        "duration" : 684
+      }
+    } ]
+  },
+  "cb236ea4c71b3e960a587a0f71707d31" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84bfe803ea53cc98",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"graphical loop\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490036268,
+        "stop" : 1667490038339,
+        "duration" : 2071
+      }
+    } ]
+  },
+  "711c8769e04f662b3bf7cebf7d8dec8b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b8e7100b0020bcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489647810,
+        "stop" : 1667489658731,
+        "duration" : 10921
+      }
+    } ]
+  },
+  "e9de59c4c5693231c473c3b794cd1517" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccdc8d712bd565e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489689832,
+        "stop" : 1667489698937,
+        "duration" : 9105
+      }
+    } ]
+  },
+  "94517c7054b7dde29bcb16fdbb45bd0b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b38be0754ac226b6",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"shapes\",\"clip_id\":\"161852\",\"story_id\":\"17159\",\"autoRank\":\"0.3543705048276744\"},{\"query\":\"shapes\",\"clip_id\":\"173153\",\"story_id\":\"18074\",\"autoRank\":\"0.35083449364238928\"},{\"query\":\"shapes\",\"clip_id\":\"342212\",\"story_id\":\"23023\",\"autoRank\":\"0.34930240431825044\"}]",
+      "time" : {
+        "start" : 1667490171963,
+        "stop" : 1667490181375,
+        "duration" : 9412
+      }
+    } ]
+  },
+  "95915df6a2c75a47c24215fec47dc9e5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3df1240252d8548",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"space\",\"clip_id\":\"297369\",\"story_id\":\"21653\",\"autoRank\":\"0.36457162867642429\"},{\"query\":\"space\",\"clip_id\":\"297359\",\"story_id\":\"21652\",\"autoRank\":\"0.36162781463336274\"}]",
+      "time" : {
+        "start" : 1667490196574,
+        "stop" : 1667490205268,
+        "duration" : 8694
+      }
+    } ]
+  },
+  "249c03f7df44a10395d496c1662b6ba3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a55ff77fcd46dbbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490223417,
+        "stop" : 1667490231969,
+        "duration" : 8552
+      }
+    } ]
+  },
+  "9469df8f5384eed913d8bf9e387da50b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d71dae2dc851962",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"mobile\",\"clip_id\":\"350133\",\"story_id\":\"23270\",\"autoRank\":\"0.34841861511476308\"},{\"query\":\"mobile\",\"clip_id\":\"350247\",\"story_id\":\"23492\",\"autoRank\":\"0.3474451208769998\"}]",
+      "time" : {
+        "start" : 1667489476942,
+        "stop" : 1667489485712,
+        "duration" : 8770
+      }
+    } ]
+  },
+  "a61c9a396342d7af37184bd6052c1541" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d7128ee9852cdc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489822493,
+        "stop" : 1667489832905,
+        "duration" : 10412
+      }
+    } ]
+  },
+  "a49a88e0aaba5ffbb540b954cd6c1429" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "daab5dd75d337715",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 22 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"vibing - slang\",\"clip_id\":\"187310\",\"story_id\":\"18065\",\"autoRank\":\"0.30537328542255066\"},{\"query\":\"vibing - slang\",\"clip_id\":\"410215\",\"story_id\":\"25261\",\"autoRank\":\"0.30269074362666865\"},{\"query\":\"vibing - slang\",\"clip_id\":\"410254\",\"story_id\":\"25262\",\"autoRank\":\"0.30212856057554\"},{\"query\":\"vibing - slang\",\"clip_id\":\"285959\",\"story_id\":\"21286\",\"autoRank\":\"0.30211914975513915\"}]",
+      "time" : {
+        "start" : 1667489738358,
+        "stop" : 1667489740661,
+        "duration" : 2303
+      }
+    } ]
+  },
+  "41cce28466c5ffd4313a78622769ada9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "943f9befede71d48",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 3 \nLength of returned list: 3 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"bussiness\",\"clip_id\":\"359153\",\"story_id\":\"23536\",\"autoRank\":\"0.30849656277850995\"}]",
+      "time" : {
+        "start" : 1667489158800,
+        "stop" : 1667489161042,
+        "duration" : 2242
+      }
+    } ]
+  },
+  "88418a8ac590937cb350813500c051e8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1adee6761fee111d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 82 \nReturned mandatory clips: 3 \nUnreturned mandatory clips: [{\"query\":\"overweight\",\"clip_id\":\"336684\",\"story_id\":\"22849\",\"autoRank\":\"0.30995311344491749\"},{\"query\":\"overweight\",\"clip_id\":\"235975\",\"story_id\":\"19623\",\"autoRank\":\"0.30924787085436384\"},{\"query\":\"overweight\",\"clip_id\":\"369968\",\"story_id\":\"24143\",\"autoRank\":\"0.30423533989726992\"},{\"query\":\"overweight\",\"clip_id\":\"99623\",\"story_id\":\"14732\",\"autoRank\":\"0.30370676255063889\"},{\"query\":\"overweight\",\"clip_id\":\"48335\",\"story_id\":\"12064\",\"autoRank\":\"0.303279588108249\"},{\"query\":\"overweight\",\"clip_id\":\"391933\",\"story_id\":\"24692\",\"autoRank\":\"0.30322396120529616\"},{\"query\":\"overweight\",\"clip_id\":\"201095\",\"story_id\":\"18442\",\"autoRank\":\"0.30285160761562319\"}]",
+      "time" : {
+        "start" : 1667490137079,
+        "stop" : 1667490141412,
+        "duration" : 4333
+      }
+    } ]
+  },
+  "eae940c5b5cbb769cc31bb2633ac3fe1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d551a42b595568",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 70 \nReturned mandatory clips: 3 \nUnreturned mandatory clips: [{\"query\":\"sustainability\",\"clip_id\":\"152985\",\"story_id\":\"16840\",\"autoRank\":\"0.35502341037744867\"},{\"query\":\"sustainability\",\"clip_id\":\"405088\",\"story_id\":\"25095\",\"autoRank\":\"0.34228824712813583\"},{\"query\":\"sustainability\",\"clip_id\":\"156209\",\"story_id\":\"16940\",\"autoRank\":\"0.3187297340133497\"},{\"query\":\"sustainability\",\"clip_id\":\"72646\",\"story_id\":\"13530\",\"autoRank\":\"0.31800289678645505\"},{\"query\":\"sustainability\",\"clip_id\":\"317994\",\"story_id\":\"22223\",\"autoRank\":\"0.31595234935414368\"},{\"query\":\"sustainability\",\"clip_id\":\"109281\",\"story_id\":\"15134\",\"autoRank\":\"0.31440568236415256\"},{\"query\":\"sustainability\",\"clip_id\":\"212813\",\"story_id\":\"18864\",\"autoRank\":\"0.31437917111849306\"}]",
+      "time" : {
+        "start" : 1667490239581,
+        "stop" : 1667490241448,
+        "duration" : 1867
+      }
+    } ]
+  },
+  "ce882bfee432423c35bce8d6cef3be3e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56d82fc76944e427",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"green leaves\",\"clip_id\":\"111825\",\"story_id\":\"15256\",\"autoRank\":\"0.38050432313425114\"},{\"query\":\"green leaves\",\"clip_id\":\"95479\",\"story_id\":\"14590\",\"autoRank\":\"0.37822595483341059\"},{\"query\":\"green leaves\",\"clip_id\":\"59946\",\"story_id\":\"12787\",\"autoRank\":\"0.37774821525250374\"}]",
+      "time" : {
+        "start" : 1667490038348,
+        "stop" : 1667490046105,
+        "duration" : 7757
+      }
+    } ]
+  },
+  "2663216fa4a9334d0e709eb21473ff74" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e7d8bee350c26c4",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"tecnology\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490248727,
+        "stop" : 1667490249218,
+        "duration" : 491
+      }
+    } ]
+  },
+  "6d472e5fe53c9d24ba6705541b6b5c68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d93a6ad122cf37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489485712,
+        "stop" : 1667489495303,
+        "duration" : 9591
+      }
+    } ]
+  },
+  "4afc761c2120e15c21c70980ba3eac0c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd12d06fa7dce373",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489185621,
+        "stop" : 1667489195521,
+        "duration" : 9900
+      }
+    } ]
+  },
+  "6045f98039731ebf62053cb6ad74ee19" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4cc9ed431e24648d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489246227,
+        "stop" : 1667489258090,
+        "duration" : 11863
+      }
+    } ]
+  },
+  "1cf63c4a8f34eb0211caa8dcbc320d7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e6c79e822dd6735",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 158 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"black\",\"clip_id\":\"156795\",\"story_id\":\"16953\",\"autoRank\":\"0.37131802342945242\"},{\"query\":\"black\",\"clip_id\":\"157165\",\"story_id\":\"16967\",\"autoRank\":\"0.37024694190046636\"},{\"query\":\"black\",\"clip_id\":\"256642\",\"story_id\":\"20383\",\"autoRank\":\"0.36992156964469614\"},{\"query\":\"black\",\"clip_id\":\"207537\",\"story_id\":\"18670\",\"autoRank\":\"0.36905717955588807\"},{\"query\":\"black\",\"clip_id\":\"211028\",\"story_id\":\"18789\",\"autoRank\":\"0.36705884730005628\"},{\"query\":\"black\",\"clip_id\":\"249112\",\"story_id\":\"20147\",\"autoRank\":\"0.36684727344233203\"},{\"query\":\"black\",\"clip_id\":\"35317\",\"story_id\":\"11365\",\"autoRank\":\"0.36631871536536692\"},{\"query\":\"black\",\"clip_id\":\"90601\",\"story_id\":\"14370\",\"autoRank\":\"0.36596931986080544\"},{\"query\":\"black\",\"clip_id\":\"98345\",\"story_id\":\"14681\",\"autoRank\":\"0.36518857976127073\"}]",
+      "time" : {
+        "start" : 1667489118519,
+        "stop" : 1667489125942,
+        "duration" : 7423
+      }
+    } ]
+  },
+  "dd3b13dd35371a3b1227eab894b0632d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "386c8a2a8b92efd5",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 154 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"cherry blossom\",\"clip_id\":\"80888\",\"story_id\":\"13894\",\"autoRank\":\"0.32090453277894715\"},{\"query\":\"cherry blossom\",\"clip_id\":\"116213\",\"story_id\":\"15453\",\"autoRank\":\"0.3204701656104369\"}]",
+      "time" : {
+        "start" : 1667489929558,
+        "stop" : 1667489933429,
+        "duration" : 3871
+      }
+    } ]
+  },
+  "db68914e6f7f8da0bc3ed9930381bfee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9b05341d60b7669",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489627012,
+        "stop" : 1667489637409,
+        "duration" : 10397
+      }
+    } ]
+  },
+  "f696a2b4dc306350690a8ca22122f8e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af1877057c4f51a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489404084,
+        "stop" : 1667489414993,
+        "duration" : 10909
+      }
+    } ]
+  },
+  "f533e60b68f22b702f0ebe16e094105b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "493bf4fd9b3b7197",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489063663,
+        "stop" : 1667489074809,
+        "duration" : 11146
+      }
+    } ]
+  },
+  "396667ae48e7eb5166c4d9633edeaa98" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27457bae94aaa0",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"street style\",\"clip_id\":\"267214\",\"story_id\":\"20703\",\"autoRank\":\"0.34713526773329861\"},{\"query\":\"street style\",\"clip_id\":\"179362\",\"story_id\":\"17838\",\"autoRank\":\"0.33103418257376938\"},{\"query\":\"street style\",\"clip_id\":\"181115\",\"story_id\":\"17900\",\"autoRank\":\"0.32921257755958933\"},{\"query\":\"street style\",\"clip_id\":\"365512\",\"story_id\":\"23756\",\"autoRank\":\"0.32909702813455483\"},{\"query\":\"street style\",\"clip_id\":\"32590\",\"story_id\":\"11256\",\"autoRank\":\"0.32901611171732192\"},{\"query\":\"street style\",\"clip_id\":\"255112\",\"story_id\":\"20357\",\"autoRank\":\"0.32393053251754456\"}]",
+      "time" : {
+        "start" : 1667490214507,
+        "stop" : 1667490222609,
+        "duration" : 8102
+      }
+    } ]
+  },
+  "3c8708fcaae9a5c6cd46d23b191b7edb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6778dd10935f9cc",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 358 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"black\",\"clip_id\":\"156795\",\"story_id\":\"16953\",\"autoRank\":\"0.37131802342945242\"},{\"query\":\"black\",\"clip_id\":\"157165\",\"story_id\":\"16967\",\"autoRank\":\"0.37024694190046636\"},{\"query\":\"black\",\"clip_id\":\"256642\",\"story_id\":\"20383\",\"autoRank\":\"0.36992156964469614\"},{\"query\":\"black\",\"clip_id\":\"207537\",\"story_id\":\"18670\",\"autoRank\":\"0.36905717955588807\"},{\"query\":\"black\",\"clip_id\":\"211028\",\"story_id\":\"18789\",\"autoRank\":\"0.36705884730005628\"},{\"query\":\"black\",\"clip_id\":\"249112\",\"story_id\":\"20147\",\"autoRank\":\"0.36684727344233203\"},{\"query\":\"black\",\"clip_id\":\"35317\",\"story_id\":\"11365\",\"autoRank\":\"0.36631871536536692\"},{\"query\":\"black\",\"clip_id\":\"90601\",\"story_id\":\"14370\",\"autoRank\":\"0.36596931986080544\"},{\"query\":\"black\",\"clip_id\":\"98345\",\"story_id\":\"14681\",\"autoRank\":\"0.36518857976127073\"}]",
+      "time" : {
+        "start" : 1667489881869,
+        "stop" : 1667489890227,
+        "duration" : 8358
+      }
+    } ]
+  },
+  "9cc5fd45ace92cba3bac979024e470b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "664128b72f864e9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489433429,
+        "stop" : 1667489442694,
+        "duration" : 9265
+      }
+    } ]
+  },
+  "41a1d23ce7b38d616670f4fb3d130583" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53bab6cd8668cc34",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"humanity\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490073831,
+        "stop" : 1667490074331,
+        "duration" : 500
+      }
+    } ]
+  },
+  "a6c12c39b4abf3fb53a3fb480bd61970" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37df9483a291cf66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489125943,
+        "stop" : 1667489136901,
+        "duration" : 10958
+      }
+    } ]
+  },
+  "fd0dc41802a4a651519611f566f57711" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fef34191c924425",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489037605,
+        "stop" : 1667489049916,
+        "duration" : 12311
+      }
+    } ]
+  },
+  "646f9fcd66c261c52b0315e10909fc46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d1ba835f7c36865",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489658732,
+        "stop" : 1667489667424,
+        "duration" : 8692
+      }
+    } ]
+  },
+  "2c829d4ecf5a8b615fde3753e8be4b06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5684947c2c2bd6c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489175369,
+        "stop" : 1667489185620,
+        "duration" : 10251
+      }
+    } ]
+  },
+  "202f42a721fc5155ce49197aa8d51b8b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa1c92186d72b3f0",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 5 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"wireframe\",\"clip_id\":\"408316\",\"story_id\":\"25196\",\"autoRank\":\"0.31934514839912947\"},{\"query\":\"wireframe\",\"clip_id\":\"128089\",\"story_id\":\"15982\",\"autoRank\":\"0.31860918482889961\"},{\"query\":\"wireframe\",\"clip_id\":\"399786\",\"story_id\":\"24921\",\"autoRank\":\"0.31749792868306254\"},{\"query\":\"wireframe\",\"clip_id\":\"178507\",\"story_id\":\"17794\",\"autoRank\":\"0.31524498538043\"},{\"query\":\"wireframe\",\"clip_id\":\"48035\",\"story_id\":\"12035\",\"autoRank\":\"0.31524360446638927\"},{\"query\":\"wireframe\",\"clip_id\":\"411991\",\"story_id\":\"25326\",\"autoRank\":\"0.31459241708787983\"},{\"query\":\"wireframe\",\"clip_id\":\"236743\",\"story_id\":\"19645\",\"autoRank\":\"0.31409455398894082\"},{\"query\":\"wireframe\",\"clip_id\":\"167987\",\"story_id\":\"17425\",\"autoRank\":\"0.31248469310410482\"},{\"query\":\"wireframe\",\"clip_id\":\"155182\",\"story_id\":\"16911\",\"autoRank\":\"0.31239262284781877\"},{\"query\":\"wireframe\",\"clip_id\":\"225735\",\"story_id\":\"19297\",\"autoRank\":\"0.31220270591903365\"}]",
+      "time" : {
+        "start" : 1667490287170,
+        "stop" : 1667490288105,
+        "duration" : 935
+      }
+    } ]
+  },
+  "4bcff708d19df7583ca904344894e0ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4dd9cda594ec5bae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489986483,
+        "stop" : 1667489994903,
+        "duration" : 8420
+      }
+    } ]
+  },
+  "749284f3ee3297eb10cf16755ff4e3bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36ea02cd6b0b2e48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489917930,
+        "stop" : 1667489925766,
+        "duration" : 7836
+      }
+    } ]
+  },
+  "2e55f4aa21b66680947840cc63fd44ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48d030c2356e1f9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489725455,
+        "stop" : 1667489734304,
+        "duration" : 8849
+      }
+    } ]
+  },
+  "25f5497b0e92a6bf1be89260cd18229a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2d9ff1ef6d73d39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489022621,
+        "stop" : 1667489025745,
+        "duration" : 3124
+      }
+    } ]
+  },
+  "f6d3ca47859fc2e10bc163e5a67488b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6baea18e451398d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489025747,
+        "stop" : 1667489037604,
+        "duration" : 11857
+      }
+    } ]
+  },
+  "d2c9db7438ab0ab7913c6b0fe2ae2c7b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fd5e2abd88605d3",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"big empty space\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489871723,
+        "stop" : 1667489872212,
+        "duration" : 489
+      }
+    } ]
+  },
+  "b0332a9811c71f9d4cdca2ef5da48c46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a8659fe597d3622",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489966637,
+        "stop" : 1667489975599,
+        "duration" : 8962
+      }
+    } ]
+  },
+  "8438b85d336c54e4d7698711e61b7851" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "219b50dbb6ed6cd2",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 19 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"goofing around  - slang\",\"clip_id\":\"359118\",\"story_id\":\"23535\",\"autoRank\":\"0.30764681346887679\"},{\"query\":\"goofing around  - slang\",\"clip_id\":\"235006\",\"story_id\":\"19604\",\"autoRank\":\"0.30372115781323039\"},{\"query\":\"goofing around  - slang\",\"clip_id\":\"178492\",\"story_id\":\"17794\",\"autoRank\":\"0.30291236880188754\"}]",
+      "time" : {
+        "start" : 1667489367815,
+        "stop" : 1667489370341,
+        "duration" : 2526
+      }
+    } ]
+  },
+  "90bb0a5cd750cd4992b29dc3876de636" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a98eeff5dd1deb9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489195525,
+        "stop" : 1667489205502,
+        "duration" : 9977
+      }
+    } ]
+  },
+  "5bc921e1686627780cc54aff57f3687e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "655ea3e1f3dc54bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490082386,
+        "stop" : 1667490091794,
+        "duration" : 9408
+      }
+    } ]
+  },
+  "431e003c7a789035c938cac73c4ab6c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "419c335cca39c5fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490128291,
+        "stop" : 1667490137076,
+        "duration" : 8785
+      }
+    } ]
+  },
+  "a1a53119d1502460d2c293dfb3555c37" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "650fec0bd640651e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489350013,
+        "stop" : 1667489357634,
+        "duration" : 7621
+      }
+    } ]
+  },
+  "351fdbab02ca5710cbe24ed4c32670f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1aa81a3eccd3800",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490151732,
+        "stop" : 1667490159713,
+        "duration" : 7981
+      }
+    } ]
+  },
+  "7b95320d4caca586ccaa684c99633419" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a546136f8c1544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489094619,
+        "stop" : 1667489104818,
+        "duration" : 10199
+      }
+    } ]
+  },
+  "4a3012e9edec1a2c39c1f0ae679a32ce" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "852d5fcc9deb532a",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"bussiness\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489917332,
+        "stop" : 1667489917925,
+        "duration" : 593
+      }
+    } ]
+  },
+  "12463b2daab5a599cf79527e9b3be47c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19bbc4a7e6441c55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489234845,
+        "stop" : 1667489243991,
+        "duration" : 9146
+      }
+    } ]
+  },
+  "6f8613d9172e931eef455cc1bf11a4e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79c7795591c04080",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"coffee berries\",\"clip_id\":\"373140\",\"story_id\":\"23994\",\"autoRank\":\"0.32403269615803876\"},{\"query\":\"coffee berries\",\"clip_id\":\"362360\",\"story_id\":\"23686\",\"autoRank\":\"0.32236579603276833\"}]",
+      "time" : {
+        "start" : 1667489205503,
+        "stop" : 1667489213617,
+        "duration" : 8114
+      }
+    } ]
+  },
+  "d5e77feb0209aae96fefbe48754dcc50" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2708390592db8e01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489468740,
+        "stop" : 1667489476940,
+        "duration" : 8200
+      }
+    } ]
+  },
+  "9c32249c97cf9ba55dea1889cb17a331" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af3efed84a5d3479",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"spinning\",\"clip_id\":\"23015\",\"story_id\":\"11037\",\"autoRank\":\"0.36095607698725118\"},{\"query\":\"spinning\",\"clip_id\":\"188739\",\"story_id\":\"18593\",\"autoRank\":\"0.36002965459057362\"},{\"query\":\"spinning\",\"clip_id\":\"66565\",\"story_id\":\"13186\",\"autoRank\":\"0.35951326777655668\"},{\"query\":\"spinning\",\"clip_id\":\"111893\",\"story_id\":\"15260\",\"autoRank\":\"0.35606358377904823\"}]",
+      "time" : {
+        "start" : 1667490207106,
+        "stop" : 1667490214502,
+        "duration" : 7396
+      }
+    } ]
+  },
+  "24064dd4041f2cccc1e64814cbc6f7e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "138ec159b35b1abb",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"vj\",\"clip_id\":\"410306\",\"story_id\":\"25343\",\"autoRank\":\"0.3122212074849785\"},{\"query\":\"vj\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.31196024304802328\"}]",
+      "time" : {
+        "start" : 1667489740663,
+        "stop" : 1667489748813,
+        "duration" : 8150
+      }
+    } ]
+  },
+  "9c29036ab54eee582a44799bd73ca331" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a564da20fac5756",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489678740,
+        "stop" : 1667489689830,
+        "duration" : 11090
+      }
+    } ]
+  },
+  "feac1840a11c5d4c1400f3b7b823f4d3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b806fe6f7f8900c1",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"black & white\",\"clip_id\":\"98362\",\"story_id\":\"14681\",\"autoRank\":\"0.36419591534001761\"},{\"query\":\"black & white\",\"clip_id\":\"90618\",\"story_id\":\"14370\",\"autoRank\":\"0.36129673340412688\"},{\"query\":\"black & white\",\"clip_id\":\"297385\",\"story_id\":\"21654\",\"autoRank\":\"0.35856370626280942\"}]",
+      "time" : {
+        "start" : 1667489890228,
+        "stop" : 1667489897740,
+        "duration" : 7512
+      }
+    } ]
+  },
+  "f68b03181ed559e7b98890bfca5f2a15" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "639dc84b24cbdeff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489104819,
+        "stop" : 1667489107338,
+        "duration" : 2519
+      }
+    } ]
+  },
+  "7742cedb58fddaa4885bd6e9b2e62f7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30977367e9b33233",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489107340,
+        "stop" : 1667489118517,
+        "duration" : 11177
+      }
+    } ]
+  },
+  "15f5c5d282c25eb5f2738413b1519dcb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26f0d839d811f465",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489243997,
+        "stop" : 1667489246226,
+        "duration" : 2229
+      }
+    } ]
+  },
+  "23dc8729357955d7ed60ffdfa44c3975" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "accb94c42c2caffc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489853935,
+        "stop" : 1667489862394,
+        "duration" : 8459
+      }
+    } ]
+  },
+  "e5d62b1ad013e0ae1a11cecc577b7983" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b927adcf585dc5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489495305,
+        "stop" : 1667489504509,
+        "duration" : 9204
+      }
+    } ]
+  },
+  "1c8e2b06b11b4057ba8ad89553670caa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6221f4bdddfe1951",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489074810,
+        "stop" : 1667489083904,
+        "duration" : 9094
+      }
+    } ]
+  },
+  "e4b3bb55841b62a11569d9fa778e56b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af854b200649b530",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 15 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"working out at home\",\"clip_id\":\"160811\",\"story_id\":\"17117\",\"autoRank\":\"0.34947329103816083\"},{\"query\":\"working out at home\",\"clip_id\":\"22368\",\"story_id\":\"11013\",\"autoRank\":\"0.33210781554190894\"},{\"query\":\"working out at home\",\"clip_id\":\"160939\",\"story_id\":\"17122\",\"autoRank\":\"0.32491552704547078\"},{\"query\":\"working out at home\",\"clip_id\":\"131942\",\"story_id\":\"16142\",\"autoRank\":\"0.31950242763618014\"},{\"query\":\"working out at home\",\"clip_id\":\"179862\",\"story_id\":\"17865\",\"autoRank\":\"0.31950242763618014\"},{\"query\":\"working out at home\",\"clip_id\":\"235933\",\"story_id\":\"19638\",\"autoRank\":\"0.31786541303067878\"},{\"query\":\"working out at home\",\"clip_id\":\"175725\",\"story_id\":\"17673\",\"autoRank\":\"0.3174169540066995\"},{\"query\":\"working out at home\",\"clip_id\":\"226705\",\"story_id\":\"19322\",\"autoRank\":\"0.31733782310600078\"},{\"query\":\"working out at home\",\"clip_id\":\"188739\",\"story_id\":\"18593\",\"autoRank\":\"0.317293603108121\"},{\"query\":\"working out at home\",\"clip_id\":\"322283\",\"story_id\":\"22350\",\"autoRank\":\"0.3172903115727867\"}]",
+      "time" : {
+        "start" : 1667490289210,
+        "stop" : 1667490290233,
+        "duration" : 1023
+      }
+    } ]
+  },
+  "19db814e6100b2e8cb3a1a0fbd4e2632" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a75eb61da48018cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489838139,
+        "stop" : 1667489847590,
+        "duration" : 9451
+      }
+    } ]
+  },
+  "d175cc270d9448ed783be1ced4bdbb3e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48beb74297b3b9f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 172 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"school bus\",\"clip_id\":\"181971\",\"story_id\":\"17913\",\"autoRank\":\"0.32055641716337252\"},{\"query\":\"school bus\",\"clip_id\":\"239547\",\"story_id\":\"19798\",\"autoRank\":\"0.3126795431725255\"},{\"query\":\"school bus\",\"clip_id\":\"139112\",\"story_id\":\"16391\",\"autoRank\":\"0.31046619644123896\"},{\"query\":\"school bus\",\"clip_id\":\"185025\",\"story_id\":\"18006\",\"autoRank\":\"0.30984906637129234\"},{\"query\":\"school bus\",\"clip_id\":\"176413\",\"story_id\":\"17698\",\"autoRank\":\"0.3092349529324997\"}]",
+      "time" : {
+        "start" : 1667490166548,
+        "stop" : 1667490171514,
+        "duration" : 4966
+      }
+    } ]
+  },
+  "79ca872a38a8001c4ff17065439e87b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f17ffb5719464865",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489935426,
+        "stop" : 1667489943302,
+        "duration" : 7876
+      }
+    } ]
+  },
+  "ca1676e9f3c141a0c3db64f402c8927a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb5ea70450c34043",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489520818,
+        "stop" : 1667489530001,
+        "duration" : 9183
+      }
+    } ]
+  },
+  "27e836371fe4b97da823d53149692bd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa9343b93ef8070a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489617823,
+        "stop" : 1667489627010,
+        "duration" : 9187
+      }
+    } ]
+  },
+  "6178f33fa5e8579a73fea3d4305ebdce" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5819cae6abc556d",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 83 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"valetines\",\"clip_id\":\"414657\",\"story_id\":\"25459\",\"autoRank\":\"0.30472626345590303\"},{\"query\":\"valetines\",\"clip_id\":\"391714\",\"story_id\":\"24667\",\"autoRank\":\"0.30452283133056107\"},{\"query\":\"valetines\",\"clip_id\":\"367039\",\"story_id\":\"23804\",\"autoRank\":\"0.30419564221406492\"},{\"query\":\"valetines\",\"clip_id\":\"286800\",\"story_id\":\"21327\",\"autoRank\":\"0.30390785255373048\"}]",
+      "time" : {
+        "start" : 1667489734305,
+        "stop" : 1667489738356,
+        "duration" : 4051
+      }
+    } ]
+  },
+  "42c3b839a0cd579b56c41b353a2f6e51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f8e4872294d6b95a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489428947,
+        "stop" : 1667489433427,
+        "duration" : 4480
+      }
+    } ]
+  },
+  "003ca6032738de0bfcb94171d65e2ca3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e121a881354bf8fc",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"valetines\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490261967,
+        "stop" : 1667490262479,
+        "duration" : 512
+      }
+    } ]
+  },
+  "331f090ce2ea53adef677f4bf2dd9822" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a745adcd87b19f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490187789,
+        "stop" : 1667490196571,
+        "duration" : 8782
+      }
+    } ]
+  },
+  "175702c8f4d9dcd1970bbd1de5b1813a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8d2cf0339e5eb76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490120526,
+        "stop" : 1667490128289,
+        "duration" : 7763
+      }
+    } ]
+  },
+  "693ae22e2f6e14de64606608f348faf5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4ebd827c2e02014",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"commercial vibe\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489944719,
+        "stop" : 1667489945072,
+        "duration" : 353
+      }
+    } ]
+  },
+  "2a3c4195443f540398ee95b81f1c9d7a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6370441fe40bec17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489832909,
+        "stop" : 1667489838136,
+        "duration" : 5227
+      }
+    } ]
+  },
+  "d1d6d81461f1877218e9de92693c567b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "254676ffe9494aaa",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"reverb\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490159716,
+        "stop" : 1667490160228,
+        "duration" : 512
+      }
+    } ]
+  },
+  "ed6b21c74ba127eec40fceea3e473827" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7e91c9944cf89d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489309516,
+        "stop" : 1667489319212,
+        "duration" : 9696
+      }
+    } ]
+  },
+  "0c90cad48810cc0e7b9a18303e42e907" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbdd36244f75585f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 7 \nLength of returned list: 49 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"innocent\",\"clip_id\":\"247922\",\"story_id\":\"20114\",\"autoRank\":\"0.30623988475691849\"},{\"query\":\"innocent\",\"clip_id\":\"416394\",\"story_id\":\"25658\",\"autoRank\":\"0.30264137068258606\"}]",
+      "time" : {
+        "start" : 1667490074332,
+        "stop" : 1667490076208,
+        "duration" : 1876
+      }
+    } ]
+  },
+  "e6243654181318cd8336eea4a134b7dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcd37fc4bd490997",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489459814,
+        "stop" : 1667489468738,
+        "duration" : 8924
+      }
+    } ]
+  },
+  "b8d11268111b95a90fdee92f109fc366" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "456edc3549094193",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489258091,
+        "stop" : 1667489267814,
+        "duration" : 9723
+      }
+    } ]
+  },
+  "82975fdb183ff2082e1e33f5ddc2b6e7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76a0849b4e32f27f",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"having fun\",\"clip_id\":\"102524\",\"story_id\":\"14833\",\"autoRank\":\"0.34389184860105904\"},{\"query\":\"having fun\",\"clip_id\":\"278883\",\"story_id\":\"21103\",\"autoRank\":\"0.34314263005342666\"},{\"query\":\"having fun\",\"clip_id\":\"296422\",\"story_id\":\"21612\",\"autoRank\":\"0.34235430206562728\"},{\"query\":\"having fun\",\"clip_id\":\"176366\",\"story_id\":\"17694\",\"autoRank\":\"0.34169041030975322\"},{\"query\":\"having fun\",\"clip_id\":\"176287\",\"story_id\":\"17685\",\"autoRank\":\"0.34143143633349882\"},{\"query\":\"having fun\",\"clip_id\":\"72356\",\"story_id\":\"13521\",\"autoRank\":\"0.34133788809674243\"},{\"query\":\"having fun\",\"clip_id\":\"173555\",\"story_id\":\"17595\",\"autoRank\":\"0.34030024465929565\"},{\"query\":\"having fun\",\"clip_id\":\"206935\",\"story_id\":\"18668\",\"autoRank\":\"0.34009441211430552\"},{\"query\":\"having fun\",\"clip_id\":\"179213\",\"story_id\":\"17826\",\"autoRank\":\"0.33969537179456027\"},{\"query\":\"having fun\",\"clip_id\":\"296615\",\"story_id\":\"21618\",\"autoRank\":\"0.339661576694257\"}]",
+      "time" : {
+        "start" : 1667490046106,
+        "stop" : 1667490055713,
+        "duration" : 9607
+      }
+    } ]
+  },
+  "c17e2908a308d426c268aa0f22d9cb9b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ad7d811d1bfba63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489563099,
+        "stop" : 1667489570931,
+        "duration" : 7832
+      }
+    } ]
+  },
+  "28bb5d6cd5c6ca25dc87b90ee44d30c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4f25b0217258fc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489532331,
+        "stop" : 1667489542956,
+        "duration" : 10625
+      }
+    } ]
+  },
+  "f53bfc45fcb39546d65833433edc857a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac7db3cdce2ed255",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"holding hands\",\"clip_id\":\"159830\",\"story_id\":\"17090\",\"autoRank\":\"0.37324999306856843\"},{\"query\":\"holding hands\",\"clip_id\":\"143477\",\"story_id\":\"16543\",\"autoRank\":\"0.37155153828765436\"},{\"query\":\"holding hands\",\"clip_id\":\"284857\",\"story_id\":\"21253\",\"autoRank\":\"0.37113557961570826\"},{\"query\":\"holding hands\",\"clip_id\":\"138017\",\"story_id\":\"16347\",\"autoRank\":\"0.3703112741113434\"},{\"query\":\"holding hands\",\"clip_id\":\"76495\",\"story_id\":\"13712\",\"autoRank\":\"0.37003698672170043\"}]",
+      "time" : {
+        "start" : 1667490055714,
+        "stop" : 1667490066621,
+        "duration" : 10907
+      }
+    } ]
+  },
+  "51caafdb32892a3de9f5bc2ccf5b15b3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b11240030f3ac821",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"woman in a dreamy scene\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490288676,
+        "stop" : 1667490289209,
+        "duration" : 533
+      }
+    } ]
+  },
+  "077d9a9ac33d3e1e2e547d3e206cfe26" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4c878371a5d299e",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 15 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"divine\",\"clip_id\":\"311440\",\"story_id\":\"22017\",\"autoRank\":\"0.30705026432893723\"},{\"query\":\"divine\",\"clip_id\":\"247922\",\"story_id\":\"20114\",\"autoRank\":\"0.30433322568481158\"},{\"query\":\"divine\",\"clip_id\":\"25446\",\"story_id\":\"11098\",\"autoRank\":\"0.30369493210519727\"},{\"query\":\"divine\",\"clip_id\":\"32541\",\"story_id\":\"11256\",\"autoRank\":\"0.30361860715766642\"},{\"query\":\"divine\",\"clip_id\":\"284499\",\"story_id\":\"21240\",\"autoRank\":\"0.30296920879109374\"}]",
+      "time" : {
+        "start" : 1667489947419,
+        "stop" : 1667489948434,
+        "duration" : 1015
+      }
+    } ]
+  },
+  "1c6057caac2b81c3e654887d31b8c306" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aeb599a64a57ea9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489975601,
+        "stop" : 1667489985006,
+        "duration" : 9405
+      }
+    } ]
+  },
+  "5993cf2b25f1795778fe506d9991481f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b14247145c563e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490066623,
+        "stop" : 1667490073829,
+        "duration" : 7206
+      }
+    } ]
+  },
+  "088fccf9021d7e5d6fb5a2e8a291a9d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec369d9953b4eeeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489414997,
+        "stop" : 1667489425822,
+        "duration" : 10825
+      }
+    } ]
+  },
+  "018282ffe44c709af985de61cc47a8c4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78088e5b2043e637",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"big size model\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489872213,
+        "stop" : 1667489872823,
+        "duration" : 610
+      }
+    } ]
+  },
+  "d2c38ffeb421d464120d9da650ab63e8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6321211fa0ec42a",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"beyonce\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489871108,
+        "stop" : 1667489871722,
+        "duration" : 614
+      }
+    } ]
+  },
+  "0b4eca827ac203ff9854e5033c3c6fdc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb88b0c7a3133d1b",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"time\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489724433,
+        "stop" : 1667489725453,
+        "duration" : 1020
+      }
+    } ]
+  },
+  "8a37ffd124decac19f3f2817bdfefec6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdad0a576109a567",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 6 \nLength of returned list: 11 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"goosebumps\",\"clip_id\":\"365634\",\"story_id\":\"23762\",\"autoRank\":\"0.303112102308806\"},{\"query\":\"goosebumps\",\"clip_id\":\"310681\",\"story_id\":\"22085\",\"autoRank\":\"0.30271138665471814\"}]",
+      "time" : {
+        "start" : 1667489373321,
+        "stop" : 1667489375422,
+        "duration" : 2101
+      }
+    } ]
+  },
+  "4f8be8ea8247277e607cba7e06b132aa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7340d54201ae95a4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"vj\",\"clip_id\":\"160998\",\"story_id\":\"17123\",\"autoRank\":\"0.31968204303446052\"},{\"query\":\"vj\",\"clip_id\":\"410296\",\"story_id\":\"25262\",\"autoRank\":\"0.31498200207317761\"},{\"query\":\"vj\",\"clip_id\":\"410215\",\"story_id\":\"25261\",\"autoRank\":\"0.31413726926971264\"},{\"query\":\"vj\",\"clip_id\":\"131962\",\"story_id\":\"16142\",\"autoRank\":\"0.31250370387619009\"},{\"query\":\"vj\",\"clip_id\":\"179882\",\"story_id\":\"17866\",\"autoRank\":\"0.31250370387619009\"},{\"query\":\"vj\",\"clip_id\":\"410306\",\"story_id\":\"25343\",\"autoRank\":\"0.3122212074849785\"},{\"query\":\"vj\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.31196024304802328\"},{\"query\":\"vj\",\"clip_id\":\"179862\",\"story_id\":\"17865\",\"autoRank\":\"0.311939600496136\"}]",
+      "time" : {
+        "start" : 1667490262982,
+        "stop" : 1667490269469,
+        "duration" : 6487
+      }
+    } ]
+  },
+  "e24b7cce8c3b9eb7ae89f87f208a9d97" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a8dd8ac9ce6d002",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490231972,
+        "stop" : 1667490239580,
+        "duration" : 7608
+      }
+    } ]
+  },
+  "ac8dbbb63739b7b5280fe933ec801e85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44761026b6cbed76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489793816,
+        "stop" : 1667489822491,
+        "duration" : 28675
+      }
+    } ]
+  },
+  "22d04ae2c77e574782bfffa55ffb8f08" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "773d9f4c841e3923",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 180 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"fast car\",\"clip_id\":\"48001\",\"story_id\":\"12033\",\"autoRank\":\"0.37836006445312809\"},{\"query\":\"fast car\",\"clip_id\":\"95294\",\"story_id\":\"14586\",\"autoRank\":\"0.37517518448300213\"},{\"query\":\"fast car\",\"clip_id\":\"175953\",\"story_id\":\"17677\",\"autoRank\":\"0.37253492843451075\"},{\"query\":\"fast car\",\"clip_id\":\"89392\",\"story_id\":\"14299\",\"autoRank\":\"0.37003771015594467\"},{\"query\":\"fast car\",\"clip_id\":\"79534\",\"story_id\":\"13838\",\"autoRank\":\"0.365598639980222\"},{\"query\":\"fast car\",\"clip_id\":\"176152\",\"story_id\":\"17681\",\"autoRank\":\"0.36382512065741246\"}]",
+      "time" : {
+        "start" : 1667489998937,
+        "stop" : 1667490003539,
+        "duration" : 4602
+      }
+    } ]
+  },
+  "7a35ad13a1bcfdbee20d6bd8f82753c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3a5b9a0b4fb29a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489862395,
+        "stop" : 1667489871106,
+        "duration" : 8711
+      }
+    } ]
+  },
+  "d8a2878fac0c1037a13be19c82ff50fb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ebbd8af0af938225",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"black background\",\"clip_id\":\"119063\",\"story_id\":\"15574\",\"autoRank\":\"0.36728956325623907\"},{\"query\":\"black background\",\"clip_id\":\"201437\",\"story_id\":\"18449\",\"autoRank\":\"0.36724930794373212\"},{\"query\":\"black background\",\"clip_id\":\"295896\",\"story_id\":\"21589\",\"autoRank\":\"0.36661227088345782\"},{\"query\":\"black background\",\"clip_id\":\"227893\",\"story_id\":\"19376\",\"autoRank\":\"0.36601771144478767\"}]",
+      "time" : {
+        "start" : 1667489897741,
+        "stop" : 1667489908421,
+        "duration" : 10680
+      }
+    } ]
+  },
+  "67d433f6c2027009dcea22ebeea1f5ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60300c5f38999f87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489171823,
+        "stop" : 1667489175367,
+        "duration" : 3544
+      }
+    } ]
+  },
+  "ea77a191299bbe7cc348a38e9fac4434" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2954976e11aae6c8",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 2 \nLength of returned list: 29 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"domestic violence\",\"clip_id\":\"338325\",\"story_id\":\"22898\",\"autoRank\":\"0.30516526097158342\"},{\"query\":\"domestic violence\",\"clip_id\":\"338356\",\"story_id\":\"23135\",\"autoRank\":\"0.30310717997638909\"}]",
+      "time" : {
+        "start" : 1667489948929,
+        "stop" : 1667489950053,
+        "duration" : 1124
+      }
+    } ]
+  },
+  "4a0dd643a179fdeeb350d319d3d7eae4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10f238019e31397e",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"vibing - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490262480,
+        "stop" : 1667490262980,
+        "duration" : 500
+      }
+    } ]
+  },
+  "f7ccb21b857189eedac30e9b49c5b07a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61550077f0e8a6a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489759502,
+        "stop" : 1667489763407,
+        "duration" : 3905
+      }
+    } ]
+  },
+  "12499eca1e81bb3b0a7e50a5deef25d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6e97f2e798149ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489570933,
+        "stop" : 1667489573306,
+        "duration" : 2373
+      }
+    } ]
+  },
+  "1c5d5dbb2781550286ec6f515e2787de" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15d209cdccff8733",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 12 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"abstract visuals\",\"clip_id\":\"170567\",\"story_id\":\"17501\",\"autoRank\":\"0.38473803157655129\"},{\"query\":\"abstract visuals\",\"clip_id\":\"67871\",\"story_id\":\"13264\",\"autoRank\":\"0.37764117279183451\"},{\"query\":\"abstract visuals\",\"clip_id\":\"411994\",\"story_id\":\"25327\",\"autoRank\":\"0.33388938959870823\"},{\"query\":\"abstract visuals\",\"clip_id\":\"416637\",\"story_id\":\"25513\",\"autoRank\":\"0.323536643541047\"},{\"query\":\"abstract visuals\",\"clip_id\":\"416686\",\"story_id\":\"25514\",\"autoRank\":\"0.32321033739644633\"},{\"query\":\"abstract visuals\",\"clip_id\":\"178543\",\"story_id\":\"17794\",\"autoRank\":\"0.32247837147615876\"},{\"query\":\"abstract visuals\",\"clip_id\":\"160996\",\"story_id\":\"17123\",\"autoRank\":\"0.32178899670415695\"},{\"query\":\"abstract visuals\",\"clip_id\":\"320853\",\"story_id\":\"22323\",\"autoRank\":\"0.32144298826260659\"},{\"query\":\"abstract visuals\",\"clip_id\":\"161852\",\"story_id\":\"17159\",\"autoRank\":\"0.31951672083528165\"}]",
+      "time" : {
+        "start" : 1667489849119,
+        "stop" : 1667489850449,
+        "duration" : 1330
+      }
+    } ]
+  },
+  "58d6d64dda3eacfd79c7fcb20b1c9c5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f8ed72a0b5ca3dd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489610987,
+        "stop" : 1667489617822,
+        "duration" : 6835
+      }
+    } ]
+  },
+  "fb8840d646bfadae4dcd4363a79c8b02" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdee8eb51af92acf",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"earth\",\"clip_id\":\"359099\",\"story_id\":\"23535\",\"autoRank\":\"0.36000916388691978\"},{\"query\":\"earth\",\"clip_id\":\"366589\",\"story_id\":\"23790\",\"autoRank\":\"0.35732954618201679\"},{\"query\":\"earth\",\"clip_id\":\"349989\",\"story_id\":\"23259\",\"autoRank\":\"0.35264949788362704\"}]",
+      "time" : {
+        "start" : 1667489267815,
+        "stop" : 1667489277406,
+        "duration" : 9591
+      }
+    } ]
+  },
+  "969de6af71ce0fbfba7a5f28b154ff47" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7c862941c987461",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"drone\",\"clip_id\":\"106585\",\"story_id\":\"15009\",\"autoRank\":\"0.36448464854292872\"},{\"query\":\"drone\",\"clip_id\":\"48578\",\"story_id\":\"12076\",\"autoRank\":\"0.3594852989118667\"},{\"query\":\"drone\",\"clip_id\":\"93672\",\"story_id\":\"14534\",\"autoRank\":\"0.35758427183693503\"},{\"query\":\"drone\",\"clip_id\":\"135313\",\"story_id\":\"16242\",\"autoRank\":\"0.3567645961135088\"},{\"query\":\"drone\",\"clip_id\":\"288065\",\"story_id\":\"21350\",\"autoRank\":\"0.35544824308431622\"},{\"query\":\"drone\",\"clip_id\":\"114776\",\"story_id\":\"15391\",\"autoRank\":\"0.35534283712472153\"},{\"query\":\"drone\",\"clip_id\":\"404163\",\"story_id\":\"25068\",\"autoRank\":\"0.35510927919868013\"},{\"query\":\"drone\",\"clip_id\":\"168008\",\"story_id\":\"17427\",\"autoRank\":\"0.3543972926724579\"}]",
+      "time" : {
+        "start" : 1667489958599,
+        "stop" : 1667489966636,
+        "duration" : 8037
+      }
+    } ]
+  },
+  "9aa8dfa9968e840d5a94f76dd4f9502e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "343e71f0f2534f25",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 87 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"cyberpunk\",\"clip_id\":\"206278\",\"story_id\":\"18648\",\"autoRank\":\"0.31905559446934373\"},{\"query\":\"cyberpunk\",\"clip_id\":\"284375\",\"story_id\":\"21240\",\"autoRank\":\"0.31761383251596137\"},{\"query\":\"cyberpunk\",\"clip_id\":\"306336\",\"story_id\":\"21890\",\"autoRank\":\"0.31613311682494666\"},{\"query\":\"cyberpunk\",\"clip_id\":\"228133\",\"story_id\":\"19386\",\"autoRank\":\"0.31560869151119164\"},{\"query\":\"cyberpunk\",\"clip_id\":\"178543\",\"story_id\":\"17794\",\"autoRank\":\"0.31411420928407757\"},{\"query\":\"cyberpunk\",\"clip_id\":\"92646\",\"story_id\":\"14511\",\"autoRank\":\"0.31389273385412308\"},{\"query\":\"cyberpunk\",\"clip_id\":\"297448\",\"story_id\":\"21655\",\"autoRank\":\"0.31387889926143769\"},{\"query\":\"cyberpunk\",\"clip_id\":\"121453\",\"story_id\":\"15686\",\"autoRank\":\"0.313567173275843\"}]",
+      "time" : {
+        "start" : 1667489945073,
+        "stop" : 1667489947418,
+        "duration" : 2345
+      }
+    } ]
+  },
+  "5b744b77e71234c70d1511d9d3e71866" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e075ba52df4fc93e",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 286 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"tribal\",\"clip_id\":\"247123\",\"story_id\":\"20071\",\"autoRank\":\"0.31630529173059846\"},{\"query\":\"tribal\",\"clip_id\":\"160993\",\"story_id\":\"17123\",\"autoRank\":\"0.314461320248505\"},{\"query\":\"tribal\",\"clip_id\":\"289579\",\"story_id\":\"21395\",\"autoRank\":\"0.31444983730731257\"},{\"query\":\"tribal\",\"clip_id\":\"394794\",\"story_id\":\"24760\",\"autoRank\":\"0.31376682771721714\"},{\"query\":\"tribal\",\"clip_id\":\"342212\",\"story_id\":\"23023\",\"autoRank\":\"0.313281109066192\"},{\"query\":\"tribal\",\"clip_id\":\"416681\",\"story_id\":\"25514\",\"autoRank\":\"0.31077610035309172\"}]",
+      "time" : {
+        "start" : 1667490256140,
+        "stop" : 1667490261965,
+        "duration" : 5825
+      }
+    } ]
+  },
+  "4e1c7a994324a414b60a534e283c9839" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41f4721a3beb87ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489516020,
+        "stop" : 1667489520817,
+        "duration" : 4797
+      }
+    } ]
+  },
+  "0286c1f86e76edb3064b73468df264c4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2f81b80adf7e6b7",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 32 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"authentic style\",\"clip_id\":\"22335\",\"story_id\":\"11012\",\"autoRank\":\"0.32068705834984579\"},{\"query\":\"authentic style\",\"clip_id\":\"218432\",\"story_id\":\"19072\",\"autoRank\":\"0.30829364335978343\"},{\"query\":\"authentic style\",\"clip_id\":\"386514\",\"story_id\":\"24539\",\"autoRank\":\"0.30500641166861786\"},{\"query\":\"authentic style\",\"clip_id\":\"202208\",\"story_id\":\"18474\",\"autoRank\":\"0.30487425196618878\"},{\"query\":\"authentic style\",\"clip_id\":\"156257\",\"story_id\":\"16942\",\"autoRank\":\"0.30486514227977851\"},{\"query\":\"authentic style\",\"clip_id\":\"150448\",\"story_id\":\"16766\",\"autoRank\":\"0.30422896316351877\"},{\"query\":\"authentic style\",\"clip_id\":\"181070\",\"story_id\":\"17899\",\"autoRank\":\"0.30385863539962921\"},{\"query\":\"authentic style\",\"clip_id\":\"157045\",\"story_id\":\"16962\",\"autoRank\":\"0.30360041392424969\"},{\"query\":\"authentic style\",\"clip_id\":\"391294\",\"story_id\":\"24666\",\"autoRank\":\"0.3033887758332699\"},{\"query\":\"authentic style\",\"clip_id\":\"391350\",\"story_id\":\"24668\",\"autoRank\":\"0.30331135223513428\"}]",
+      "time" : {
+        "start" : 1667489852324,
+        "stop" : 1667489853933,
+        "duration" : 1609
+      }
+    } ]
+  },
+  "5b78dacaf868b7056ab99492517ad1f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6336e764b65a4ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489637410,
+        "stop" : 1667489647809,
+        "duration" : 10399
+      }
+    } ]
+  },
+  "7fe713f2bb622d30a62c3c0062f47622" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b5e89e49d74abd4",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 5 \nLength of returned list: 9 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"pop colture\",\"clip_id\":\"125225\",\"story_id\":\"15858\",\"autoRank\":\"0.30224291608952636\"}]",
+      "time" : {
+        "start" : 1667489530003,
+        "stop" : 1667489532330,
+        "duration" : 2327
+      }
+    } ]
+  },
+  "b33b821a6906fe7a8b2343b4b03e2875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6363919716737236",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489442697,
+        "stop" : 1667489451493,
+        "duration" : 8796
+      }
+    } ]
+  },
+  "226ef86a1ac06ffd1fb68503947e378b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8125c485724f825",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"tim burton\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490255136,
+        "stop" : 1667490255549,
+        "duration" : 413
+      }
+    } ]
+  },
+  "a224a1d638a00fce2cf6072865bfc344" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82a45721e033e86d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489748816,
+        "stop" : 1667489759501,
+        "duration" : 10685
+      }
+    } ]
+  },
+  "e3b863891af31560043739196fbb1aac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "375d313f229401e6",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 16 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"the big bang\",\"clip_id\":\"416638\",\"story_id\":\"25513\",\"autoRank\":\"0.31066434302555979\"},{\"query\":\"the big bang\",\"clip_id\":\"336890\",\"story_id\":\"22858\",\"autoRank\":\"0.30841127767271637\"},{\"query\":\"the big bang\",\"clip_id\":\"289576\",\"story_id\":\"21395\",\"autoRank\":\"0.30782283427798823\"},{\"query\":\"the big bang\",\"clip_id\":\"97066\",\"story_id\":\"14637\",\"autoRank\":\"0.30758709447191512\"},{\"query\":\"the big bang\",\"clip_id\":\"297383\",\"story_id\":\"21654\",\"autoRank\":\"0.30717076159670242\"},{\"query\":\"the big bang\",\"clip_id\":\"290324\",\"story_id\":\"21429\",\"autoRank\":\"0.30684561306305647\"},{\"query\":\"the big bang\",\"clip_id\":\"291886\",\"story_id\":\"21478\",\"autoRank\":\"0.30682254655653707\"},{\"query\":\"the big bang\",\"clip_id\":\"128103\",\"story_id\":\"15982\",\"autoRank\":\"0.3068205348667124\"},{\"query\":\"the big bang\",\"clip_id\":\"329734\",\"story_id\":\"22593\",\"autoRank\":\"0.30654275375557244\"}]",
+      "time" : {
+        "start" : 1667490249219,
+        "stop" : 1667490251943,
+        "duration" : 2724
+      }
+    } ]
+  },
+  "b3b077f0829d107bd5faf32247d4db35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90f1805cac2711a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489451495,
+        "stop" : 1667489459812,
+        "duration" : 8317
+      }
+    } ]
+  },
+  "763aa4c4787d0b579a27e53869fcf20e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "753512735224961b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667490205270,
+        "stop" : 1667490207098,
+        "duration" : 1828
+      }
+    } ]
+  },
+  "195be8f8b072183a9ffb50472cad0f72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9668875f8469249b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489298390,
+        "stop" : 1667489309514,
+        "duration" : 11124
+      }
+    } ]
+  },
+  "d57c7ed9d644a82545e3c4cc74746336" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27e8d88534945eb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489667426,
+        "stop" : 1667489678738,
+        "duration" : 11312
+      }
+    } ]
+  },
+  "ac108385dbfeee052f759f5ad4af98b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8456336672fba4c8",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"woman falling with colorful light\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667490288109,
+        "stop" : 1667490288673,
+        "duration" : 564
+      }
+    } ]
+  },
+  "2b14bcbaec33f2a3a633bb925ed7a411" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1796c29980660483",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489339633,
+        "stop" : 1667489348903,
+        "duration" : 9270
+      }
+    } ]
+  },
+  "111546c1a412ffee4806aa23af14610e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aca47a5febd6c07a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489599903,
+        "stop" : 1667489610985,
+        "duration" : 11082
+      }
+    } ]
+  },
+  "4244677fe43d0852bd2b8ecb667b1216" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1c22e2186d06519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489783733,
+        "stop" : 1667489793809,
+        "duration" : 10076
+      }
+    } ]
+  },
+  "359fb8d2c801b7bad83e1f648831833b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d000c259161e7b00",
+      "status" : "failed",
+      "statusDetails" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"documentary of domestic animals\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "time" : {
+        "start" : 1667489948437,
+        "stop" : 1667489948922,
+        "duration" : 485
+      }
+    } ]
+  },
+  "b41b3efeaa4f5db3b923e1c79da9c8fe" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1547a1c8c1ab4368",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 37 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"cinematic shot\",\"clip_id\":\"226949\",\"story_id\":\"19334\",\"autoRank\":\"0.33435554583739274\"},{\"query\":\"cinematic shot\",\"clip_id\":\"41491\",\"story_id\":\"11686\",\"autoRank\":\"0.33204195544345416\"},{\"query\":\"cinematic shot\",\"clip_id\":\"37802\",\"story_id\":\"11522\",\"autoRank\":\"0.32957991408706644\"},{\"query\":\"cinematic shot\",\"clip_id\":\"217911\",\"story_id\":\"19047\",\"autoRank\":\"0.32923231756897414\"},{\"query\":\"cinematic shot\",\"clip_id\":\"137599\",\"story_id\":\"16325\",\"autoRank\":\"0.32863545380164755\"},{\"query\":\"cinematic shot\",\"clip_id\":\"407775\",\"story_id\":\"25173\",\"autoRank\":\"0.32775419187916005\"},{\"query\":\"cinematic shot\",\"clip_id\":\"37594\",\"story_id\":\"11500\",\"autoRank\":\"0.32752557087088185\"},{\"query\":\"cinematic shot\",\"clip_id\":\"55617\",\"story_id\":\"12431\",\"autoRank\":\"0.32454764926390861\"}]",
+      "time" : {
+        "start" : 1667489933431,
+        "stop" : 1667489935424,
+        "duration" : 1993
+      }
+    } ]
+  },
+  "d93684e86ebf8813bd6855d524c34212" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f959af5b681dc28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667489542957,
+        "stop" : 1667489552202,
+        "duration" : 9245
+      }
+    } ]
+  },
+  "97ba994b0e66a6e2afd0551f704b0bf9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c523853391f4537",
+      "status" : "failed",
+      "statusDetails" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 56 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"tea pot\",\"clip_id\":\"248014\",\"story_id\":\"20123\",\"autoRank\":\"0.36382945493870211\"},{\"query\":\"tea pot\",\"clip_id\":\"54725\",\"story_id\":\"12394\",\"autoRank\":\"0.35014374011404203\"},{\"query\":\"tea pot\",\"clip_id\":\"48126\",\"story_id\":\"12046\",\"autoRank\":\"0.34763957944765878\"},{\"query\":\"tea pot\",\"clip_id\":\"239643\",\"story_id\":\"19799\",\"autoRank\":\"0.328047267979037\"},{\"query\":\"tea pot\",\"clip_id\":\"49271\",\"story_id\":\"12127\",\"autoRank\":\"0.3250980856312381\"}]",
+      "time" : {
+        "start" : 1667490241448,
+        "stop" : 1667490244027,
+        "duration" : 2579
+      }
+    } ]
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "storyId": 13264,
+    "name": "light prism reflecting on a gray surface",
+    "clip_id": "67876",
+    "order": 0
+  },
+  {
+    "storyId": 13264,
+    "name": "gray light reflecting off a surface",
+    "clip_id": "67877",
+    "order": 1
+  },
+  {
+    "storyId": 13264,
+    "name": "object turning with gray light reflecting off the surface",
+    "clip_id": "67875",
+    "order": 2
+  },
+  {
+    "storyId": 13264,
+    "name": "light reflecting off surface ",
+    "clip_id": "67873",
+    "order": 3
+  },
+  {
+    "storyId": 13264,
+    "name": "light reflecting off a gray surface",
+    "clip_id": "67870",
+    "order": 4
+  },
+  {
+    "storyId": 13264,
+    "name": "light reflecting on a gray surface ",
+    "clip_id": "67872",
+    "order": 5
+  },
+  {
+    "storyId": 13264,
+    "name": "light reflecting off of a gray surface",
+    "clip_id": "67874",
+    "order": 6
+  },
+  {
+    "storyId": 17502,
+    "name": "lake by the mountains B&W",
+    "clip_id": "170573",
+    "order": 7
+  },
+  {
+    "storyId": 17502,
+    "name": "mountains by the lake B&W",
+    "clip_id": "170574",
+    "order": 8
+  },
+  {
+    "storyId": 17502,
+    "name": "water rippling in a lake B&W",
+    "clip_id": "170577",
+    "order": 9
+  },
+  {
+    "storyId": 17502,
+    "name": "mountains by the water B&W",
+    "clip_id": "170576",
+    "order": 10
+  },
+  {
+    "storyId": 17502,
+    "name": "water and mountains B&W",
+    "clip_id": "170575",
+    "order": 11
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmers, Workers",
+    "clip_id": "495594",
+    "order": 0
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Harvesting, Coffee Beans, Berries",
+    "clip_id": "495566",
+    "order": 1
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Berries, Farmer, Harvesting",
+    "clip_id": "495564",
+    "order": 2
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Berries, Berries, Crop Basket, Produce",
+    "clip_id": "495592",
+    "order": 3
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Plant, Crop, Coffee Beans",
+    "clip_id": "495570",
+    "order": 4
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Picking, Coffee Beans, Berries",
+    "clip_id": "495577",
+    "order": 5
+  },
+  {
+    "storyId": 21324,
+    "name": "Coffee, Makineta, Cup, Berries",
+    "clip_id": "286676",
+    "order": 6
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Farmer, Picking, Coffee Plants",
+    "clip_id": "495587",
+    "order": 7
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Farmer, Picking",
+    "clip_id": "495597",
+    "order": 8
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Plant, Coffee Beans, Berries",
+    "clip_id": "495569",
+    "order": 9
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Beans, Ripe, Crop, Berries",
+    "clip_id": "495595",
+    "order": 10
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Picking, Berries",
+    "clip_id": "495586",
+    "order": 11
+  },
+  {
+    "storyId": 27982,
+    "name": "Farmer, Plantation, Coffee Plants, Picking",
+    "clip_id": "495589",
+    "order": 12
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Berries, Plantation",
+    "clip_id": "495578",
+    "order": 13
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Harvesting, Coffee Beans, Berries",
+    "clip_id": "495572",
+    "order": 14
+  },
+  {
+    "storyId": 27982,
+    "name": "Berries, Coffee Beans, Colombia, Plant",
+    "clip_id": "495571",
+    "order": 15
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Coffee Beans, Berries, Farmer",
+    "clip_id": "495576",
+    "order": 16
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Berries, Plant, Harvesting",
+    "clip_id": "495579",
+    "order": 17
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Bean, Holding, Farmer, Plant",
+    "clip_id": "495614",
+    "order": 18
+  },
+  {
+    "storyId": 27982,
+    "name": "Plantation, Coffee Plants, Picking, Berries",
+    "clip_id": "495588",
+    "order": 19
+  },
+  {
+    "storyId": 27982,
+    "name": "Picking, Farmer, Berries, Plantation",
+    "clip_id": "495568",
+    "order": 20
+  },
+  {
+    "storyId": 27982,
+    "name": "Coffee Berries, Picking, Colombia, Coffee Beans",
+    "clip_id": "495563",
+    "order": 21
+  },
+  {
+    "storyId": 27982,
+    "name": "Harvesting, Picking, Crop, Coffee Beans",
+    "clip_id": "495562",
+    "order": 22
+  }
+]

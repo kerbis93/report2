@@ -1,0 +1,62 @@
+[
+  {
+    "query": "vibing - slang",
+    "clip_id": "308755",
+    "story_id": "21953",
+    "autoRank": "0.30632991535104148"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "178492",
+    "story_id": "17794",
+    "autoRank": "0.30569750387573724"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "187310",
+    "story_id": "18065",
+    "autoRank": "0.30537328542255066"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "291183",
+    "story_id": "21460",
+    "autoRank": "0.30274621440020227"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "191210",
+    "story_id": "18150",
+    "autoRank": "0.30271910801851731"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "410215",
+    "story_id": "25261",
+    "autoRank": "0.30269074362666865"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "244524",
+    "story_id": "19974",
+    "autoRank": "0.30258403884200424"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "317715",
+    "story_id": "22211",
+    "autoRank": "0.30251791226824709"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "410254",
+    "story_id": "25262",
+    "autoRank": "0.30212856057554"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "285959",
+    "story_id": "21286",
+    "autoRank": "0.30211914975513915"
+  }
+]

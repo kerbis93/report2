@@ -1,0 +1,14 @@
+[
+  {
+    "query": "wireframe",
+    "clip_id": "48035",
+    "story_id": "12035",
+    "autoRank": "0.31524360446638927"
+  },
+  {
+    "query": "wireframe",
+    "clip_id": "155182",
+    "story_id": "16911",
+    "autoRank": "0.31239262284781877"
+  }
+]

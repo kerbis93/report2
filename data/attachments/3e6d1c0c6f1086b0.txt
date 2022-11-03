@@ -1,0 +1,44 @@
+[
+  {
+    "query": "gender fluid",
+    "clip_id": "406474",
+    "story_id": "25130",
+    "autoRank": "0.30533037683255643"
+  },
+  {
+    "query": "gender fluid",
+    "clip_id": "51468",
+    "story_id": "12246",
+    "autoRank": "0.30473359311822862"
+  },
+  {
+    "query": "gender fluid",
+    "clip_id": "68352",
+    "story_id": "13289",
+    "autoRank": "0.30385465717109222"
+  },
+  {
+    "query": "gender fluid",
+    "clip_id": "305816",
+    "story_id": "21872",
+    "autoRank": "0.30350547470521855"
+  },
+  {
+    "query": "gender fluid",
+    "clip_id": "84140",
+    "story_id": "14069",
+    "autoRank": "0.30334100292090355"
+  },
+  {
+    "query": "gender fluid",
+    "clip_id": "170999",
+    "story_id": "17518",
+    "autoRank": "0.3028294736030096"
+  },
+  {
+    "query": "gender fluid",
+    "clip_id": "325564",
+    "story_id": "22477",
+    "autoRank": "0.30275467783926452"
+  }
+]

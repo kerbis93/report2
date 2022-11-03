@@ -1,0 +1,92 @@
+[
+  {
+    "storyId": 15815,
+    "name": "woman standing and praying inside an oriental temple in Taiwan ",
+    "clip_id": "124624",
+    "order": 0
+  },
+  {
+    "storyId": 17412,
+    "name": "Bible, Genesis, Old Testament, Faith",
+    "clip_id": "167816",
+    "order": 1
+  },
+  {
+    "storyId": 17412,
+    "name": "Woman, Reading, Book, Bible",
+    "clip_id": "167819",
+    "order": 2
+  },
+  {
+    "storyId": 17412,
+    "name": "Bible, New Testament, Matthew, Gospel",
+    "clip_id": "167825",
+    "order": 3
+  },
+  {
+    "storyId": 17412,
+    "name": "Bible, Faith, Belief, Worship",
+    "clip_id": "167834",
+    "order": 4
+  },
+  {
+    "storyId": 11432,
+    "name": "succulent chicken is sliced on plate",
+    "clip_id": "36709",
+    "order": 5
+  },
+  {
+    "storyId": 17412,
+    "name": "Woman, Praying, Prayer, Christianity",
+    "clip_id": "167832",
+    "order": 6
+  },
+  {
+    "storyId": 21960,
+    "name": "Clouds, Sun, Rays, Sky",
+    "clip_id": "309021",
+    "order": 7
+  },
+  {
+    "storyId": 11432,
+    "name": "a slice is cut off of succulent breaded chicken",
+    "clip_id": "36713",
+    "order": 8
+  },
+  {
+    "storyId": 17412,
+    "name": "Bible, Reading, Study, Religious",
+    "clip_id": "167833",
+    "order": 9
+  },
+  {
+    "storyId": 11432,
+    "name": "moist fresh Parmesan cheese wiggles and twists as it is grated ",
+    "clip_id": "36705",
+    "order": 10
+  },
+  {
+    "storyId": 11432,
+    "name": "Parmesan cheese hangs and swings from a grater in super slow motion",
+    "clip_id": "36706",
+    "order": 11
+  },
+  {
+    "storyId": 19838,
+    "name": "Church, Sightseeing, Old, Ancient",
+    "clip_id": "240726",
+    "order": 12
+  },
+  {
+    "storyId": 19838,
+    "name": "Church, Sightseeing, Old, Ancient",
+    "clip_id": "240727",
+    "order": 13
+  },
+  {
+    "storyId": 19838,
+    "name": "Cave, Mountains, Adventure, Mountain",
+    "clip_id": "240737",
+    "order": 14
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "coffee berries",
+    "clip_id": "373140",
+    "story_id": "23994",
+    "autoRank": "0.32403269615803876"
+  },
+  {
+    "query": "coffee berries",
+    "clip_id": "362360",
+    "story_id": "23686",
+    "autoRank": "0.32236579603276833"
+  }
+]

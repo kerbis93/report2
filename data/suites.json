@@ -1,0 +1,3349 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Footage | Search term | AI | Vespa semantical tests",
+    "children" : [ {
+      "name" : "vespa | Footage | Search term",
+      "children" : [ {
+        "name" : "Verify search term = \"Eye Candy\"",
+        "uid" : "b2d9ff1ef6d73d39",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489022621,
+          "stop" : 1667489025745,
+          "duration" : 3124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"abstract visuals\"",
+        "uid" : "6baea18e451398d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489025747,
+          "stop" : 1667489037604,
+          "duration" : 11857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"amazing view/scenery\"",
+        "uid" : "fef34191c924425",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489037605,
+          "stop" : 1667489049916,
+          "duration" : 12311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"artgrid\"",
+        "uid" : "a39b6bd2f08a90f4",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489049918,
+          "stop" : 1667489059955,
+          "duration" : 10037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"authentic style\"",
+        "uid" : "fd2f1097ae6b2198",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489059957,
+          "stop" : 1667489063661,
+          "duration" : 3704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"autumn leaves\"",
+        "uid" : "493bf4fd9b3b7197",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489063663,
+          "stop" : 1667489074809,
+          "duration" : 11146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"beauty shot\"",
+        "uid" : "6221f4bdddfe1951",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489074810,
+          "stop" : 1667489083904,
+          "duration" : 9094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"beyonce\"",
+        "uid" : "bac33a4c5958dc79",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489083908,
+          "stop" : 1667489094617,
+          "duration" : 10709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"big empty space\"",
+        "uid" : "4a546136f8c1544",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489094619,
+          "stop" : 1667489104818,
+          "duration" : 10199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"big size model\"",
+        "uid" : "639dc84b24cbdeff",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489104819,
+          "stop" : 1667489107338,
+          "duration" : 2519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"bird eye\"",
+        "uid" : "30977367e9b33233",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489107340,
+          "stop" : 1667489118517,
+          "duration" : 11177
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black\"",
+        "uid" : "2e6c79e822dd6735",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489118519,
+          "stop" : 1667489125942,
+          "duration" : 7423
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black & white\"",
+        "uid" : "37df9483a291cf66",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489125943,
+          "stop" : 1667489136901,
+          "duration" : 10958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black background\"",
+        "uid" : "5488d8fe198356c1",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489136905,
+          "stop" : 1667489146377,
+          "duration" : 9472
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black children\"",
+        "uid" : "d0f97953cef31b32",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489146379,
+          "stop" : 1667489158799,
+          "duration" : 12420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"bussiness\"",
+        "uid" : "943f9befede71d48",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489158800,
+          "stop" : 1667489161042,
+          "duration" : 2242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"busy\"",
+        "uid" : "ba210f7f5dc4732f",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489161042,
+          "stop" : 1667489171820,
+          "duration" : 10778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"challenge\"",
+        "uid" : "60300c5f38999f87",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489171823,
+          "stop" : 1667489175367,
+          "duration" : 3544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cherry blossom\"",
+        "uid" : "5684947c2c2bd6c1",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489175369,
+          "stop" : 1667489185620,
+          "duration" : 10251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cinematic shot\"",
+        "uid" : "fd12d06fa7dce373",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489185621,
+          "stop" : 1667489195521,
+          "duration" : 9900
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"climate change\"",
+        "uid" : "a98eeff5dd1deb9f",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489195525,
+          "stop" : 1667489205502,
+          "duration" : 9977
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"coffee berries\"",
+        "uid" : "79c7795591c04080",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489205503,
+          "stop" : 1667489213617,
+          "duration" : 8114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"commercial vibe\"",
+        "uid" : "86887fbf1e3a9713",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489213618,
+          "stop" : 1667489223621,
+          "duration" : 10003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cyberpunk\"",
+        "uid" : "a8ef0a265a75196d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489223622,
+          "stop" : 1667489232600,
+          "duration" : 8978
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"divine\"",
+        "uid" : "ef81a663478fbf3a",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489232601,
+          "stop" : 1667489234844,
+          "duration" : 2243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"documentary of domestic animals\"",
+        "uid" : "19bbc4a7e6441c55",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489234845,
+          "stop" : 1667489243991,
+          "duration" : 9146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"domestic violence\"",
+        "uid" : "26f0d839d811f465",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489243997,
+          "stop" : 1667489246226,
+          "duration" : 2229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"dramatic\"",
+        "uid" : "4cc9ed431e24648d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489246227,
+          "stop" : 1667489258090,
+          "duration" : 11863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"drone\"",
+        "uid" : "456edc3549094193",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489258091,
+          "stop" : 1667489267814,
+          "duration" : 9723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"earth\"",
+        "uid" : "cdee8eb51af92acf",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489267815,
+          "stop" : 1667489277406,
+          "duration" : 9591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"effort\"",
+        "uid" : "767485d6ff6ee71",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489277408,
+          "stop" : 1667489289415,
+          "duration" : 12007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"egg white\"",
+        "uid" : "5ed91186566dfefe",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489289417,
+          "stop" : 1667489298388,
+          "duration" : 8971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"emotional\"",
+        "uid" : "9668875f8469249b",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489298390,
+          "stop" : 1667489309514,
+          "duration" : 11124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"empty train\"",
+        "uid" : "a7e91c9944cf89d1",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489309516,
+          "stop" : 1667489319212,
+          "duration" : 9696
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fast car\"",
+        "uid" : "6540c441d07f9837",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489319213,
+          "stop" : 1667489329993,
+          "duration" : 10780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"feeling\"",
+        "uid" : "d72252abe24bb1b2",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489329995,
+          "stop" : 1667489339631,
+          "duration" : 9636
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"focus change\"",
+        "uid" : "1796c29980660483",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489339633,
+          "stop" : 1667489348903,
+          "duration" : 9270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fool around  slang\"",
+        "uid" : "398b1b2f9a477430",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489348904,
+          "stop" : 1667489350013,
+          "duration" : 1109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"gender fluid\"",
+        "uid" : "650fec0bd640651e",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489350013,
+          "stop" : 1667489357634,
+          "duration" : 7621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"golden hour\"",
+        "uid" : "7b735739f9a41400",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489357641,
+          "stop" : 1667489367814,
+          "duration" : 10173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"goofing around  - slang\"",
+        "uid" : "219b50dbb6ed6cd2",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489367815,
+          "stop" : 1667489370341,
+          "duration" : 2526
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"google\"",
+        "uid" : "c2fc20d007819331",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489370342,
+          "stop" : 1667489373320,
+          "duration" : 2978
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"goosebumps\"",
+        "uid" : "cdad0a576109a567",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489373321,
+          "stop" : 1667489375422,
+          "duration" : 2101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"graphical loop\"",
+        "uid" : "2c23ff3859477f8f",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489375423,
+          "stop" : 1667489383299,
+          "duration" : 7876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"green leaves\"",
+        "uid" : "c87ad21669063098",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489383301,
+          "stop" : 1667489393613,
+          "duration" : 10312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"having fun\"",
+        "uid" : "58245f1ce6791640",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489393615,
+          "stop" : 1667489404083,
+          "duration" : 10468
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"holding hands\"",
+        "uid" : "af1877057c4f51a9",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489404084,
+          "stop" : 1667489414993,
+          "duration" : 10909
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"homeless\"",
+        "uid" : "ec369d9953b4eeeb",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489414997,
+          "stop" : 1667489425822,
+          "duration" : 10825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"humanity\"",
+        "uid" : "72746b4e6e1cdf9f",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489425824,
+          "stop" : 1667489428946,
+          "duration" : 3122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"innocent\"",
+        "uid" : "f8e4872294d6b95a",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489428947,
+          "stop" : 1667489433427,
+          "duration" : 4480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"intro\"",
+        "uid" : "664128b72f864e9d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489433429,
+          "stop" : 1667489442694,
+          "duration" : 9265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"lights in a tunnel\"",
+        "uid" : "6363919716737236",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489442697,
+          "stop" : 1667489451493,
+          "duration" : 8796
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"liquid flowing\"",
+        "uid" : "90f1805cac2711a3",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489451495,
+          "stop" : 1667489459812,
+          "duration" : 8317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"master\"",
+        "uid" : "bcd37fc4bd490997",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489459814,
+          "stop" : 1667489468738,
+          "duration" : 8924
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"melting statue\"",
+        "uid" : "2708390592db8e01",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489468740,
+          "stop" : 1667489476940,
+          "duration" : 8200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"mobile\"",
+        "uid" : "1d71dae2dc851962",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489476942,
+          "stop" : 1667489485712,
+          "duration" : 8770
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"modern dance\"",
+        "uid" : "4d93a6ad122cf37",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489485712,
+          "stop" : 1667489495303,
+          "duration" : 9591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"muscle\"",
+        "uid" : "2b927adcf585dc5d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489495305,
+          "stop" : 1667489504509,
+          "duration" : 9204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"old school\"",
+        "uid" : "6b9e3bb5abc34cc8",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489504511,
+          "stop" : 1667489516018,
+          "duration" : 11507
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"overweight\"",
+        "uid" : "41f4721a3beb87ed",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489516020,
+          "stop" : 1667489520817,
+          "duration" : 4797
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"park\"",
+        "uid" : "bb5ea70450c34043",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489520818,
+          "stop" : 1667489530001,
+          "duration" : 9183
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"pop colture\"",
+        "uid" : "6b5e89e49d74abd4",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489530003,
+          "stop" : 1667489532330,
+          "duration" : 2327
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"powerful\"",
+        "uid" : "d4f25b0217258fc3",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489532331,
+          "stop" : 1667489542956,
+          "duration" : 10625
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"reverb\"",
+        "uid" : "6f959af5b681dc28",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489542957,
+          "stop" : 1667489552202,
+          "duration" : 9245
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"running water\"",
+        "uid" : "c8178fcb7eb7caec",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489552206,
+          "stop" : 1667489563097,
+          "duration" : 10891
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"school bus\"",
+        "uid" : "6ad7d811d1bfba63",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489563099,
+          "stop" : 1667489570931,
+          "duration" : 7832
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"scorsese\"",
+        "uid" : "b6e97f2e798149ec",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489570933,
+          "stop" : 1667489573306,
+          "duration" : 2373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"shapes\"",
+        "uid" : "cb349284f18f49c6",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489573308,
+          "stop" : 1667489581913,
+          "duration" : 8605
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"slow motion\"",
+        "uid" : "ae7759fd35cde9db",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489581913,
+          "stop" : 1667489590830,
+          "duration" : 8917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"snack\"",
+        "uid" : "fefdd66fa0b07779",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489590833,
+          "stop" : 1667489599901,
+          "duration" : 9068
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"space\"",
+        "uid" : "aca47a5febd6c07a",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489599903,
+          "stop" : 1667489610985,
+          "duration" : 11082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"spaceship\"",
+        "uid" : "f8ed72a0b5ca3dd8",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489610987,
+          "stop" : 1667489617822,
+          "duration" : 6835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"spinning\"",
+        "uid" : "aa9343b93ef8070a",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489617823,
+          "stop" : 1667489627010,
+          "duration" : 9187
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"street style\"",
+        "uid" : "b9b05341d60b7669",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489627012,
+          "stop" : 1667489637409,
+          "duration" : 10397
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"stunning view/scenery\"",
+        "uid" : "b6336e764b65a4ee",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489637410,
+          "stop" : 1667489647809,
+          "duration" : 10399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"subway\"",
+        "uid" : "1b8e7100b0020bcd",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489647810,
+          "stop" : 1667489658731,
+          "duration" : 10921
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"sun flare\"",
+        "uid" : "4d1ba835f7c36865",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489658732,
+          "stop" : 1667489667424,
+          "duration" : 8692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"sustainability\"",
+        "uid" : "27e8d88534945eb8",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489667426,
+          "stop" : 1667489678738,
+          "duration" : 11312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tea pot\"",
+        "uid" : "8a564da20fac5756",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489678740,
+          "stop" : 1667489689830,
+          "duration" : 11090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"techno\"",
+        "uid" : "ccdc8d712bd565e",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489689832,
+          "stop" : 1667489698937,
+          "duration" : 9105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tecnology\"",
+        "uid" : "a61ef95cf72b5218",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489698938,
+          "stop" : 1667489704229,
+          "duration" : 5291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"the big bang\"",
+        "uid" : "89d2de75024668ed",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489704230,
+          "stop" : 1667489712613,
+          "duration" : 8383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tiktok\"",
+        "uid" : "d2b8705391b8fe36",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489712616,
+          "stop" : 1667489721712,
+          "duration" : 9096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tim burton\"",
+        "uid" : "b9054fabf80943b7",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489721713,
+          "stop" : 1667489724424,
+          "duration" : 2711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"time\"",
+        "uid" : "fb88b0c7a3133d1b",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489724433,
+          "stop" : 1667489725453,
+          "duration" : 1020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tribal\"",
+        "uid" : "48d030c2356e1f9f",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489725455,
+          "stop" : 1667489734304,
+          "duration" : 8849
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"valetines\"",
+        "uid" : "f5819cae6abc556d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489734305,
+          "stop" : 1667489738356,
+          "duration" : 4051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vibing - slang\"",
+        "uid" : "daab5dd75d337715",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489738358,
+          "stop" : 1667489740661,
+          "duration" : 2303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vj\"",
+        "uid" : "138ec159b35b1abb",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489740663,
+          "stop" : 1667489748813,
+          "duration" : 8150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wandering city\"",
+        "uid" : "82a45721e033e86d",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489748816,
+          "stop" : 1667489759501,
+          "duration" : 10685
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"war zone\"",
+        "uid" : "61550077f0e8a6a5",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489759502,
+          "stop" : 1667489763407,
+          "duration" : 3905
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wind blowing\"",
+        "uid" : "15e515c3177da1c4",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489763408,
+          "stop" : 1667489773699,
+          "duration" : 10291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wireframe\"",
+        "uid" : "b2cb5d1d7872ab10",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489773700,
+          "stop" : 1667489783731,
+          "duration" : 10031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"woman falling with colorful light\"",
+        "uid" : "b1c22e2186d06519",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489783733,
+          "stop" : 1667489793809,
+          "duration" : 10076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"woman in a dreamy scene\"",
+        "uid" : "44761026b6cbed76",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489793816,
+          "stop" : 1667489822491,
+          "duration" : 28675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"working out at home\"",
+        "uid" : "7d7128ee9852cdc0",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489822493,
+          "stop" : 1667489832905,
+          "duration" : 10412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"yellow cab\"",
+        "uid" : "6370441fe40bec17",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489832909,
+          "stop" : 1667489838136,
+          "duration" : 5227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"youtube\"",
+        "uid" : "a75eb61da48018cc",
+        "parentUid" : "469dd3f53b9123320a6251aa0d302ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489838139,
+          "stop" : 1667489847590,
+          "duration" : 9451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "469dd3f53b9123320a6251aa0d302ab9"
+    }, {
+      "name" : "azure | Footage | Search term",
+      "children" : [ {
+        "name" : "Verify search term = \"Eye Candy\"",
+        "uid" : "bb05edd12bc6a90c",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489847629,
+          "stop" : 1667489849119,
+          "duration" : 1490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"abstract visuals\"",
+        "uid" : "15d209cdccff8733",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489849119,
+          "stop" : 1667489850449,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"amazing view/scenery\"",
+        "uid" : "1505bc6590c0c3a1",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489850452,
+          "stop" : 1667489851570,
+          "duration" : 1118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"artgrid\"",
+        "uid" : "6d2c4bdaf11ed8e5",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489851572,
+          "stop" : 1667489852321,
+          "duration" : 749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"authentic style\"",
+        "uid" : "b2f81b80adf7e6b7",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489852324,
+          "stop" : 1667489853933,
+          "duration" : 1609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"autumn leaves\"",
+        "uid" : "accb94c42c2caffc",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489853935,
+          "stop" : 1667489862394,
+          "duration" : 8459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"beauty shot\"",
+        "uid" : "a3a5b9a0b4fb29a4",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489862395,
+          "stop" : 1667489871106,
+          "duration" : 8711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"beyonce\"",
+        "uid" : "6321211fa0ec42a",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489871108,
+          "stop" : 1667489871722,
+          "duration" : 614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"big empty space\"",
+        "uid" : "4fd5e2abd88605d3",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489871723,
+          "stop" : 1667489872212,
+          "duration" : 489
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"big size model\"",
+        "uid" : "78088e5b2043e637",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489872213,
+          "stop" : 1667489872823,
+          "duration" : 610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"bird eye\"",
+        "uid" : "1ec58e3aed5d6205",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489872825,
+          "stop" : 1667489881868,
+          "duration" : 9043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black\"",
+        "uid" : "d6778dd10935f9cc",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489881869,
+          "stop" : 1667489890227,
+          "duration" : 8358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black & white\"",
+        "uid" : "b806fe6f7f8900c1",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489890228,
+          "stop" : 1667489897740,
+          "duration" : 7512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black background\"",
+        "uid" : "ebbd8af0af938225",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489897741,
+          "stop" : 1667489908421,
+          "duration" : 10680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"black children\"",
+        "uid" : "a5b27c1ce5367a99",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489908423,
+          "stop" : 1667489917327,
+          "duration" : 8904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"bussiness\"",
+        "uid" : "852d5fcc9deb532a",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489917332,
+          "stop" : 1667489917925,
+          "duration" : 593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"busy\"",
+        "uid" : "36ea02cd6b0b2e48",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489917930,
+          "stop" : 1667489925766,
+          "duration" : 7836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"challenge\"",
+        "uid" : "c6e5aa2d02137e19",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489925768,
+          "stop" : 1667489929555,
+          "duration" : 3787
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cherry blossom\"",
+        "uid" : "386c8a2a8b92efd5",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489929558,
+          "stop" : 1667489933429,
+          "duration" : 3871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cinematic shot\"",
+        "uid" : "1547a1c8c1ab4368",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489933431,
+          "stop" : 1667489935424,
+          "duration" : 1993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"climate change\"",
+        "uid" : "f17ffb5719464865",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489935426,
+          "stop" : 1667489943302,
+          "duration" : 7876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"coffee berries\"",
+        "uid" : "4fbe42f6f512761f",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489943304,
+          "stop" : 1667489944718,
+          "duration" : 1414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"commercial vibe\"",
+        "uid" : "a4ebd827c2e02014",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489944719,
+          "stop" : 1667489945072,
+          "duration" : 353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"cyberpunk\"",
+        "uid" : "343e71f0f2534f25",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489945073,
+          "stop" : 1667489947418,
+          "duration" : 2345
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"divine\"",
+        "uid" : "b4c878371a5d299e",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489947419,
+          "stop" : 1667489948434,
+          "duration" : 1015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"documentary of domestic animals\"",
+        "uid" : "d000c259161e7b00",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489948437,
+          "stop" : 1667489948922,
+          "duration" : 485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"domestic violence\"",
+        "uid" : "2954976e11aae6c8",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489948929,
+          "stop" : 1667489950053,
+          "duration" : 1124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"dramatic\"",
+        "uid" : "69fd9673a525f9b",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489950054,
+          "stop" : 1667489958597,
+          "duration" : 8543
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"drone\"",
+        "uid" : "b7c862941c987461",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489958599,
+          "stop" : 1667489966636,
+          "duration" : 8037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"earth\"",
+        "uid" : "7a8659fe597d3622",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489966637,
+          "stop" : 1667489975599,
+          "duration" : 8962
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"effort\"",
+        "uid" : "aeb599a64a57ea9c",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489975601,
+          "stop" : 1667489985006,
+          "duration" : 9405
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"egg white\"",
+        "uid" : "936b2a4da00bcf63",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489985007,
+          "stop" : 1667489986477,
+          "duration" : 1470
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"emotional\"",
+        "uid" : "4dd9cda594ec5bae",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667489986483,
+          "stop" : 1667489994903,
+          "duration" : 8420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"empty train\"",
+        "uid" : "38e06a8dfcf4fb5a",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489994905,
+          "stop" : 1667489998936,
+          "duration" : 4031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fast car\"",
+        "uid" : "773d9f4c841e3923",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489998937,
+          "stop" : 1667490003539,
+          "duration" : 4602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"feeling\"",
+        "uid" : "2427da622db45056",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490003539,
+          "stop" : 1667490014338,
+          "duration" : 10799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"focus change\"",
+        "uid" : "754f232d863b958b",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490014341,
+          "stop" : 1667490021735,
+          "duration" : 7394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fool around  slang\"",
+        "uid" : "552436ee7d22bd6c",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490021739,
+          "stop" : 1667490022176,
+          "duration" : 437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"gender fluid\"",
+        "uid" : "a432ad37f9c4aa6b",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490022183,
+          "stop" : 1667490025937,
+          "duration" : 3754
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"golden hour\"",
+        "uid" : "c8c7ad91fc29adee",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490025939,
+          "stop" : 1667490034505,
+          "duration" : 8566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"goofing around  - slang\"",
+        "uid" : "b4771159246313be",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490034512,
+          "stop" : 1667490035331,
+          "duration" : 819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"google\"",
+        "uid" : "23d99cd600d1d7bd",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490035336,
+          "stop" : 1667490035756,
+          "duration" : 420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"goosebumps\"",
+        "uid" : "d7fe00fcc8852b70",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490035758,
+          "stop" : 1667490036263,
+          "duration" : 505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"graphical loop\"",
+        "uid" : "84bfe803ea53cc98",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490036268,
+          "stop" : 1667490038339,
+          "duration" : 2071
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"green leaves\"",
+        "uid" : "56d82fc76944e427",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490038348,
+          "stop" : 1667490046105,
+          "duration" : 7757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"having fun\"",
+        "uid" : "76a0849b4e32f27f",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490046106,
+          "stop" : 1667490055713,
+          "duration" : 9607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"holding hands\"",
+        "uid" : "ac7db3cdce2ed255",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490055714,
+          "stop" : 1667490066621,
+          "duration" : 10907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"homeless\"",
+        "uid" : "6b14247145c563e7",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490066623,
+          "stop" : 1667490073829,
+          "duration" : 7206
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"humanity\"",
+        "uid" : "53bab6cd8668cc34",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490073831,
+          "stop" : 1667490074331,
+          "duration" : 500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"innocent\"",
+        "uid" : "fbdd36244f75585f",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490074332,
+          "stop" : 1667490076208,
+          "duration" : 1876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"intro\"",
+        "uid" : "8d5378ac17242695",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490076209,
+          "stop" : 1667490079734,
+          "duration" : 3525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"lights in a tunnel\"",
+        "uid" : "58a30a6f100354f2",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490079737,
+          "stop" : 1667490082385,
+          "duration" : 2648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"liquid flowing\"",
+        "uid" : "655ea3e1f3dc54bc",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490082386,
+          "stop" : 1667490091794,
+          "duration" : 9408
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"master\"",
+        "uid" : "32fd13ebe2fff69e",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490091796,
+          "stop" : 1667490097652,
+          "duration" : 5856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"melting statue\"",
+        "uid" : "fa3ea70cdf060af2",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490097654,
+          "stop" : 1667490098338,
+          "duration" : 684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"mobile\"",
+        "uid" : "ee3a9ab17d13f936",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490098339,
+          "stop" : 1667490109502,
+          "duration" : 11163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"modern dance\"",
+        "uid" : "878fcf4f071f448d",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490109503,
+          "stop" : 1667490120526,
+          "duration" : 11023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"muscle\"",
+        "uid" : "d8d2cf0339e5eb76",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490120526,
+          "stop" : 1667490128289,
+          "duration" : 7763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"old school\"",
+        "uid" : "419c335cca39c5fe",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490128291,
+          "stop" : 1667490137076,
+          "duration" : 8785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"overweight\"",
+        "uid" : "1adee6761fee111d",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490137079,
+          "stop" : 1667490141412,
+          "duration" : 4333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"park\"",
+        "uid" : "2887d446017280e2",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490141416,
+          "stop" : 1667490151274,
+          "duration" : 9858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"pop colture\"",
+        "uid" : "2017afe7c5b5a298",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490151275,
+          "stop" : 1667490151726,
+          "duration" : 451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"powerful\"",
+        "uid" : "e1aa81a3eccd3800",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490151732,
+          "stop" : 1667490159713,
+          "duration" : 7981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"reverb\"",
+        "uid" : "254676ffe9494aaa",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490159716,
+          "stop" : 1667490160228,
+          "duration" : 512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"running water\"",
+        "uid" : "8a52743551bde81b",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490160229,
+          "stop" : 1667490166546,
+          "duration" : 6317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"school bus\"",
+        "uid" : "48beb74297b3b9f",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490166548,
+          "stop" : 1667490171514,
+          "duration" : 4966
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"scorsese\"",
+        "uid" : "1f03cf1b1fd49af1",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490171521,
+          "stop" : 1667490171962,
+          "duration" : 441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"shapes\"",
+        "uid" : "b38be0754ac226b6",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490171963,
+          "stop" : 1667490181375,
+          "duration" : 9412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"slow motion\"",
+        "uid" : "fdf089d1e41f0de3",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490181382,
+          "stop" : 1667490187784,
+          "duration" : 6402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"snack\"",
+        "uid" : "1a745adcd87b19f8",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490187789,
+          "stop" : 1667490196571,
+          "duration" : 8782
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"space\"",
+        "uid" : "d3df1240252d8548",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490196574,
+          "stop" : 1667490205268,
+          "duration" : 8694
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"spaceship\"",
+        "uid" : "753512735224961b",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490205270,
+          "stop" : 1667490207098,
+          "duration" : 1828
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"spinning\"",
+        "uid" : "af3efed84a5d3479",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490207106,
+          "stop" : 1667490214502,
+          "duration" : 7396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"street style\"",
+        "uid" : "27457bae94aaa0",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490214507,
+          "stop" : 1667490222609,
+          "duration" : 8102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"stunning view/scenery\"",
+        "uid" : "16bbab73c6f49d89",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490222614,
+          "stop" : 1667490223416,
+          "duration" : 802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"subway\"",
+        "uid" : "a55ff77fcd46dbbb",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490223417,
+          "stop" : 1667490231969,
+          "duration" : 8552
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"sun flare\"",
+        "uid" : "5a8dd8ac9ce6d002",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490231972,
+          "stop" : 1667490239580,
+          "duration" : 7608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"sustainability\"",
+        "uid" : "9d551a42b595568",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490239581,
+          "stop" : 1667490241448,
+          "duration" : 1867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tea pot\"",
+        "uid" : "2c523853391f4537",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490241448,
+          "stop" : 1667490244027,
+          "duration" : 2579
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"techno\"",
+        "uid" : "b6eb43384b1eb4cd",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490244027,
+          "stop" : 1667490248725,
+          "duration" : 4698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tecnology\"",
+        "uid" : "8e7d8bee350c26c4",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490248727,
+          "stop" : 1667490249218,
+          "duration" : 491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"the big bang\"",
+        "uid" : "375d313f229401e6",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490249219,
+          "stop" : 1667490251943,
+          "duration" : 2724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tiktok\"",
+        "uid" : "d508a44ec82e3ac3",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490251945,
+          "stop" : 1667490255124,
+          "duration" : 3179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tim burton\"",
+        "uid" : "e8125c485724f825",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490255136,
+          "stop" : 1667490255549,
+          "duration" : 413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"time\"",
+        "uid" : "8a989e7bd952f0ff",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490255558,
+          "stop" : 1667490256133,
+          "duration" : 575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"tribal\"",
+        "uid" : "e075ba52df4fc93e",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490256140,
+          "stop" : 1667490261965,
+          "duration" : 5825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"valetines\"",
+        "uid" : "e121a881354bf8fc",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490261967,
+          "stop" : 1667490262479,
+          "duration" : 512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vibing - slang\"",
+        "uid" : "10f238019e31397e",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490262480,
+          "stop" : 1667490262980,
+          "duration" : 500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"vj\"",
+        "uid" : "7340d54201ae95a4",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490262982,
+          "stop" : 1667490269469,
+          "duration" : 6487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wandering city\"",
+        "uid" : "4f075568c5dafd08",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490269470,
+          "stop" : 1667490272843,
+          "duration" : 3373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"war zone\"",
+        "uid" : "aafcb924a1fe2a81",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490272844,
+          "stop" : 1667490275644,
+          "duration" : 2800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wind blowing\"",
+        "uid" : "b76d6a082b8f6d8a",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1667490275645,
+          "stop" : 1667490287168,
+          "duration" : 11523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"wireframe\"",
+        "uid" : "aa1c92186d72b3f0",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490287170,
+          "stop" : 1667490288105,
+          "duration" : 935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"woman falling with colorful light\"",
+        "uid" : "8456336672fba4c8",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490288109,
+          "stop" : 1667490288673,
+          "duration" : 564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"woman in a dreamy scene\"",
+        "uid" : "b11240030f3ac821",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490288676,
+          "stop" : 1667490289209,
+          "duration" : 533
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"working out at home\"",
+        "uid" : "af854b200649b530",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490289210,
+          "stop" : 1667490290233,
+          "duration" : 1023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"yellow cab\"",
+        "uid" : "e00a5ca2d68d8131",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490290240,
+          "stop" : 1667490292426,
+          "duration" : 2186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"youtube\"",
+        "uid" : "8ac6387545420a36",
+        "parentUid" : "6639bbaedf1e45826c05da03e796bc93",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490292428,
+          "stop" : 1667490297576,
+          "duration" : 5148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "6639bbaedf1e45826c05da03e796bc93"
+    } ],
+    "uid" : "ad9933e0a1988ecbfa9917c5035c43ac"
+  } ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "storyId": 17582,
+    "name": "Kitchen, Cooking, Ice-Cream, Diet",
+    "clip_id": "173346",
+    "order": 0
+  },
+  {
+    "storyId": 17582,
+    "name": "Kitchen, Cooking, Ice-Cream, Diet",
+    "clip_id": "173347",
+    "order": 1
+  },
+  {
+    "storyId": 27529,
+    "name": "Lemon, Falling, Bubbles, Water",
+    "clip_id": "480267",
+    "order": 2
+  },
+  {
+    "storyId": 26616,
+    "name": "Dry Ice, Smoke, Sublimates, Gas",
+    "clip_id": "448367",
+    "order": 3
+  },
+  {
+    "storyId": 10926,
+    "name": "guy dunks ball into hoop and hits himself in face with ball ",
+    "clip_id": "19916",
+    "order": 4
+  },
+  {
+    "storyId": 22872,
+    "name": "Drop, Water, Liquid, Splash",
+    "clip_id": "337353",
+    "order": 5
+  },
+  {
+    "storyId": 25358,
+    "name": "Basketball, Basketball  Hoop, Basketball Board, Low Angle",
+    "clip_id": "412630",
+    "order": 6
+  },
+  {
+    "storyId": 28821,
+    "name": "Disco Ball, Colorful, Lights, Spinning",
+    "clip_id": "519761",
+    "order": 7
+  },
+  {
+    "storyId": 25130,
+    "name": "Model, Modelling, Photoshoot, Studio",
+    "clip_id": "406473",
+    "order": 8
+  }
+]

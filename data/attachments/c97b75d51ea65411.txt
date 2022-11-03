@@ -1,0 +1,620 @@
+[
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Child, Soldier, Terrorism",
+    "clip_id": "260238",
+    "order": 0
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Hostage, Captive, Militia",
+    "clip_id": "260235",
+    "order": 1
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, Camp, Troops",
+    "clip_id": "260313",
+    "order": 2
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Camouflaged, Troops, Combat",
+    "clip_id": "260241",
+    "order": 3
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Soldier, Troops, Fire",
+    "clip_id": "260293",
+    "order": 4
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Soldier, Army, Troops",
+    "clip_id": "260251",
+    "order": 5
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, Army, Talking",
+    "clip_id": "260299",
+    "order": 6
+  },
+  {
+    "storyId": 20480,
+    "name": "Hostage, Soldier, War, Gun",
+    "clip_id": "260230",
+    "order": 7
+  },
+  {
+    "storyId": 20480,
+    "name": "Violence, War, Explosion, Death",
+    "clip_id": "260271",
+    "order": 8
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Comrade, Death, Explosion",
+    "clip_id": "260272",
+    "order": 9
+  },
+  {
+    "storyId": 20480,
+    "name": "Battle, War, Attack, Combat",
+    "clip_id": "260277",
+    "order": 10
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Communication, Military",
+    "clip_id": "260319",
+    "order": 11
+  },
+  {
+    "storyId": 20480,
+    "name": "Explosion, Bomb, War, Soldier",
+    "clip_id": "260326",
+    "order": 12
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wounded, Army, Smoke",
+    "clip_id": "260275",
+    "order": 13
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Bunker, War",
+    "clip_id": "260240",
+    "order": 14
+  },
+  {
+    "storyId": 20480,
+    "name": "Militia, Enemy, Terrorism, Soldier",
+    "clip_id": "260270",
+    "order": 15
+  },
+  {
+    "storyId": 20480,
+    "name": "Battle, War, Fight, Army",
+    "clip_id": "260278",
+    "order": 16
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Desert, Fear",
+    "clip_id": "260239",
+    "order": 17
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Upset, Angry, War",
+    "clip_id": "260292",
+    "order": 18
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Desert, Deafening",
+    "clip_id": "260231",
+    "order": 19
+  },
+  {
+    "storyId": 20480,
+    "name": "Wounded, Explosion, Ptsd, Soldier",
+    "clip_id": "260328",
+    "order": 20
+  },
+  {
+    "storyId": 20480,
+    "name": "Child, Gun, Keffiyeh, Hostage",
+    "clip_id": "260282",
+    "order": 21
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wounded, Wound, Bandage",
+    "clip_id": "260295",
+    "order": 22
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, War, Fear",
+    "clip_id": "260325",
+    "order": 23
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, Death, War",
+    "clip_id": "260323",
+    "order": 24
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Running, Communication, Radio",
+    "clip_id": "260317",
+    "order": 25
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Comapnion, Comrade, War",
+    "clip_id": "260289",
+    "order": 26
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Usa, Flag, Phone",
+    "clip_id": "260248",
+    "order": 27
+  },
+  {
+    "storyId": 20480,
+    "name": "Child, Soldier, Gun, Sunlight",
+    "clip_id": "260262",
+    "order": 28
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Tablet, Soldier, Planning",
+    "clip_id": "260279",
+    "order": 29
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Fear, War, Drinking",
+    "clip_id": "260304",
+    "order": 30
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Fear, Wounded, Battle",
+    "clip_id": "260327",
+    "order": 31
+  },
+  {
+    "storyId": 20480,
+    "name": "Explosion, Frightened, War, Screaming",
+    "clip_id": "260229",
+    "order": 32
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Desert, Frightened, Conflict",
+    "clip_id": "260228",
+    "order": 33
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Hostage, Captive, Negotiation",
+    "clip_id": "260234",
+    "order": 34
+  },
+  {
+    "storyId": 20480,
+    "name": "Troops, Combat, Comrade, Army",
+    "clip_id": "260243",
+    "order": 35
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Talking, War",
+    "clip_id": "260253",
+    "order": 36
+  },
+  {
+    "storyId": 20480,
+    "name": "Hostage, Capture, Captive, Soldier",
+    "clip_id": "260232",
+    "order": 37
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Homesick, Phone, War",
+    "clip_id": "260280",
+    "order": 38
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, War, Guarding",
+    "clip_id": "260284",
+    "order": 39
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Hostage, Fear, Violence",
+    "clip_id": "260260",
+    "order": 40
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Irresponsible, Stupid, Military",
+    "clip_id": "260252",
+    "order": 41
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Hostage, Negotiation, Captive",
+    "clip_id": "260259",
+    "order": 42
+  },
+  {
+    "storyId": 20480,
+    "name": "Child, Soldier, Keffiyeh, Terrorism",
+    "clip_id": "260281",
+    "order": 43
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Combat, Desert",
+    "clip_id": "260300",
+    "order": 44
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Negotiation, Force",
+    "clip_id": "260269",
+    "order": 45
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, Young, Military",
+    "clip_id": "260298",
+    "order": 46
+  },
+  {
+    "storyId": 20480,
+    "name": "Troops, Hostage, Keffiyeh, Negotiation",
+    "clip_id": "260265",
+    "order": 47
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Child, Hostage, Troops",
+    "clip_id": "260266",
+    "order": 48
+  },
+  {
+    "storyId": 20480,
+    "name": "Troops, Negotiation, Fear, Terrorism",
+    "clip_id": "260264",
+    "order": 49
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Hostage, Militia, Enemy",
+    "clip_id": "260233",
+    "order": 50
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Crying, Fear, War",
+    "clip_id": "260311",
+    "order": 51
+  },
+  {
+    "storyId": 20480,
+    "name": "War",
+    "clip_id": "260225",
+    "order": 52
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Sunlight, Combat",
+    "clip_id": "260255",
+    "order": 53
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Radio, Battle, Combat",
+    "clip_id": "260320",
+    "order": 54
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Desert, Violence, Troops",
+    "clip_id": "260273",
+    "order": 55
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Tablet, Planning, War",
+    "clip_id": "260258",
+    "order": 56
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Crying, Wound, Fear",
+    "clip_id": "260312",
+    "order": 57
+  },
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Guarding, Camp, Glowing",
+    "clip_id": "260314",
+    "order": 58
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Combat, Military",
+    "clip_id": "260256",
+    "order": 59
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Soldier, Phone, Flag",
+    "clip_id": "260310",
+    "order": 60
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Bunker, Troops, Combat",
+    "clip_id": "260250",
+    "order": 61
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Explosion, Combat, Death",
+    "clip_id": "260226",
+    "order": 62
+  },
+  {
+    "storyId": 20480,
+    "name": "Terrorism, Gun, Keffiyeh, Militia",
+    "clip_id": "260315",
+    "order": 63
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Army, Instruction, Tablet",
+    "clip_id": "260257",
+    "order": 64
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Phone, Army",
+    "clip_id": "260286",
+    "order": 65
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Tablet, Army, Troops",
+    "clip_id": "260246",
+    "order": 66
+  },
+  {
+    "storyId": 20480,
+    "name": "Planning, Tablet, Soldier, War",
+    "clip_id": "260318",
+    "order": 67
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Desert, Guarding, Army",
+    "clip_id": "260288",
+    "order": 68
+  },
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Hostage, Child, Troops",
+    "clip_id": "260263",
+    "order": 69
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Fire, War, Military",
+    "clip_id": "260287",
+    "order": 70
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Fear, Bandage, Soldier",
+    "clip_id": "260294",
+    "order": 71
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Goggles, War, Army",
+    "clip_id": "260254",
+    "order": 72
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Uniform, Battle, War",
+    "clip_id": "260274",
+    "order": 73
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Military, Fear, Guard",
+    "clip_id": "260306",
+    "order": 74
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, War, Troops",
+    "clip_id": "260302",
+    "order": 75
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Angry, Upset, Army",
+    "clip_id": "260291",
+    "order": 76
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Guard, Gun",
+    "clip_id": "260322",
+    "order": 77
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Desert, Resting, War",
+    "clip_id": "260276",
+    "order": 78
+  },
+  {
+    "storyId": 20480,
+    "name": "Captive, Army, Frightened, Hostage",
+    "clip_id": "260236",
+    "order": 79
+  },
+  {
+    "storyId": 20480,
+    "name": "Keffiyeh, Gun, Guarding, Army",
+    "clip_id": "260316",
+    "order": 80
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, Combat, War",
+    "clip_id": "260290",
+    "order": 81
+  },
+  {
+    "storyId": 20480,
+    "name": "Troops, Soldier, Phone, Flag",
+    "clip_id": "260249",
+    "order": 82
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Combat, Military",
+    "clip_id": "260301",
+    "order": 83
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Wound, Trauma, Ptsd",
+    "clip_id": "260308",
+    "order": 84
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Fighting, Military",
+    "clip_id": "260321",
+    "order": 85
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Gun, Preparation, War",
+    "clip_id": "260283",
+    "order": 86
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Lookout, Guard, Window",
+    "clip_id": "260242",
+    "order": 87
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Planning, Army, Troops",
+    "clip_id": "260227",
+    "order": 88
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Social-Media, Combat",
+    "clip_id": "260296",
+    "order": 89
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Social-Media, American",
+    "clip_id": "260285",
+    "order": 90
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Phone, Army",
+    "clip_id": "260307",
+    "order": 91
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Sitting, Army, Troops",
+    "clip_id": "260305",
+    "order": 92
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Phone, Army",
+    "clip_id": "260303",
+    "order": 93
+  },
+  {
+    "storyId": 20480,
+    "name": "Conflict, Soldier, Phone, Bunker",
+    "clip_id": "260244",
+    "order": 94
+  },
+  {
+    "storyId": 20480,
+    "name": "War, Army, Soldier, Capture",
+    "clip_id": "260261",
+    "order": 95
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Phone, Uniform, War",
+    "clip_id": "260245",
+    "order": 96
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Soldier, Combat",
+    "clip_id": "260268",
+    "order": 97
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Keffiyeh, Desert, Gun",
+    "clip_id": "260297",
+    "order": 98
+  },
+  {
+    "storyId": 20480,
+    "name": "Army, Troops, Combat, Child",
+    "clip_id": "260267",
+    "order": 99
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, Goggles, Portrait, Bunker",
+    "clip_id": "260247",
+    "order": 100
+  },
+  {
+    "storyId": 20480,
+    "name": "Soldier, War, Military, Smoke",
+    "clip_id": "260324",
+    "order": 101
+  },
+  {
+    "storyId": 20480,
+    "name": "Bunker, Fire, Camp, American",
+    "clip_id": "260309",
+    "order": 102
+  }
+]

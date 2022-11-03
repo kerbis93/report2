@@ -1,0 +1,68 @@
+[
+  {
+    "storyId": 26703,
+    "name": "Diver, Swimming, Diving, Snorkling ",
+    "clip_id": "425244",
+    "order": 0
+  },
+  {
+    "storyId": 26703,
+    "name": "Diver, Diving, Snorkling , Swimming",
+    "clip_id": "425245",
+    "order": 1
+  },
+  {
+    "storyId": 25774,
+    "name": "Scuba, Diver, Light Rays, Bubbles",
+    "clip_id": "425084",
+    "order": 2
+  },
+  {
+    "storyId": 26703,
+    "name": "Diver, Swimming, Snorkling , Sunrays",
+    "clip_id": "425241",
+    "order": 3
+  },
+  {
+    "storyId": 15056,
+    "name": "people in the crowd filming the concert on their phones ",
+    "clip_id": "107400",
+    "order": 4
+  },
+  {
+    "storyId": 18449,
+    "name": "Hand, Hand Gestures, Gesture, Signals",
+    "clip_id": "201437",
+    "order": 5
+  },
+  {
+    "storyId": 18275,
+    "name": "Clap, Thank You, Gratitude, Hand",
+    "clip_id": "196183",
+    "order": 6
+  },
+  {
+    "storyId": 12028,
+    "name": "Massive crowd jumps up and down next to stage at night",
+    "clip_id": "47970",
+    "order": 7
+  },
+  {
+    "storyId": 26659,
+    "name": "Woman, Practice, Yoga, Dancer Pose",
+    "clip_id": "454526",
+    "order": 8
+  },
+  {
+    "storyId": 18275,
+    "name": "Win, Hand, Gesture, Sign",
+    "clip_id": "196182",
+    "order": 9
+  },
+  {
+    "storyId": 18140,
+    "name": "Words, Text, Computer, Written",
+    "clip_id": "190625",
+    "order": 10
+  }
+]

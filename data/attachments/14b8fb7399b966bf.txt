@@ -1,0 +1,20 @@
+[
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "359118",
+    "story_id": "23535",
+    "autoRank": "0.30764681346887679"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "235006",
+    "story_id": "19604",
+    "autoRank": "0.30372115781323039"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "178492",
+    "story_id": "17794",
+    "autoRank": "0.30291236880188754"
+  }
+]

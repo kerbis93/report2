@@ -1,0 +1,224 @@
+[
+  {
+    "storyId": 27355,
+    "name": "Woman, Subway, Station, Waiting",
+    "clip_id": "475180",
+    "order": 0
+  },
+  {
+    "storyId": 27355,
+    "name": "Woman, Subway, Station, Waiting",
+    "clip_id": "475179",
+    "order": 1
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Docu Crime, Blood Drops",
+    "clip_id": "437222",
+    "order": 2
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Fingerprints, Docu Crime",
+    "clip_id": "437218",
+    "order": 3
+  },
+  {
+    "storyId": 26129,
+    "name": "Hand, Placing Down, Gun, Detective Desk",
+    "clip_id": "437228",
+    "order": 4
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Desk, Investigation, Fingerprints, Docu Crime",
+    "clip_id": "437217",
+    "order": 5
+  },
+  {
+    "storyId": 27928,
+    "name": "Psycho, Corpse, Horror, Looking At Camera",
+    "clip_id": "493713",
+    "order": 6
+  },
+  {
+    "storyId": 19325,
+    "name": "Chef, Man, Oven, Cafe",
+    "clip_id": "226820",
+    "order": 7
+  },
+  {
+    "storyId": 19334,
+    "name": "Munich Skyline, Munich, Frauenkirche Cathedral, Frauenkirche",
+    "clip_id": "226944",
+    "order": 8
+  },
+  {
+    "storyId": 19325,
+    "name": "Chef, Man, Oven, Cafe",
+    "clip_id": "226818",
+    "order": 9
+  },
+  {
+    "storyId": 19325,
+    "name": "Pizza, Oven, Pepperoni, Dough",
+    "clip_id": "226819",
+    "order": 10
+  },
+  {
+    "storyId": 19325,
+    "name": "Man, Chef, Pizza, Pizzeria",
+    "clip_id": "226794",
+    "order": 11
+  },
+  {
+    "storyId": 19325,
+    "name": "Man, Chef, Pizza, Pizzeria",
+    "clip_id": "226774",
+    "order": 12
+  },
+  {
+    "storyId": 19325,
+    "name": "Pizza, Oven, Sauce, Dough",
+    "clip_id": "226744",
+    "order": 13
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240978",
+    "order": 14
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241007",
+    "order": 15
+  },
+  {
+    "storyId": 19795,
+    "name": "Headphones, Head, Guitar, Electric Guitar",
+    "clip_id": "239424",
+    "order": 16
+  },
+  {
+    "storyId": 19325,
+    "name": "Man, Chef, Pizza, Pizzeria",
+    "clip_id": "226745",
+    "order": 17
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241006",
+    "order": 18
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241014",
+    "order": 19
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240997",
+    "order": 20
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240981",
+    "order": 21
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240983",
+    "order": 22
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240982",
+    "order": 23
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240986",
+    "order": 24
+  },
+  {
+    "storyId": 19795,
+    "name": "Headphones, Head, Face, Short Hair",
+    "clip_id": "239425",
+    "order": 25
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Picking Up Bike, Street",
+    "clip_id": "241003",
+    "order": 26
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240989",
+    "order": 27
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241013",
+    "order": 28
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240984",
+    "order": 29
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Picking Up Bike, Bmx Rider, Street",
+    "clip_id": "240979",
+    "order": 30
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240985",
+    "order": 31
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241012",
+    "order": 32
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240980",
+    "order": 33
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241009",
+    "order": 34
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "241016",
+    "order": 35
+  },
+  {
+    "storyId": 19851,
+    "name": "Bmx, Bmx Rider, Street, Street Bmx",
+    "clip_id": "240999",
+    "order": 36
+  }
+]

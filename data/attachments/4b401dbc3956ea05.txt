@@ -1,0 +1,92 @@
+[
+  {
+    "storyId": 13847,
+    "name": "Woman uses foam roller on her back and exercises",
+    "clip_id": "80024",
+    "order": 0
+  },
+  {
+    "storyId": 13847,
+    "name": "Woman uses foam roller for core exercise",
+    "clip_id": "80028",
+    "order": 1
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in the mirror wipes away tears from eyes",
+    "clip_id": "22307",
+    "order": 2
+  },
+  {
+    "storyId": 13847,
+    "name": "Woman sits on a foam roller and stretches",
+    "clip_id": "80030",
+    "order": 3
+  },
+  {
+    "storyId": 11012,
+    "name": "Sad woman wearing lipstick looks out the window",
+    "clip_id": "22309",
+    "order": 4
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman fixes hair in mirror focus switches from mirror to face",
+    "clip_id": "22306",
+    "order": 5
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman fixes eyebrows in dirty window mirror",
+    "clip_id": "22308",
+    "order": 6
+  },
+  {
+    "storyId": 18037,
+    "name": "man using a phone while sitting in a car",
+    "clip_id": "186364",
+    "order": 7
+  },
+  {
+    "storyId": 18438,
+    "name": "man with a beard writing",
+    "clip_id": "200969",
+    "order": 8
+  },
+  {
+    "storyId": 17928,
+    "name": "Pov, Smartphone, Phone, Using",
+    "clip_id": "182784",
+    "order": 9
+  },
+  {
+    "storyId": 18438,
+    "name": "man with a beard writing",
+    "clip_id": "200971",
+    "order": 10
+  },
+  {
+    "storyId": 18220,
+    "name": "businesswoman using her phone on the train ",
+    "clip_id": "194155",
+    "order": 11
+  },
+  {
+    "storyId": 18220,
+    "name": "businessman talking on the phone on the train ",
+    "clip_id": "194141",
+    "order": 12
+  },
+  {
+    "storyId": 19795,
+    "name": "Headphones, Head, Backlight, Centered",
+    "clip_id": "239416",
+    "order": 13
+  },
+  {
+    "storyId": 18220,
+    "name": "businessman using his phone on the train ",
+    "clip_id": "194138",
+    "order": 14
+  }
+]

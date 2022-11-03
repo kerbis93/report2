@@ -1,0 +1,26 @@
+[
+  {
+    "query": "vibing - slang",
+    "clip_id": "187310",
+    "story_id": "18065",
+    "autoRank": "0.30537328542255066"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "410215",
+    "story_id": "25261",
+    "autoRank": "0.30269074362666865"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "410254",
+    "story_id": "25262",
+    "autoRank": "0.30212856057554"
+  },
+  {
+    "query": "vibing - slang",
+    "clip_id": "285959",
+    "story_id": "21286",
+    "autoRank": "0.30211914975513915"
+  }
+]

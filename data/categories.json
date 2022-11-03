@@ -1,0 +1,1891 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 158 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"black\",\"clip_id\":\"156795\",\"story_id\":\"16953\",\"autoRank\":\"0.37131802342945242\"},{\"query\":\"black\",\"clip_id\":\"157165\",\"story_id\":\"16967\",\"autoRank\":\"0.37024694190046636\"},{\"query\":\"black\",\"clip_id\":\"256642\",\"story_id\":\"20383\",\"autoRank\":\"0.36992156964469614\"},{\"query\":\"black\",\"clip_id\":\"207537\",\"story_id\":\"18670\",\"autoRank\":\"0.36905717955588807\"},{\"query\":\"black\",\"clip_id\":\"211028\",\"story_id\":\"18789\",\"autoRank\":\"0.36705884730005628\"},{\"query\":\"black\",\"clip_id\":\"249112\",\"story_id\":\"20147\",\"autoRank\":\"0.36684727344233203\"},{\"query\":\"black\",\"clip_id\":\"35317\",\"story_id\":\"11365\",\"autoRank\":\"0.36631871536536692\"},{\"query\":\"black\",\"clip_id\":\"90601\",\"story_id\":\"14370\",\"autoRank\":\"0.36596931986080544\"},{\"query\":\"black\",\"clip_id\":\"98345\",\"story_id\":\"14681\",\"autoRank\":\"0.36518857976127073\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"black\"",
+        "uid" : "2e6c79e822dd6735",
+        "parentUid" : "518a7cdf5078cfb12fc69e93b37aca80",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489118519,
+          "stop" : 1667489125942,
+          "duration" : 7423
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "518a7cdf5078cfb12fc69e93b37aca80"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 3 \nLength of returned list: 3 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"bussiness\",\"clip_id\":\"359153\",\"story_id\":\"23536\",\"autoRank\":\"0.30849656277850995\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"bussiness\"",
+        "uid" : "943f9befede71d48",
+        "parentUid" : "9de64cac0b170d31a242f5bbed8bf4d4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489158800,
+          "stop" : 1667489161042,
+          "duration" : 2242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "9de64cac0b170d31a242f5bbed8bf4d4"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"coffee berries\",\"clip_id\":\"373140\",\"story_id\":\"23994\",\"autoRank\":\"0.32403269615803876\"},{\"query\":\"coffee berries\",\"clip_id\":\"362360\",\"story_id\":\"23686\",\"autoRank\":\"0.32236579603276833\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"coffee berries\"",
+        "uid" : "79c7795591c04080",
+        "parentUid" : "7a88ff48b388d9bfb0516f310f13af65",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489205503,
+          "stop" : 1667489213617,
+          "duration" : 8114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7a88ff48b388d9bfb0516f310f13af65"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"earth\",\"clip_id\":\"359099\",\"story_id\":\"23535\",\"autoRank\":\"0.36000916388691978\"},{\"query\":\"earth\",\"clip_id\":\"366589\",\"story_id\":\"23790\",\"autoRank\":\"0.35732954618201679\"},{\"query\":\"earth\",\"clip_id\":\"349989\",\"story_id\":\"23259\",\"autoRank\":\"0.35264949788362704\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"earth\"",
+        "uid" : "cdee8eb51af92acf",
+        "parentUid" : "14e3fcf4f2674b1d23329818a5e70236",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489267815,
+          "stop" : 1667489277406,
+          "duration" : 9591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "14e3fcf4f2674b1d23329818a5e70236"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"fool around  slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"fool around  slang\"",
+        "uid" : "398b1b2f9a477430",
+        "parentUid" : "63be21b30c74a7e3e8fae4dca5cfd20e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489348904,
+          "stop" : 1667489350013,
+          "duration" : 1109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"fool around  slang\"",
+        "uid" : "552436ee7d22bd6c",
+        "parentUid" : "63be21b30c74a7e3e8fae4dca5cfd20e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490021739,
+          "stop" : 1667490022176,
+          "duration" : 437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "63be21b30c74a7e3e8fae4dca5cfd20e"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 19 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"goofing around  - slang\",\"clip_id\":\"359118\",\"story_id\":\"23535\",\"autoRank\":\"0.30764681346887679\"},{\"query\":\"goofing around  - slang\",\"clip_id\":\"235006\",\"story_id\":\"19604\",\"autoRank\":\"0.30372115781323039\"},{\"query\":\"goofing around  - slang\",\"clip_id\":\"178492\",\"story_id\":\"17794\",\"autoRank\":\"0.30291236880188754\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"goofing around  - slang\"",
+        "uid" : "219b50dbb6ed6cd2",
+        "parentUid" : "79676aaa27c06f15c18b36e6a2f45a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489367815,
+          "stop" : 1667489370341,
+          "duration" : 2526
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "79676aaa27c06f15c18b36e6a2f45a68"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 3 \nLength of returned list: 6 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"google\",\"clip_id\":\"395356\",\"story_id\":\"24776\",\"autoRank\":\"0.30278126791841259\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"google\"",
+        "uid" : "c2fc20d007819331",
+        "parentUid" : "de0d3a7fb4e00aee812e1083f141fdb5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489370342,
+          "stop" : 1667489373320,
+          "duration" : 2978
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "de0d3a7fb4e00aee812e1083f141fdb5"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 6 \nLength of returned list: 11 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"goosebumps\",\"clip_id\":\"365634\",\"story_id\":\"23762\",\"autoRank\":\"0.303112102308806\"},{\"query\":\"goosebumps\",\"clip_id\":\"310681\",\"story_id\":\"22085\",\"autoRank\":\"0.30271138665471814\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"goosebumps\"",
+        "uid" : "cdad0a576109a567",
+        "parentUid" : "4a5473feeb6dc32eec12a58faca04521",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489373321,
+          "stop" : 1667489375422,
+          "duration" : 2101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "4a5473feeb6dc32eec12a58faca04521"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 4 \nLength of returned list: 5 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"humanity\",\"clip_id\":\"345765\",\"story_id\":\"23139\",\"autoRank\":\"0.30945719993447091\"},{\"query\":\"humanity\",\"clip_id\":\"359128\",\"story_id\":\"23535\",\"autoRank\":\"0.30567317743859412\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"humanity\"",
+        "uid" : "72746b4e6e1cdf9f",
+        "parentUid" : "adbd6ee3105e42db90754139b8400ba6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489425824,
+          "stop" : 1667489428946,
+          "duration" : 3122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "adbd6ee3105e42db90754139b8400ba6"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"mobile\",\"clip_id\":\"350133\",\"story_id\":\"23270\",\"autoRank\":\"0.34841861511476308\"},{\"query\":\"mobile\",\"clip_id\":\"350247\",\"story_id\":\"23492\",\"autoRank\":\"0.3474451208769998\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"mobile\"",
+        "uid" : "1d71dae2dc851962",
+        "parentUid" : "cce751176296a0ba01301b9aa1191a22",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489476942,
+          "stop" : 1667489485712,
+          "duration" : 8770
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "cce751176296a0ba01301b9aa1191a22"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 5 \nLength of returned list: 9 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"pop colture\",\"clip_id\":\"125225\",\"story_id\":\"15858\",\"autoRank\":\"0.30224291608952636\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"pop colture\"",
+        "uid" : "6b5e89e49d74abd4",
+        "parentUid" : "f978fb1cef254ea470823c1d9c0c0d70",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489530003,
+          "stop" : 1667489532330,
+          "duration" : 2327
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "f978fb1cef254ea470823c1d9c0c0d70"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"time\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"time\"",
+        "uid" : "fb88b0c7a3133d1b",
+        "parentUid" : "ce60829c27974fe1fc9d881e84191faa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489724433,
+          "stop" : 1667489725453,
+          "duration" : 1020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      }, {
+        "name" : "Verify search term = \"time\"",
+        "uid" : "8a989e7bd952f0ff",
+        "parentUid" : "ce60829c27974fe1fc9d881e84191faa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490255558,
+          "stop" : 1667490256133,
+          "duration" : 575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "ce60829c27974fe1fc9d881e84191faa"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 83 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"valetines\",\"clip_id\":\"414657\",\"story_id\":\"25459\",\"autoRank\":\"0.30472626345590303\"},{\"query\":\"valetines\",\"clip_id\":\"391714\",\"story_id\":\"24667\",\"autoRank\":\"0.30452283133056107\"},{\"query\":\"valetines\",\"clip_id\":\"367039\",\"story_id\":\"23804\",\"autoRank\":\"0.30419564221406492\"},{\"query\":\"valetines\",\"clip_id\":\"286800\",\"story_id\":\"21327\",\"autoRank\":\"0.30390785255373048\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"valetines\"",
+        "uid" : "f5819cae6abc556d",
+        "parentUid" : "c590a71e8f5a4cef4eec37955b52e6ba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489734305,
+          "stop" : 1667489738356,
+          "duration" : 4051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "c590a71e8f5a4cef4eec37955b52e6ba"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 22 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"vibing - slang\",\"clip_id\":\"187310\",\"story_id\":\"18065\",\"autoRank\":\"0.30537328542255066\"},{\"query\":\"vibing - slang\",\"clip_id\":\"410215\",\"story_id\":\"25261\",\"autoRank\":\"0.30269074362666865\"},{\"query\":\"vibing - slang\",\"clip_id\":\"410254\",\"story_id\":\"25262\",\"autoRank\":\"0.30212856057554\"},{\"query\":\"vibing - slang\",\"clip_id\":\"285959\",\"story_id\":\"21286\",\"autoRank\":\"0.30211914975513915\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"vibing - slang\"",
+        "uid" : "daab5dd75d337715",
+        "parentUid" : "db51e685c3cf84e354af5f04a0ad9d8c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489738358,
+          "stop" : 1667489740661,
+          "duration" : 2303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "db51e685c3cf84e354af5f04a0ad9d8c"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"vj\",\"clip_id\":\"410306\",\"story_id\":\"25343\",\"autoRank\":\"0.3122212074849785\"},{\"query\":\"vj\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.31196024304802328\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"vj\"",
+        "uid" : "138ec159b35b1abb",
+        "parentUid" : "244e9ccd880a24310e839ecfa1a4ea25",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489740663,
+          "stop" : 1667489748813,
+          "duration" : 8150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "244e9ccd880a24310e839ecfa1a4ea25"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"wireframe\",\"clip_id\":\"48035\",\"story_id\":\"12035\",\"autoRank\":\"0.31524360446638927\"},{\"query\":\"wireframe\",\"clip_id\":\"155182\",\"story_id\":\"16911\",\"autoRank\":\"0.31239262284781877\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"wireframe\"",
+        "uid" : "b2cb5d1d7872ab10",
+        "parentUid" : "479e948c490602844b525d81ae5faabb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489773700,
+          "stop" : 1667489783731,
+          "duration" : 10031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "vespa", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "479e948c490602844b525d81ae5faabb"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 26 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"Eye Candy\",\"clip_id\":\"131927\",\"story_id\":\"16142\",\"autoRank\":\"0.30921891622711994\"},{\"query\":\"Eye Candy\",\"clip_id\":\"179847\",\"story_id\":\"17865\",\"autoRank\":\"0.30921891622711994\"},{\"query\":\"Eye Candy\",\"clip_id\":\"179882\",\"story_id\":\"17866\",\"autoRank\":\"0.30783265747470007\"},{\"query\":\"Eye Candy\",\"clip_id\":\"285494\",\"story_id\":\"21279\",\"autoRank\":\"0.30657582904425007\"},{\"query\":\"Eye Candy\",\"clip_id\":\"406104\",\"story_id\":\"25121\",\"autoRank\":\"0.30391480620923966\"},{\"query\":\"Eye Candy\",\"clip_id\":\"239541\",\"story_id\":\"19798\",\"autoRank\":\"0.30385936660527\"},{\"query\":\"Eye Candy\",\"clip_id\":\"320203\",\"story_id\":\"22291\",\"autoRank\":\"0.30383886862045556\"},{\"query\":\"Eye Candy\",\"clip_id\":\"32541\",\"story_id\":\"11256\",\"autoRank\":\"0.30339795984678375\"},{\"query\":\"Eye Candy\",\"clip_id\":\"217016\",\"story_id\":\"19001\",\"autoRank\":\"0.30328160499167234\"},{\"query\":\"Eye Candy\",\"clip_id\":\"406407\",\"story_id\":\"25128\",\"autoRank\":\"0.30327599981585612\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"Eye Candy\"",
+        "uid" : "bb05edd12bc6a90c",
+        "parentUid" : "e35c233834794d25da34cc517cab7282",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489847629,
+          "stop" : 1667489849119,
+          "duration" : 1490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "e35c233834794d25da34cc517cab7282"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 12 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"abstract visuals\",\"clip_id\":\"170567\",\"story_id\":\"17501\",\"autoRank\":\"0.38473803157655129\"},{\"query\":\"abstract visuals\",\"clip_id\":\"67871\",\"story_id\":\"13264\",\"autoRank\":\"0.37764117279183451\"},{\"query\":\"abstract visuals\",\"clip_id\":\"411994\",\"story_id\":\"25327\",\"autoRank\":\"0.33388938959870823\"},{\"query\":\"abstract visuals\",\"clip_id\":\"416637\",\"story_id\":\"25513\",\"autoRank\":\"0.323536643541047\"},{\"query\":\"abstract visuals\",\"clip_id\":\"416686\",\"story_id\":\"25514\",\"autoRank\":\"0.32321033739644633\"},{\"query\":\"abstract visuals\",\"clip_id\":\"178543\",\"story_id\":\"17794\",\"autoRank\":\"0.32247837147615876\"},{\"query\":\"abstract visuals\",\"clip_id\":\"160996\",\"story_id\":\"17123\",\"autoRank\":\"0.32178899670415695\"},{\"query\":\"abstract visuals\",\"clip_id\":\"320853\",\"story_id\":\"22323\",\"autoRank\":\"0.32144298826260659\"},{\"query\":\"abstract visuals\",\"clip_id\":\"161852\",\"story_id\":\"17159\",\"autoRank\":\"0.31951672083528165\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"abstract visuals\"",
+        "uid" : "15d209cdccff8733",
+        "parentUid" : "c13bb298997b5981949d6f3669c32b1f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489849119,
+          "stop" : 1667489850449,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "c13bb298997b5981949d6f3669c32b1f"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 11 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"amazing view/scenery\",\"clip_id\":\"234441\",\"story_id\":\"19535\",\"autoRank\":\"0.3458509298548112\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"263590\",\"story_id\":\"20590\",\"autoRank\":\"0.33695028828204465\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"260706\",\"story_id\":\"20488\",\"autoRank\":\"0.32210986556043447\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"394500\",\"story_id\":\"24751\",\"autoRank\":\"0.31474478199037836\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"262408\",\"story_id\":\"20543\",\"autoRank\":\"0.312993653948697\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"343374\",\"story_id\":\"23065\",\"autoRank\":\"0.31235446158937258\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"203805\",\"story_id\":\"18541\",\"autoRank\":\"0.31154133480172513\"},{\"query\":\"amazing view/scenery\",\"clip_id\":\"385188\",\"story_id\":\"24473\",\"autoRank\":\"0.31119582693883074\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"amazing view/scenery\"",
+        "uid" : "1505bc6590c0c3a1",
+        "parentUid" : "58512750dfe97c6a3a81f1c4dfe5665b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489850452,
+          "stop" : 1667489851570,
+          "duration" : 1118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "58512750dfe97c6a3a81f1c4dfe5665b"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"artgrid\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"artgrid\"",
+        "uid" : "6d2c4bdaf11ed8e5",
+        "parentUid" : "65c8c6196fb18b80c052570a2a7ed801",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489851572,
+          "stop" : 1667489852321,
+          "duration" : 749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "65c8c6196fb18b80c052570a2a7ed801"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 32 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"authentic style\",\"clip_id\":\"22335\",\"story_id\":\"11012\",\"autoRank\":\"0.32068705834984579\"},{\"query\":\"authentic style\",\"clip_id\":\"218432\",\"story_id\":\"19072\",\"autoRank\":\"0.30829364335978343\"},{\"query\":\"authentic style\",\"clip_id\":\"386514\",\"story_id\":\"24539\",\"autoRank\":\"0.30500641166861786\"},{\"query\":\"authentic style\",\"clip_id\":\"202208\",\"story_id\":\"18474\",\"autoRank\":\"0.30487425196618878\"},{\"query\":\"authentic style\",\"clip_id\":\"156257\",\"story_id\":\"16942\",\"autoRank\":\"0.30486514227977851\"},{\"query\":\"authentic style\",\"clip_id\":\"150448\",\"story_id\":\"16766\",\"autoRank\":\"0.30422896316351877\"},{\"query\":\"authentic style\",\"clip_id\":\"181070\",\"story_id\":\"17899\",\"autoRank\":\"0.30385863539962921\"},{\"query\":\"authentic style\",\"clip_id\":\"157045\",\"story_id\":\"16962\",\"autoRank\":\"0.30360041392424969\"},{\"query\":\"authentic style\",\"clip_id\":\"391294\",\"story_id\":\"24666\",\"autoRank\":\"0.3033887758332699\"},{\"query\":\"authentic style\",\"clip_id\":\"391350\",\"story_id\":\"24668\",\"autoRank\":\"0.30331135223513428\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"authentic style\"",
+        "uid" : "b2f81b80adf7e6b7",
+        "parentUid" : "788a8cfbc96082ed0f4ed0cd70413f6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489852324,
+          "stop" : 1667489853933,
+          "duration" : 1609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "788a8cfbc96082ed0f4ed0cd70413f6d"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"beyonce\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"beyonce\"",
+        "uid" : "6321211fa0ec42a",
+        "parentUid" : "c128d87b8e88b74e7e2b64ba0e6d8177",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489871108,
+          "stop" : 1667489871722,
+          "duration" : 614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "c128d87b8e88b74e7e2b64ba0e6d8177"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"big empty space\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"big empty space\"",
+        "uid" : "4fd5e2abd88605d3",
+        "parentUid" : "bd5794740a56a065c48cbdd504889991",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489871723,
+          "stop" : 1667489872212,
+          "duration" : 489
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "bd5794740a56a065c48cbdd504889991"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"big size model\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"big size model\"",
+        "uid" : "78088e5b2043e637",
+        "parentUid" : "f443fd11b7e7290e652e0bd5faeabcea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489872213,
+          "stop" : 1667489872823,
+          "duration" : 610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "f443fd11b7e7290e652e0bd5faeabcea"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 358 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"black\",\"clip_id\":\"156795\",\"story_id\":\"16953\",\"autoRank\":\"0.37131802342945242\"},{\"query\":\"black\",\"clip_id\":\"157165\",\"story_id\":\"16967\",\"autoRank\":\"0.37024694190046636\"},{\"query\":\"black\",\"clip_id\":\"256642\",\"story_id\":\"20383\",\"autoRank\":\"0.36992156964469614\"},{\"query\":\"black\",\"clip_id\":\"207537\",\"story_id\":\"18670\",\"autoRank\":\"0.36905717955588807\"},{\"query\":\"black\",\"clip_id\":\"211028\",\"story_id\":\"18789\",\"autoRank\":\"0.36705884730005628\"},{\"query\":\"black\",\"clip_id\":\"249112\",\"story_id\":\"20147\",\"autoRank\":\"0.36684727344233203\"},{\"query\":\"black\",\"clip_id\":\"35317\",\"story_id\":\"11365\",\"autoRank\":\"0.36631871536536692\"},{\"query\":\"black\",\"clip_id\":\"90601\",\"story_id\":\"14370\",\"autoRank\":\"0.36596931986080544\"},{\"query\":\"black\",\"clip_id\":\"98345\",\"story_id\":\"14681\",\"autoRank\":\"0.36518857976127073\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"black\"",
+        "uid" : "d6778dd10935f9cc",
+        "parentUid" : "6b569d4dcb6b30e736a829c4e448c4fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489881869,
+          "stop" : 1667489890227,
+          "duration" : 8358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "6b569d4dcb6b30e736a829c4e448c4fe"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"black & white\",\"clip_id\":\"98362\",\"story_id\":\"14681\",\"autoRank\":\"0.36419591534001761\"},{\"query\":\"black & white\",\"clip_id\":\"90618\",\"story_id\":\"14370\",\"autoRank\":\"0.36129673340412688\"},{\"query\":\"black & white\",\"clip_id\":\"297385\",\"story_id\":\"21654\",\"autoRank\":\"0.35856370626280942\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"black & white\"",
+        "uid" : "b806fe6f7f8900c1",
+        "parentUid" : "222295f555499684529b62e7dfa9441e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489890228,
+          "stop" : 1667489897740,
+          "duration" : 7512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "222295f555499684529b62e7dfa9441e"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"black background\",\"clip_id\":\"119063\",\"story_id\":\"15574\",\"autoRank\":\"0.36728956325623907\"},{\"query\":\"black background\",\"clip_id\":\"201437\",\"story_id\":\"18449\",\"autoRank\":\"0.36724930794373212\"},{\"query\":\"black background\",\"clip_id\":\"295896\",\"story_id\":\"21589\",\"autoRank\":\"0.36661227088345782\"},{\"query\":\"black background\",\"clip_id\":\"227893\",\"story_id\":\"19376\",\"autoRank\":\"0.36601771144478767\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"black background\"",
+        "uid" : "ebbd8af0af938225",
+        "parentUid" : "2841bd6fe0b833eeb9cab65d72af8f36",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489897741,
+          "stop" : 1667489908421,
+          "duration" : 10680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "2841bd6fe0b833eeb9cab65d72af8f36"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"black children\",\"clip_id\":\"304700\",\"story_id\":\"21853\",\"autoRank\":\"0.3666180260244834\"},{\"query\":\"black children\",\"clip_id\":\"96484\",\"story_id\":\"14614\",\"autoRank\":\"0.36278864197546978\"},{\"query\":\"black children\",\"clip_id\":\"295468\",\"story_id\":\"21578\",\"autoRank\":\"0.35882691589400578\"},{\"query\":\"black children\",\"clip_id\":\"248863\",\"story_id\":\"20144\",\"autoRank\":\"0.3563614306222464\"},{\"query\":\"black children\",\"clip_id\":\"216814\",\"story_id\":\"18989\",\"autoRank\":\"0.35406020804729504\"},{\"query\":\"black children\",\"clip_id\":\"203268\",\"story_id\":\"18521\",\"autoRank\":\"0.33649622102543625\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"black children\"",
+        "uid" : "a5b27c1ce5367a99",
+        "parentUid" : "47062abcc90357b764f86b2acbf0ff3e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489908423,
+          "stop" : 1667489917327,
+          "duration" : 8904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "47062abcc90357b764f86b2acbf0ff3e"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"bussiness\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"bussiness\"",
+        "uid" : "852d5fcc9deb532a",
+        "parentUid" : "0213014a5d41802050e65a5a84c833aa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489917332,
+          "stop" : 1667489917925,
+          "duration" : 593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "0213014a5d41802050e65a5a84c833aa"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 154 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"cherry blossom\",\"clip_id\":\"80888\",\"story_id\":\"13894\",\"autoRank\":\"0.32090453277894715\"},{\"query\":\"cherry blossom\",\"clip_id\":\"116213\",\"story_id\":\"15453\",\"autoRank\":\"0.3204701656104369\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"cherry blossom\"",
+        "uid" : "386c8a2a8b92efd5",
+        "parentUid" : "a0f4775a6d5af8936f761cd75a13c6be",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489929558,
+          "stop" : 1667489933429,
+          "duration" : 3871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "a0f4775a6d5af8936f761cd75a13c6be"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 37 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"cinematic shot\",\"clip_id\":\"226949\",\"story_id\":\"19334\",\"autoRank\":\"0.33435554583739274\"},{\"query\":\"cinematic shot\",\"clip_id\":\"41491\",\"story_id\":\"11686\",\"autoRank\":\"0.33204195544345416\"},{\"query\":\"cinematic shot\",\"clip_id\":\"37802\",\"story_id\":\"11522\",\"autoRank\":\"0.32957991408706644\"},{\"query\":\"cinematic shot\",\"clip_id\":\"217911\",\"story_id\":\"19047\",\"autoRank\":\"0.32923231756897414\"},{\"query\":\"cinematic shot\",\"clip_id\":\"137599\",\"story_id\":\"16325\",\"autoRank\":\"0.32863545380164755\"},{\"query\":\"cinematic shot\",\"clip_id\":\"407775\",\"story_id\":\"25173\",\"autoRank\":\"0.32775419187916005\"},{\"query\":\"cinematic shot\",\"clip_id\":\"37594\",\"story_id\":\"11500\",\"autoRank\":\"0.32752557087088185\"},{\"query\":\"cinematic shot\",\"clip_id\":\"55617\",\"story_id\":\"12431\",\"autoRank\":\"0.32454764926390861\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"cinematic shot\"",
+        "uid" : "1547a1c8c1ab4368",
+        "parentUid" : "7e5497b73dfb7326b65d97fedab59caa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489933431,
+          "stop" : 1667489935424,
+          "duration" : 1993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7e5497b73dfb7326b65d97fedab59caa"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 23 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"coffee berries\",\"clip_id\":\"414721\",\"story_id\":\"25463\",\"autoRank\":\"0.33228633076123343\"},{\"query\":\"coffee berries\",\"clip_id\":\"208671\",\"story_id\":\"18706\",\"autoRank\":\"0.33156117256176582\"},{\"query\":\"coffee berries\",\"clip_id\":\"42772\",\"story_id\":\"11722\",\"autoRank\":\"0.33024213899847343\"},{\"query\":\"coffee berries\",\"clip_id\":\"323211\",\"story_id\":\"22393\",\"autoRank\":\"0.32438919984689851\"},{\"query\":\"coffee berries\",\"clip_id\":\"373140\",\"story_id\":\"23994\",\"autoRank\":\"0.32403269615803876\"},{\"query\":\"coffee berries\",\"clip_id\":\"259775\",\"story_id\":\"20462\",\"autoRank\":\"0.32316013272918787\"},{\"query\":\"coffee berries\",\"clip_id\":\"50398\",\"story_id\":\"12198\",\"autoRank\":\"0.32277875704602738\"},{\"query\":\"coffee berries\",\"clip_id\":\"284917\",\"story_id\":\"21255\",\"autoRank\":\"0.32247031340795079\"},{\"query\":\"coffee berries\",\"clip_id\":\"362360\",\"story_id\":\"23686\",\"autoRank\":\"0.32236579603276833\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"coffee berries\"",
+        "uid" : "4fbe42f6f512761f",
+        "parentUid" : "48dfdf8756f3f01049538b47f2e7475d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489943304,
+          "stop" : 1667489944718,
+          "duration" : 1414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "48dfdf8756f3f01049538b47f2e7475d"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"commercial vibe\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"commercial vibe\"",
+        "uid" : "a4ebd827c2e02014",
+        "parentUid" : "ac242639d8cadf127d3820d34bba1bea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489944719,
+          "stop" : 1667489945072,
+          "duration" : 353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "ac242639d8cadf127d3820d34bba1bea"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 87 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"cyberpunk\",\"clip_id\":\"206278\",\"story_id\":\"18648\",\"autoRank\":\"0.31905559446934373\"},{\"query\":\"cyberpunk\",\"clip_id\":\"284375\",\"story_id\":\"21240\",\"autoRank\":\"0.31761383251596137\"},{\"query\":\"cyberpunk\",\"clip_id\":\"306336\",\"story_id\":\"21890\",\"autoRank\":\"0.31613311682494666\"},{\"query\":\"cyberpunk\",\"clip_id\":\"228133\",\"story_id\":\"19386\",\"autoRank\":\"0.31560869151119164\"},{\"query\":\"cyberpunk\",\"clip_id\":\"178543\",\"story_id\":\"17794\",\"autoRank\":\"0.31411420928407757\"},{\"query\":\"cyberpunk\",\"clip_id\":\"92646\",\"story_id\":\"14511\",\"autoRank\":\"0.31389273385412308\"},{\"query\":\"cyberpunk\",\"clip_id\":\"297448\",\"story_id\":\"21655\",\"autoRank\":\"0.31387889926143769\"},{\"query\":\"cyberpunk\",\"clip_id\":\"121453\",\"story_id\":\"15686\",\"autoRank\":\"0.313567173275843\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"cyberpunk\"",
+        "uid" : "343e71f0f2534f25",
+        "parentUid" : "6634bbb88afbc42be6c977448354e569",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489945073,
+          "stop" : 1667489947418,
+          "duration" : 2345
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "6634bbb88afbc42be6c977448354e569"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 15 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"divine\",\"clip_id\":\"311440\",\"story_id\":\"22017\",\"autoRank\":\"0.30705026432893723\"},{\"query\":\"divine\",\"clip_id\":\"247922\",\"story_id\":\"20114\",\"autoRank\":\"0.30433322568481158\"},{\"query\":\"divine\",\"clip_id\":\"25446\",\"story_id\":\"11098\",\"autoRank\":\"0.30369493210519727\"},{\"query\":\"divine\",\"clip_id\":\"32541\",\"story_id\":\"11256\",\"autoRank\":\"0.30361860715766642\"},{\"query\":\"divine\",\"clip_id\":\"284499\",\"story_id\":\"21240\",\"autoRank\":\"0.30296920879109374\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"divine\"",
+        "uid" : "b4c878371a5d299e",
+        "parentUid" : "22445449fbb06ba6128018f93ed40744",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489947419,
+          "stop" : 1667489948434,
+          "duration" : 1015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "22445449fbb06ba6128018f93ed40744"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"documentary of domestic animals\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"documentary of domestic animals\"",
+        "uid" : "d000c259161e7b00",
+        "parentUid" : "02c6c29d3fe7160aedc0930b94426ee0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489948437,
+          "stop" : 1667489948922,
+          "duration" : 485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "02c6c29d3fe7160aedc0930b94426ee0"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 2 \nLength of returned list: 29 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"domestic violence\",\"clip_id\":\"338325\",\"story_id\":\"22898\",\"autoRank\":\"0.30516526097158342\"},{\"query\":\"domestic violence\",\"clip_id\":\"338356\",\"story_id\":\"23135\",\"autoRank\":\"0.30310717997638909\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"domestic violence\"",
+        "uid" : "2954976e11aae6c8",
+        "parentUid" : "41be6fbf8a4b460e0d3835d9fb14d6ba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489948929,
+          "stop" : 1667489950053,
+          "duration" : 1124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "41be6fbf8a4b460e0d3835d9fb14d6ba"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"drone\",\"clip_id\":\"106585\",\"story_id\":\"15009\",\"autoRank\":\"0.36448464854292872\"},{\"query\":\"drone\",\"clip_id\":\"48578\",\"story_id\":\"12076\",\"autoRank\":\"0.3594852989118667\"},{\"query\":\"drone\",\"clip_id\":\"93672\",\"story_id\":\"14534\",\"autoRank\":\"0.35758427183693503\"},{\"query\":\"drone\",\"clip_id\":\"135313\",\"story_id\":\"16242\",\"autoRank\":\"0.3567645961135088\"},{\"query\":\"drone\",\"clip_id\":\"288065\",\"story_id\":\"21350\",\"autoRank\":\"0.35544824308431622\"},{\"query\":\"drone\",\"clip_id\":\"114776\",\"story_id\":\"15391\",\"autoRank\":\"0.35534283712472153\"},{\"query\":\"drone\",\"clip_id\":\"404163\",\"story_id\":\"25068\",\"autoRank\":\"0.35510927919868013\"},{\"query\":\"drone\",\"clip_id\":\"168008\",\"story_id\":\"17427\",\"autoRank\":\"0.3543972926724579\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"drone\"",
+        "uid" : "b7c862941c987461",
+        "parentUid" : "fe71f7cc19bf7e1713c8a3c9a3d745c2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489958599,
+          "stop" : 1667489966636,
+          "duration" : 8037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "fe71f7cc19bf7e1713c8a3c9a3d745c2"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 31 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"egg white\",\"clip_id\":\"100849\",\"story_id\":\"14773\",\"autoRank\":\"0.33909162410263605\"},{\"query\":\"egg white\",\"clip_id\":\"95029\",\"story_id\":\"14571\",\"autoRank\":\"0.33077675238300086\"},{\"query\":\"egg white\",\"clip_id\":\"255347\",\"story_id\":\"20362\",\"autoRank\":\"0.32776387675624435\"},{\"query\":\"egg white\",\"clip_id\":\"150958\",\"story_id\":\"16776\",\"autoRank\":\"0.32624230770338608\"},{\"query\":\"egg white\",\"clip_id\":\"127961\",\"story_id\":\"15974\",\"autoRank\":\"0.31973944272659033\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"egg white\"",
+        "uid" : "936b2a4da00bcf63",
+        "parentUid" : "e10f6b24b104dd4da3fd07c4b1e94c35",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489985007,
+          "stop" : 1667489986477,
+          "duration" : 1470
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "e10f6b24b104dd4da3fd07c4b1e94c35"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 75 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"empty train\",\"clip_id\":\"130142\",\"story_id\":\"16068\",\"autoRank\":\"0.3528317319698781\"},{\"query\":\"empty train\",\"clip_id\":\"74065\",\"story_id\":\"13603\",\"autoRank\":\"0.3506471484813995\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"empty train\"",
+        "uid" : "38e06a8dfcf4fb5a",
+        "parentUid" : "1f0cc5150b6b9e5fd527d27a9d602db8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489994905,
+          "stop" : 1667489998936,
+          "duration" : 4031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "1f0cc5150b6b9e5fd527d27a9d602db8"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 180 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"fast car\",\"clip_id\":\"48001\",\"story_id\":\"12033\",\"autoRank\":\"0.37836006445312809\"},{\"query\":\"fast car\",\"clip_id\":\"95294\",\"story_id\":\"14586\",\"autoRank\":\"0.37517518448300213\"},{\"query\":\"fast car\",\"clip_id\":\"175953\",\"story_id\":\"17677\",\"autoRank\":\"0.37253492843451075\"},{\"query\":\"fast car\",\"clip_id\":\"89392\",\"story_id\":\"14299\",\"autoRank\":\"0.37003771015594467\"},{\"query\":\"fast car\",\"clip_id\":\"79534\",\"story_id\":\"13838\",\"autoRank\":\"0.365598639980222\"},{\"query\":\"fast car\",\"clip_id\":\"176152\",\"story_id\":\"17681\",\"autoRank\":\"0.36382512065741246\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"fast car\"",
+        "uid" : "773d9f4c841e3923",
+        "parentUid" : "8597c1797de743d19d5cba74b00109af",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667489998937,
+          "stop" : 1667490003539,
+          "duration" : 4602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "8597c1797de743d19d5cba74b00109af"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 145 \nReturned mandatory clips: 3 \nUnreturned mandatory clips: [{\"query\":\"gender fluid\",\"clip_id\":\"406474\",\"story_id\":\"25130\",\"autoRank\":\"0.30533037683255643\"},{\"query\":\"gender fluid\",\"clip_id\":\"51468\",\"story_id\":\"12246\",\"autoRank\":\"0.30473359311822862\"},{\"query\":\"gender fluid\",\"clip_id\":\"68352\",\"story_id\":\"13289\",\"autoRank\":\"0.30385465717109222\"},{\"query\":\"gender fluid\",\"clip_id\":\"305816\",\"story_id\":\"21872\",\"autoRank\":\"0.30350547470521855\"},{\"query\":\"gender fluid\",\"clip_id\":\"84140\",\"story_id\":\"14069\",\"autoRank\":\"0.30334100292090355\"},{\"query\":\"gender fluid\",\"clip_id\":\"170999\",\"story_id\":\"17518\",\"autoRank\":\"0.3028294736030096\"},{\"query\":\"gender fluid\",\"clip_id\":\"325564\",\"story_id\":\"22477\",\"autoRank\":\"0.30275467783926452\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"gender fluid\"",
+        "uid" : "a432ad37f9c4aa6b",
+        "parentUid" : "188f3eb963255d49c8057eff956c87fc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490022183,
+          "stop" : 1667490025937,
+          "duration" : 3754
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "188f3eb963255d49c8057eff956c87fc"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"goofing around  - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"goofing around  - slang\"",
+        "uid" : "b4771159246313be",
+        "parentUid" : "8f9789aaff8f83d32ebe1a4cfa8a6b11",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490034512,
+          "stop" : 1667490035331,
+          "duration" : 819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "8f9789aaff8f83d32ebe1a4cfa8a6b11"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"google\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"google\"",
+        "uid" : "23d99cd600d1d7bd",
+        "parentUid" : "02099ad4ad35c94efddf05bb33591809",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490035336,
+          "stop" : 1667490035756,
+          "duration" : 420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "02099ad4ad35c94efddf05bb33591809"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"goosebumps\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"goosebumps\"",
+        "uid" : "d7fe00fcc8852b70",
+        "parentUid" : "13b4be2c134c888c867ae241d30b8ecc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490035758,
+          "stop" : 1667490036263,
+          "duration" : 505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "13b4be2c134c888c867ae241d30b8ecc"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"graphical loop\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"graphical loop\"",
+        "uid" : "84bfe803ea53cc98",
+        "parentUid" : "86172c333cbfb1d0e4a69d0c4e17d8c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490036268,
+          "stop" : 1667490038339,
+          "duration" : 2071
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "86172c333cbfb1d0e4a69d0c4e17d8c7"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"green leaves\",\"clip_id\":\"111825\",\"story_id\":\"15256\",\"autoRank\":\"0.38050432313425114\"},{\"query\":\"green leaves\",\"clip_id\":\"95479\",\"story_id\":\"14590\",\"autoRank\":\"0.37822595483341059\"},{\"query\":\"green leaves\",\"clip_id\":\"59946\",\"story_id\":\"12787\",\"autoRank\":\"0.37774821525250374\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"green leaves\"",
+        "uid" : "56d82fc76944e427",
+        "parentUid" : "261c12fc699bbc68b6ae67b15c22f05a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490038348,
+          "stop" : 1667490046105,
+          "duration" : 7757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "261c12fc699bbc68b6ae67b15c22f05a"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"having fun\",\"clip_id\":\"102524\",\"story_id\":\"14833\",\"autoRank\":\"0.34389184860105904\"},{\"query\":\"having fun\",\"clip_id\":\"278883\",\"story_id\":\"21103\",\"autoRank\":\"0.34314263005342666\"},{\"query\":\"having fun\",\"clip_id\":\"296422\",\"story_id\":\"21612\",\"autoRank\":\"0.34235430206562728\"},{\"query\":\"having fun\",\"clip_id\":\"176366\",\"story_id\":\"17694\",\"autoRank\":\"0.34169041030975322\"},{\"query\":\"having fun\",\"clip_id\":\"176287\",\"story_id\":\"17685\",\"autoRank\":\"0.34143143633349882\"},{\"query\":\"having fun\",\"clip_id\":\"72356\",\"story_id\":\"13521\",\"autoRank\":\"0.34133788809674243\"},{\"query\":\"having fun\",\"clip_id\":\"173555\",\"story_id\":\"17595\",\"autoRank\":\"0.34030024465929565\"},{\"query\":\"having fun\",\"clip_id\":\"206935\",\"story_id\":\"18668\",\"autoRank\":\"0.34009441211430552\"},{\"query\":\"having fun\",\"clip_id\":\"179213\",\"story_id\":\"17826\",\"autoRank\":\"0.33969537179456027\"},{\"query\":\"having fun\",\"clip_id\":\"296615\",\"story_id\":\"21618\",\"autoRank\":\"0.339661576694257\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"having fun\"",
+        "uid" : "76a0849b4e32f27f",
+        "parentUid" : "a5005b2445b3763edda81255840f18dc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490046106,
+          "stop" : 1667490055713,
+          "duration" : 9607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "a5005b2445b3763edda81255840f18dc"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"holding hands\",\"clip_id\":\"159830\",\"story_id\":\"17090\",\"autoRank\":\"0.37324999306856843\"},{\"query\":\"holding hands\",\"clip_id\":\"143477\",\"story_id\":\"16543\",\"autoRank\":\"0.37155153828765436\"},{\"query\":\"holding hands\",\"clip_id\":\"284857\",\"story_id\":\"21253\",\"autoRank\":\"0.37113557961570826\"},{\"query\":\"holding hands\",\"clip_id\":\"138017\",\"story_id\":\"16347\",\"autoRank\":\"0.3703112741113434\"},{\"query\":\"holding hands\",\"clip_id\":\"76495\",\"story_id\":\"13712\",\"autoRank\":\"0.37003698672170043\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"holding hands\"",
+        "uid" : "ac7db3cdce2ed255",
+        "parentUid" : "16f4b86cdab7c41810e97c55bfe4d699",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490055714,
+          "stop" : 1667490066621,
+          "duration" : 10907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "16f4b86cdab7c41810e97c55bfe4d699"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"humanity\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"humanity\"",
+        "uid" : "53bab6cd8668cc34",
+        "parentUid" : "6442390dbf341a7fb51886893a320b57",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490073831,
+          "stop" : 1667490074331,
+          "duration" : 500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "6442390dbf341a7fb51886893a320b57"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 7 \nLength of returned list: 49 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"innocent\",\"clip_id\":\"247922\",\"story_id\":\"20114\",\"autoRank\":\"0.30623988475691849\"},{\"query\":\"innocent\",\"clip_id\":\"416394\",\"story_id\":\"25658\",\"autoRank\":\"0.30264137068258606\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"innocent\"",
+        "uid" : "fbdd36244f75585f",
+        "parentUid" : "809fd4261d3739183038c4f2c5dfe40f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490074332,
+          "stop" : 1667490076208,
+          "duration" : 1876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "809fd4261d3739183038c4f2c5dfe40f"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 137 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"intro\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.31901059982594215\"},{\"query\":\"intro\",\"clip_id\":\"361562\",\"story_id\":\"23643\",\"autoRank\":\"0.31799846230043916\"},{\"query\":\"intro\",\"clip_id\":\"410366\",\"story_id\":\"25264\",\"autoRank\":\"0.31784395962525064\"},{\"query\":\"intro\",\"clip_id\":\"410215\",\"story_id\":\"25261\",\"autoRank\":\"0.31701554631903844\"},{\"query\":\"intro\",\"clip_id\":\"410258\",\"story_id\":\"25262\",\"autoRank\":\"0.31645939436623849\"},{\"query\":\"intro\",\"clip_id\":\"178540\",\"story_id\":\"17794\",\"autoRank\":\"0.31644866986436831\"},{\"query\":\"intro\",\"clip_id\":\"191206\",\"story_id\":\"18150\",\"autoRank\":\"0.31589808646862294\"},{\"query\":\"intro\",\"clip_id\":\"234498\",\"story_id\":\"19591\",\"autoRank\":\"0.31490495134107521\"},{\"query\":\"intro\",\"clip_id\":\"190602\",\"story_id\":\"18140\",\"autoRank\":\"0.31441116795383711\"},{\"query\":\"intro\",\"clip_id\":\"235162\",\"story_id\":\"19604\",\"autoRank\":\"0.31403641005007976\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"intro\"",
+        "uid" : "8d5378ac17242695",
+        "parentUid" : "2951f08d8bb63967d3240d01a08de594",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490076209,
+          "stop" : 1667490079734,
+          "duration" : 3525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "2951f08d8bb63967d3240d01a08de594"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 106 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"lights in a tunnel\",\"clip_id\":\"219570\",\"story_id\":\"19093\",\"autoRank\":\"0.36284474849811077\"},{\"query\":\"lights in a tunnel\",\"clip_id\":\"176152\",\"story_id\":\"17681\",\"autoRank\":\"0.36233593956125809\"},{\"query\":\"lights in a tunnel\",\"clip_id\":\"203852\",\"story_id\":\"18545\",\"autoRank\":\"0.35896826069613141\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"lights in a tunnel\"",
+        "uid" : "58a30a6f100354f2",
+        "parentUid" : "7f8eacb4bd9d46368ee1693a4c70970e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490079737,
+          "stop" : 1667490082385,
+          "duration" : 2648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7f8eacb4bd9d46368ee1693a4c70970e"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 211 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"master\",\"clip_id\":\"191068\",\"story_id\":\"18147\",\"autoRank\":\"0.30653878342506086\"},{\"query\":\"master\",\"clip_id\":\"357568\",\"story_id\":\"23457\",\"autoRank\":\"0.30427860292189396\"},{\"query\":\"master\",\"clip_id\":\"38614\",\"story_id\":\"11553\",\"autoRank\":\"0.304063901909279\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"master\"",
+        "uid" : "32fd13ebe2fff69e",
+        "parentUid" : "bfc3807072d611c5f6c623e36359f07f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490091796,
+          "stop" : 1667490097652,
+          "duration" : 5856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "bfc3807072d611c5f6c623e36359f07f"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 4 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"melting statue\",\"clip_id\":\"102122\",\"story_id\":\"14817\",\"autoRank\":\"0.33037175207980451\"},{\"query\":\"melting statue\",\"clip_id\":\"56355\",\"story_id\":\"12486\",\"autoRank\":\"0.31520090098166\"},{\"query\":\"melting statue\",\"clip_id\":\"417030\",\"story_id\":\"25530\",\"autoRank\":\"0.3147557633857066\"},{\"query\":\"melting statue\",\"clip_id\":\"282824\",\"story_id\":\"21202\",\"autoRank\":\"0.3144404470800567\"},{\"query\":\"melting statue\",\"clip_id\":\"303287\",\"story_id\":\"21815\",\"autoRank\":\"0.31432854834294638\"},{\"query\":\"melting statue\",\"clip_id\":\"180639\",\"story_id\":\"17885\",\"autoRank\":\"0.31386533269505046\"},{\"query\":\"melting statue\",\"clip_id\":\"329111\",\"story_id\":\"22569\",\"autoRank\":\"0.31353521472099716\"},{\"query\":\"melting statue\",\"clip_id\":\"282750\",\"story_id\":\"21201\",\"autoRank\":\"0.31253144766817981\"},{\"query\":\"melting statue\",\"clip_id\":\"296077\",\"story_id\":\"21592\",\"autoRank\":\"0.31196632579000738\"},{\"query\":\"melting statue\",\"clip_id\":\"83721\",\"story_id\":\"14040\",\"autoRank\":\"0.31128144916054717\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"melting statue\"",
+        "uid" : "fa3ea70cdf060af2",
+        "parentUid" : "d9e5f2c5b8adf088a3d857f77e2c2183",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490097654,
+          "stop" : 1667490098338,
+          "duration" : 684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "d9e5f2c5b8adf088a3d857f77e2c2183"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"mobile\",\"clip_id\":\"330215\",\"story_id\":\"22611\",\"autoRank\":\"0.35122647544916263\"},{\"query\":\"mobile\",\"clip_id\":\"294212\",\"story_id\":\"21550\",\"autoRank\":\"0.34907088445523071\"},{\"query\":\"mobile\",\"clip_id\":\"403237\",\"story_id\":\"25037\",\"autoRank\":\"0.34756278912473737\"},{\"query\":\"mobile\",\"clip_id\":\"344887\",\"story_id\":\"23119\",\"autoRank\":\"0.3471738379487288\"},{\"query\":\"mobile\",\"clip_id\":\"304663\",\"story_id\":\"21851\",\"autoRank\":\"0.34696484450226089\"},{\"query\":\"mobile\",\"clip_id\":\"276611\",\"story_id\":\"21049\",\"autoRank\":\"0.34666059961242957\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"mobile\"",
+        "uid" : "ee3a9ab17d13f936",
+        "parentUid" : "63a54b498df52abbbb97ac7b63503737",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490098339,
+          "stop" : 1667490109502,
+          "duration" : 11163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "63a54b498df52abbbb97ac7b63503737"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 370 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"modern dance\",\"clip_id\":\"48173\",\"story_id\":\"12049\",\"autoRank\":\"0.36543326725142866\"},{\"query\":\"modern dance\",\"clip_id\":\"48390\",\"story_id\":\"12069\",\"autoRank\":\"0.35411517873941017\"},{\"query\":\"modern dance\",\"clip_id\":\"18543\",\"story_id\":\"10880\",\"autoRank\":\"0.35072980006022231\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"modern dance\"",
+        "uid" : "878fcf4f071f448d",
+        "parentUid" : "a5c80444e892d0a71807a83dda2c7b41",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490109503,
+          "stop" : 1667490120526,
+          "duration" : 11023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "a5c80444e892d0a71807a83dda2c7b41"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 82 \nReturned mandatory clips: 3 \nUnreturned mandatory clips: [{\"query\":\"overweight\",\"clip_id\":\"336684\",\"story_id\":\"22849\",\"autoRank\":\"0.30995311344491749\"},{\"query\":\"overweight\",\"clip_id\":\"235975\",\"story_id\":\"19623\",\"autoRank\":\"0.30924787085436384\"},{\"query\":\"overweight\",\"clip_id\":\"369968\",\"story_id\":\"24143\",\"autoRank\":\"0.30423533989726992\"},{\"query\":\"overweight\",\"clip_id\":\"99623\",\"story_id\":\"14732\",\"autoRank\":\"0.30370676255063889\"},{\"query\":\"overweight\",\"clip_id\":\"48335\",\"story_id\":\"12064\",\"autoRank\":\"0.303279588108249\"},{\"query\":\"overweight\",\"clip_id\":\"391933\",\"story_id\":\"24692\",\"autoRank\":\"0.30322396120529616\"},{\"query\":\"overweight\",\"clip_id\":\"201095\",\"story_id\":\"18442\",\"autoRank\":\"0.30285160761562319\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"overweight\"",
+        "uid" : "1adee6761fee111d",
+        "parentUid" : "c943e9dd3ecd76bce3da638114846035",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490137079,
+          "stop" : 1667490141412,
+          "duration" : 4333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "c943e9dd3ecd76bce3da638114846035"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"park\",\"clip_id\":\"100765\",\"story_id\":\"14770\",\"autoRank\":\"0.36454325497369183\"},{\"query\":\"park\",\"clip_id\":\"137510\",\"story_id\":\"16323\",\"autoRank\":\"0.36267183136295855\"},{\"query\":\"park\",\"clip_id\":\"23312\",\"story_id\":\"11045\",\"autoRank\":\"0.36135370435713909\"},{\"query\":\"park\",\"clip_id\":\"83212\",\"story_id\":\"14020\",\"autoRank\":\"0.36014301316087743\"},{\"query\":\"park\",\"clip_id\":\"278304\",\"story_id\":\"21084\",\"autoRank\":\"0.35959449390179088\"},{\"query\":\"park\",\"clip_id\":\"69335\",\"story_id\":\"13380\",\"autoRank\":\"0.3589438488122445\"},{\"query\":\"park\",\"clip_id\":\"287157\",\"story_id\":\"21335\",\"autoRank\":\"0.35844163589731287\"},{\"query\":\"park\",\"clip_id\":\"121694\",\"story_id\":\"15693\",\"autoRank\":\"0.35813107220859453\"},{\"query\":\"park\",\"clip_id\":\"126412\",\"story_id\":\"15901\",\"autoRank\":\"0.35684493444664422\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"park\"",
+        "uid" : "2887d446017280e2",
+        "parentUid" : "27943798e946d4e226c6e51a06df9211",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490141416,
+          "stop" : 1667490151274,
+          "duration" : 9858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "27943798e946d4e226c6e51a06df9211"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"pop colture\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"pop colture\"",
+        "uid" : "2017afe7c5b5a298",
+        "parentUid" : "84c3a9178c251cca2dc2e09e095aad6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490151275,
+          "stop" : 1667490151726,
+          "duration" : 451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "84c3a9178c251cca2dc2e09e095aad6d"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"reverb\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"reverb\"",
+        "uid" : "254676ffe9494aaa",
+        "parentUid" : "33fead4ee1646dba72e6bbe73251fd7d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490159716,
+          "stop" : 1667490160228,
+          "duration" : 512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "33fead4ee1646dba72e6bbe73251fd7d"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 172 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"school bus\",\"clip_id\":\"181971\",\"story_id\":\"17913\",\"autoRank\":\"0.32055641716337252\"},{\"query\":\"school bus\",\"clip_id\":\"239547\",\"story_id\":\"19798\",\"autoRank\":\"0.3126795431725255\"},{\"query\":\"school bus\",\"clip_id\":\"139112\",\"story_id\":\"16391\",\"autoRank\":\"0.31046619644123896\"},{\"query\":\"school bus\",\"clip_id\":\"185025\",\"story_id\":\"18006\",\"autoRank\":\"0.30984906637129234\"},{\"query\":\"school bus\",\"clip_id\":\"176413\",\"story_id\":\"17698\",\"autoRank\":\"0.3092349529324997\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"school bus\"",
+        "uid" : "48beb74297b3b9f",
+        "parentUid" : "76d60767404070eb16fb8ef8d70b41ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490166548,
+          "stop" : 1667490171514,
+          "duration" : 4966
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "5", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "76d60767404070eb16fb8ef8d70b41ea"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"scorsese\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"scorsese\"",
+        "uid" : "1f03cf1b1fd49af1",
+        "parentUid" : "dddcb3c67f40211d47cc449457019b0d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490171521,
+          "stop" : 1667490171962,
+          "duration" : 441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "dddcb3c67f40211d47cc449457019b0d"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 7 \nUnreturned mandatory clips: [{\"query\":\"shapes\",\"clip_id\":\"161852\",\"story_id\":\"17159\",\"autoRank\":\"0.3543705048276744\"},{\"query\":\"shapes\",\"clip_id\":\"173153\",\"story_id\":\"18074\",\"autoRank\":\"0.35083449364238928\"},{\"query\":\"shapes\",\"clip_id\":\"342212\",\"story_id\":\"23023\",\"autoRank\":\"0.34930240431825044\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"shapes\"",
+        "uid" : "b38be0754ac226b6",
+        "parentUid" : "2826aec933027bde21cdbf7a0e3b21be",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490171963,
+          "stop" : 1667490181375,
+          "duration" : 9412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "2826aec933027bde21cdbf7a0e3b21be"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"slow motion\",\"clip_id\":\"111423\",\"story_id\":\"15244\",\"autoRank\":\"0.38873121970436081\"},{\"query\":\"slow motion\",\"clip_id\":\"36163\",\"story_id\":\"11402\",\"autoRank\":\"0.38574959492140665\"},{\"query\":\"slow motion\",\"clip_id\":\"113357\",\"story_id\":\"15322\",\"autoRank\":\"0.38410842106535747\"},{\"query\":\"slow motion\",\"clip_id\":\"94149\",\"story_id\":\"14547\",\"autoRank\":\"0.38270031113744141\"},{\"query\":\"slow motion\",\"clip_id\":\"96398\",\"story_id\":\"14612\",\"autoRank\":\"0.38231373633175486\"},{\"query\":\"slow motion\",\"clip_id\":\"81111\",\"story_id\":\"13904\",\"autoRank\":\"0.3818135992633373\"},{\"query\":\"slow motion\",\"clip_id\":\"101152\",\"story_id\":\"14791\",\"autoRank\":\"0.38154028098360349\"},{\"query\":\"slow motion\",\"clip_id\":\"87596\",\"story_id\":\"14223\",\"autoRank\":\"0.38145980589028822\"},{\"query\":\"slow motion\",\"clip_id\":\"84212\",\"story_id\":\"14075\",\"autoRank\":\"0.38135145169730511\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"slow motion\"",
+        "uid" : "fdf089d1e41f0de3",
+        "parentUid" : "63ff05a018fe4709c87123e3c898c906",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490181382,
+          "stop" : 1667490187784,
+          "duration" : 6402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "63ff05a018fe4709c87123e3c898c906"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 8 \nUnreturned mandatory clips: [{\"query\":\"space\",\"clip_id\":\"297369\",\"story_id\":\"21653\",\"autoRank\":\"0.36457162867642429\"},{\"query\":\"space\",\"clip_id\":\"297359\",\"story_id\":\"21652\",\"autoRank\":\"0.36162781463336274\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"space\"",
+        "uid" : "d3df1240252d8548",
+        "parentUid" : "70c228c34d43545afc390a6a6dbe3c11",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490196574,
+          "stop" : 1667490205268,
+          "duration" : 8694
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "70c228c34d43545afc390a6a6dbe3c11"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 6 \nUnreturned mandatory clips: [{\"query\":\"spinning\",\"clip_id\":\"23015\",\"story_id\":\"11037\",\"autoRank\":\"0.36095607698725118\"},{\"query\":\"spinning\",\"clip_id\":\"188739\",\"story_id\":\"18593\",\"autoRank\":\"0.36002965459057362\"},{\"query\":\"spinning\",\"clip_id\":\"66565\",\"story_id\":\"13186\",\"autoRank\":\"0.35951326777655668\"},{\"query\":\"spinning\",\"clip_id\":\"111893\",\"story_id\":\"15260\",\"autoRank\":\"0.35606358377904823\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"spinning\"",
+        "uid" : "af3efed84a5d3479",
+        "parentUid" : "e7144f09546e3086e023d54e54855fdb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490207106,
+          "stop" : 1667490214502,
+          "duration" : 7396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "e7144f09546e3086e023d54e54855fdb"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"street style\",\"clip_id\":\"267214\",\"story_id\":\"20703\",\"autoRank\":\"0.34713526773329861\"},{\"query\":\"street style\",\"clip_id\":\"179362\",\"story_id\":\"17838\",\"autoRank\":\"0.33103418257376938\"},{\"query\":\"street style\",\"clip_id\":\"181115\",\"story_id\":\"17900\",\"autoRank\":\"0.32921257755958933\"},{\"query\":\"street style\",\"clip_id\":\"365512\",\"story_id\":\"23756\",\"autoRank\":\"0.32909702813455483\"},{\"query\":\"street style\",\"clip_id\":\"32590\",\"story_id\":\"11256\",\"autoRank\":\"0.32901611171732192\"},{\"query\":\"street style\",\"clip_id\":\"255112\",\"story_id\":\"20357\",\"autoRank\":\"0.32393053251754456\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"street style\"",
+        "uid" : "27457bae94aaa0",
+        "parentUid" : "5b5ca65a559308f374a749fe3d783b56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490214507,
+          "stop" : 1667490222609,
+          "duration" : 8102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "5b5ca65a559308f374a749fe3d783b56"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 17 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"stunning view/scenery\",\"clip_id\":\"394500\",\"story_id\":\"24751\",\"autoRank\":\"0.31308568472053494\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"262408\",\"story_id\":\"20543\",\"autoRank\":\"0.31133808213900516\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"343374\",\"story_id\":\"23065\",\"autoRank\":\"0.31052699490440355\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"77018\",\"story_id\":\"13732\",\"autoRank\":\"0.310371049554502\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"205135\",\"story_id\":\"18587\",\"autoRank\":\"0.30949395218393527\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"294885\",\"story_id\":\"21565\",\"autoRank\":\"0.30947548749159565\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"138574\",\"story_id\":\"16373\",\"autoRank\":\"0.30921592278690135\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"203805\",\"story_id\":\"18541\",\"autoRank\":\"0.30879388003633812\"},{\"query\":\"stunning view/scenery\",\"clip_id\":\"97610\",\"story_id\":\"14652\",\"autoRank\":\"0.30875393228742609\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"stunning view/scenery\"",
+        "uid" : "16bbab73c6f49d89",
+        "parentUid" : "ce6721cf15c076630b6a5fc1f4deab5b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490222614,
+          "stop" : 1667490223416,
+          "duration" : 802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "ce6721cf15c076630b6a5fc1f4deab5b"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 70 \nReturned mandatory clips: 3 \nUnreturned mandatory clips: [{\"query\":\"sustainability\",\"clip_id\":\"152985\",\"story_id\":\"16840\",\"autoRank\":\"0.35502341037744867\"},{\"query\":\"sustainability\",\"clip_id\":\"405088\",\"story_id\":\"25095\",\"autoRank\":\"0.34228824712813583\"},{\"query\":\"sustainability\",\"clip_id\":\"156209\",\"story_id\":\"16940\",\"autoRank\":\"0.3187297340133497\"},{\"query\":\"sustainability\",\"clip_id\":\"72646\",\"story_id\":\"13530\",\"autoRank\":\"0.31800289678645505\"},{\"query\":\"sustainability\",\"clip_id\":\"317994\",\"story_id\":\"22223\",\"autoRank\":\"0.31595234935414368\"},{\"query\":\"sustainability\",\"clip_id\":\"109281\",\"story_id\":\"15134\",\"autoRank\":\"0.31440568236415256\"},{\"query\":\"sustainability\",\"clip_id\":\"212813\",\"story_id\":\"18864\",\"autoRank\":\"0.31437917111849306\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"sustainability\"",
+        "uid" : "9d551a42b595568",
+        "parentUid" : "f06149ecbefd991ccdb010ac71b973e4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490239581,
+          "stop" : 1667490241448,
+          "duration" : 1867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "f06149ecbefd991ccdb010ac71b973e4"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 56 \nReturned mandatory clips: 5 \nUnreturned mandatory clips: [{\"query\":\"tea pot\",\"clip_id\":\"248014\",\"story_id\":\"20123\",\"autoRank\":\"0.36382945493870211\"},{\"query\":\"tea pot\",\"clip_id\":\"54725\",\"story_id\":\"12394\",\"autoRank\":\"0.35014374011404203\"},{\"query\":\"tea pot\",\"clip_id\":\"48126\",\"story_id\":\"12046\",\"autoRank\":\"0.34763957944765878\"},{\"query\":\"tea pot\",\"clip_id\":\"239643\",\"story_id\":\"19799\",\"autoRank\":\"0.328047267979037\"},{\"query\":\"tea pot\",\"clip_id\":\"49271\",\"story_id\":\"12127\",\"autoRank\":\"0.3250980856312381\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"tea pot\"",
+        "uid" : "2c523853391f4537",
+        "parentUid" : "5410f24365c3b9415ced43a12d3bb2e1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490241448,
+          "stop" : 1667490244027,
+          "duration" : 2579
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "5410f24365c3b9415ced43a12d3bb2e1"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 120 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"techno\",\"clip_id\":\"412350\",\"story_id\":\"25347\",\"autoRank\":\"0.31671903285695679\"},{\"query\":\"techno\",\"clip_id\":\"178543\",\"story_id\":\"17794\",\"autoRank\":\"0.31445832189033385\"},{\"query\":\"techno\",\"clip_id\":\"412421\",\"story_id\":\"25350\",\"autoRank\":\"0.30976652523428316\"},{\"query\":\"techno\",\"clip_id\":\"337336\",\"story_id\":\"22870\",\"autoRank\":\"0.30958817820494583\"},{\"query\":\"techno\",\"clip_id\":\"412696\",\"story_id\":\"25360\",\"autoRank\":\"0.3095828021980781\"},{\"query\":\"techno\",\"clip_id\":\"412413\",\"story_id\":\"25349\",\"autoRank\":\"0.30952442663464852\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"techno\"",
+        "uid" : "b6eb43384b1eb4cd",
+        "parentUid" : "3ae3711050f9d255069fa4bde32c053d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490244027,
+          "stop" : 1667490248725,
+          "duration" : 4698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "3ae3711050f9d255069fa4bde32c053d"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"tecnology\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"tecnology\"",
+        "uid" : "8e7d8bee350c26c4",
+        "parentUid" : "1106e282a99b303d44159076c7d06029",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490248727,
+          "stop" : 1667490249218,
+          "duration" : 491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "1106e282a99b303d44159076c7d06029"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 16 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"the big bang\",\"clip_id\":\"416638\",\"story_id\":\"25513\",\"autoRank\":\"0.31066434302555979\"},{\"query\":\"the big bang\",\"clip_id\":\"336890\",\"story_id\":\"22858\",\"autoRank\":\"0.30841127767271637\"},{\"query\":\"the big bang\",\"clip_id\":\"289576\",\"story_id\":\"21395\",\"autoRank\":\"0.30782283427798823\"},{\"query\":\"the big bang\",\"clip_id\":\"97066\",\"story_id\":\"14637\",\"autoRank\":\"0.30758709447191512\"},{\"query\":\"the big bang\",\"clip_id\":\"297383\",\"story_id\":\"21654\",\"autoRank\":\"0.30717076159670242\"},{\"query\":\"the big bang\",\"clip_id\":\"290324\",\"story_id\":\"21429\",\"autoRank\":\"0.30684561306305647\"},{\"query\":\"the big bang\",\"clip_id\":\"291886\",\"story_id\":\"21478\",\"autoRank\":\"0.30682254655653707\"},{\"query\":\"the big bang\",\"clip_id\":\"128103\",\"story_id\":\"15982\",\"autoRank\":\"0.3068205348667124\"},{\"query\":\"the big bang\",\"clip_id\":\"329734\",\"story_id\":\"22593\",\"autoRank\":\"0.30654275375557244\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"the big bang\"",
+        "uid" : "375d313f229401e6",
+        "parentUid" : "a6d8e1a7f0968a4b3f07a5fd03fd6363",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490249219,
+          "stop" : 1667490251943,
+          "duration" : 2724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "a6d8e1a7f0968a4b3f07a5fd03fd6363"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 123 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"tiktok\",\"clip_id\":\"410388\",\"story_id\":\"25264\",\"autoRank\":\"0.31652417135338251\"},{\"query\":\"tiktok\",\"clip_id\":\"361562\",\"story_id\":\"23643\",\"autoRank\":\"0.31581488867207413\"},{\"query\":\"tiktok\",\"clip_id\":\"410235\",\"story_id\":\"25261\",\"autoRank\":\"0.3119656034591069\"},{\"query\":\"tiktok\",\"clip_id\":\"410296\",\"story_id\":\"25262\",\"autoRank\":\"0.31192709388103357\"},{\"query\":\"tiktok\",\"clip_id\":\"201406\",\"story_id\":\"18449\",\"autoRank\":\"0.30977454924771758\"},{\"query\":\"tiktok\",\"clip_id\":\"410304\",\"story_id\":\"25343\",\"autoRank\":\"0.30970068964029368\"},{\"query\":\"tiktok\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.30887158969596218\"},{\"query\":\"tiktok\",\"clip_id\":\"196169\",\"story_id\":\"18275\",\"autoRank\":\"0.30866203140748816\"},{\"query\":\"tiktok\",\"clip_id\":\"38614\",\"story_id\":\"11553\",\"autoRank\":\"0.30860561120588847\"},{\"query\":\"tiktok\",\"clip_id\":\"61303\",\"story_id\":\"12890\",\"autoRank\":\"0.30811668002395626\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"tiktok\"",
+        "uid" : "d508a44ec82e3ac3",
+        "parentUid" : "d115cbbeaa6c51ed688e007902015280",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490251945,
+          "stop" : 1667490255124,
+          "duration" : 3179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "d115cbbeaa6c51ed688e007902015280"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"tim burton\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"tim burton\"",
+        "uid" : "e8125c485724f825",
+        "parentUid" : "caea1566751e4d25446505856f115d09",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490255136,
+          "stop" : 1667490255549,
+          "duration" : 413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "caea1566751e4d25446505856f115d09"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 286 \nReturned mandatory clips: 4 \nUnreturned mandatory clips: [{\"query\":\"tribal\",\"clip_id\":\"247123\",\"story_id\":\"20071\",\"autoRank\":\"0.31630529173059846\"},{\"query\":\"tribal\",\"clip_id\":\"160993\",\"story_id\":\"17123\",\"autoRank\":\"0.314461320248505\"},{\"query\":\"tribal\",\"clip_id\":\"289579\",\"story_id\":\"21395\",\"autoRank\":\"0.31444983730731257\"},{\"query\":\"tribal\",\"clip_id\":\"394794\",\"story_id\":\"24760\",\"autoRank\":\"0.31376682771721714\"},{\"query\":\"tribal\",\"clip_id\":\"342212\",\"story_id\":\"23023\",\"autoRank\":\"0.313281109066192\"},{\"query\":\"tribal\",\"clip_id\":\"416681\",\"story_id\":\"25514\",\"autoRank\":\"0.31077610035309172\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"tribal\"",
+        "uid" : "e075ba52df4fc93e",
+        "parentUid" : "7f699f6285f3e0eb43d97203867af7b5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490256140,
+          "stop" : 1667490261965,
+          "duration" : 5825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "7", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7f699f6285f3e0eb43d97203867af7b5"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"valetines\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"valetines\"",
+        "uid" : "e121a881354bf8fc",
+        "parentUid" : "800c04f943eb47bcdcc711f03dce7d73",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490261967,
+          "stop" : 1667490262479,
+          "duration" : 512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "800c04f943eb47bcdcc711f03dce7d73"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"vibing - slang\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"vibing - slang\"",
+        "uid" : "10f238019e31397e",
+        "parentUid" : "0d66b7bf4fa938fd094148813b8aadaf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490262480,
+          "stop" : 1667490262980,
+          "duration" : 500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "0d66b7bf4fa938fd094148813b8aadaf"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 400 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"vj\",\"clip_id\":\"160998\",\"story_id\":\"17123\",\"autoRank\":\"0.31968204303446052\"},{\"query\":\"vj\",\"clip_id\":\"410296\",\"story_id\":\"25262\",\"autoRank\":\"0.31498200207317761\"},{\"query\":\"vj\",\"clip_id\":\"410215\",\"story_id\":\"25261\",\"autoRank\":\"0.31413726926971264\"},{\"query\":\"vj\",\"clip_id\":\"131962\",\"story_id\":\"16142\",\"autoRank\":\"0.31250370387619009\"},{\"query\":\"vj\",\"clip_id\":\"179882\",\"story_id\":\"17866\",\"autoRank\":\"0.31250370387619009\"},{\"query\":\"vj\",\"clip_id\":\"410306\",\"story_id\":\"25343\",\"autoRank\":\"0.3122212074849785\"},{\"query\":\"vj\",\"clip_id\":\"410157\",\"story_id\":\"25577\",\"autoRank\":\"0.31196024304802328\"},{\"query\":\"vj\",\"clip_id\":\"179862\",\"story_id\":\"17865\",\"autoRank\":\"0.311939600496136\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"vj\"",
+        "uid" : "7340d54201ae95a4",
+        "parentUid" : "e13d0dbeb0f11399cb30a0b42dafe063",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490262982,
+          "stop" : 1667490269469,
+          "duration" : 6487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "8", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "e13d0dbeb0f11399cb30a0b42dafe063"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 60 \nReturned mandatory clips: 2 \nUnreturned mandatory clips: [{\"query\":\"wandering city\",\"clip_id\":\"47395\",\"story_id\":\"11971\",\"autoRank\":\"0.32813892809614159\"},{\"query\":\"wandering city\",\"clip_id\":\"44718\",\"story_id\":\"11800\",\"autoRank\":\"0.32349002007939531\"},{\"query\":\"wandering city\",\"clip_id\":\"66262\",\"story_id\":\"13167\",\"autoRank\":\"0.31987971667533543\"},{\"query\":\"wandering city\",\"clip_id\":\"163141\",\"story_id\":\"17221\",\"autoRank\":\"0.31793126290184986\"},{\"query\":\"wandering city\",\"clip_id\":\"154661\",\"story_id\":\"16896\",\"autoRank\":\"0.31751485907578103\"},{\"query\":\"wandering city\",\"clip_id\":\"138509\",\"story_id\":\"18997\",\"autoRank\":\"0.31626091341344431\"},{\"query\":\"wandering city\",\"clip_id\":\"44513\",\"story_id\":\"11790\",\"autoRank\":\"0.31596329000810741\"},{\"query\":\"wandering city\",\"clip_id\":\"43687\",\"story_id\":\"11753\",\"autoRank\":\"0.31579614102725728\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"wandering city\"",
+        "uid" : "4f075568c5dafd08",
+        "parentUid" : "86c17eb4d5ed47e311160ec170e5ee95",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490269470,
+          "stop" : 1667490272843,
+          "duration" : 3373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "86c17eb4d5ed47e311160ec170e5ee95"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 103 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"war zone\",\"clip_id\":\"344438\",\"story_id\":\"23104\",\"autoRank\":\"0.31072795298945927\"},{\"query\":\"war zone\",\"clip_id\":\"419410\",\"story_id\":\"25589\",\"autoRank\":\"0.31049263754355794\"},{\"query\":\"war zone\",\"clip_id\":\"66773\",\"story_id\":\"13199\",\"autoRank\":\"0.3067186654605849\"},{\"query\":\"war zone\",\"clip_id\":\"71239\",\"story_id\":\"13476\",\"autoRank\":\"0.30587997299800906\"},{\"query\":\"war zone\",\"clip_id\":\"125286\",\"story_id\":\"15860\",\"autoRank\":\"0.30491426024394913\"},{\"query\":\"war zone\",\"clip_id\":\"18460\",\"story_id\":\"10879\",\"autoRank\":\"0.30409969103988266\"},{\"query\":\"war zone\",\"clip_id\":\"55490\",\"story_id\":\"12420\",\"autoRank\":\"0.30409305626655186\"},{\"query\":\"war zone\",\"clip_id\":\"344426\",\"story_id\":\"23374\",\"autoRank\":\"0.30404116041242624\"},{\"query\":\"war zone\",\"clip_id\":\"19470\",\"story_id\":\"10907\",\"autoRank\":\"0.30401848233794693\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"war zone\"",
+        "uid" : "aafcb924a1fe2a81",
+        "parentUid" : "e00329057113bb47d0d8e244fb7e3ec7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490272844,
+          "stop" : 1667490275644,
+          "duration" : 2800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "4", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "e00329057113bb47d0d8e244fb7e3ec7"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 5 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"wireframe\",\"clip_id\":\"408316\",\"story_id\":\"25196\",\"autoRank\":\"0.31934514839912947\"},{\"query\":\"wireframe\",\"clip_id\":\"128089\",\"story_id\":\"15982\",\"autoRank\":\"0.31860918482889961\"},{\"query\":\"wireframe\",\"clip_id\":\"399786\",\"story_id\":\"24921\",\"autoRank\":\"0.31749792868306254\"},{\"query\":\"wireframe\",\"clip_id\":\"178507\",\"story_id\":\"17794\",\"autoRank\":\"0.31524498538043\"},{\"query\":\"wireframe\",\"clip_id\":\"48035\",\"story_id\":\"12035\",\"autoRank\":\"0.31524360446638927\"},{\"query\":\"wireframe\",\"clip_id\":\"411991\",\"story_id\":\"25326\",\"autoRank\":\"0.31459241708787983\"},{\"query\":\"wireframe\",\"clip_id\":\"236743\",\"story_id\":\"19645\",\"autoRank\":\"0.31409455398894082\"},{\"query\":\"wireframe\",\"clip_id\":\"167987\",\"story_id\":\"17425\",\"autoRank\":\"0.31248469310410482\"},{\"query\":\"wireframe\",\"clip_id\":\"155182\",\"story_id\":\"16911\",\"autoRank\":\"0.31239262284781877\"},{\"query\":\"wireframe\",\"clip_id\":\"225735\",\"story_id\":\"19297\",\"autoRank\":\"0.31220270591903365\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"wireframe\"",
+        "uid" : "aa1c92186d72b3f0",
+        "parentUid" : "70698a5cf497a314ffbe269272a08db0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490287170,
+          "stop" : 1667490288105,
+          "duration" : 935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "70698a5cf497a314ffbe269272a08db0"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"woman falling with colorful light\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"woman falling with colorful light\"",
+        "uid" : "8456336672fba4c8",
+        "parentUid" : "4c63658301d31cd718e5a6e281faa38c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490288109,
+          "stop" : 1667490288673,
+          "duration" : 564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "4c63658301d31cd718e5a6e281faa38c"
+    }, {
+      "name" : "Response empty! Entity list is empty on page 1 with payload \n {\"take\":50,\"filterCategories\":[],\"searchTerm\":\"woman in a dreamy scene\",\"sortType\":1,\"queryType\":1,\"page\":1}",
+      "children" : [ {
+        "name" : "Verify search term = \"woman in a dreamy scene\"",
+        "uid" : "b11240030f3ac821",
+        "parentUid" : "f81f12fabff25227e324de19c26836cb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490288676,
+          "stop" : 1667490289209,
+          "duration" : 533
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "f81f12fabff25227e324de19c26836cb"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 15 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"working out at home\",\"clip_id\":\"160811\",\"story_id\":\"17117\",\"autoRank\":\"0.34947329103816083\"},{\"query\":\"working out at home\",\"clip_id\":\"22368\",\"story_id\":\"11013\",\"autoRank\":\"0.33210781554190894\"},{\"query\":\"working out at home\",\"clip_id\":\"160939\",\"story_id\":\"17122\",\"autoRank\":\"0.32491552704547078\"},{\"query\":\"working out at home\",\"clip_id\":\"131942\",\"story_id\":\"16142\",\"autoRank\":\"0.31950242763618014\"},{\"query\":\"working out at home\",\"clip_id\":\"179862\",\"story_id\":\"17865\",\"autoRank\":\"0.31950242763618014\"},{\"query\":\"working out at home\",\"clip_id\":\"235933\",\"story_id\":\"19638\",\"autoRank\":\"0.31786541303067878\"},{\"query\":\"working out at home\",\"clip_id\":\"175725\",\"story_id\":\"17673\",\"autoRank\":\"0.3174169540066995\"},{\"query\":\"working out at home\",\"clip_id\":\"226705\",\"story_id\":\"19322\",\"autoRank\":\"0.31733782310600078\"},{\"query\":\"working out at home\",\"clip_id\":\"188739\",\"story_id\":\"18593\",\"autoRank\":\"0.317293603108121\"},{\"query\":\"working out at home\",\"clip_id\":\"322283\",\"story_id\":\"22350\",\"autoRank\":\"0.3172903115727867\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"working out at home\"",
+        "uid" : "af854b200649b530",
+        "parentUid" : "7a535b33287597b2f40a3deacabfcc1a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490289210,
+          "stop" : 1667490290233,
+          "duration" : 1023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "7a535b33287597b2f40a3deacabfcc1a"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 70 \nReturned mandatory clips: 0 \nUnreturned mandatory clips: [{\"query\":\"yellow cab\",\"clip_id\":\"95306\",\"story_id\":\"14586\",\"autoRank\":\"0.31274298383765814\"},{\"query\":\"yellow cab\",\"clip_id\":\"247174\",\"story_id\":\"20075\",\"autoRank\":\"0.31246192716284993\"},{\"query\":\"yellow cab\",\"clip_id\":\"118439\",\"story_id\":\"15558\",\"autoRank\":\"0.31215534667764033\"},{\"query\":\"yellow cab\",\"clip_id\":\"111428\",\"story_id\":\"15244\",\"autoRank\":\"0.31010881731414675\"},{\"query\":\"yellow cab\",\"clip_id\":\"390058\",\"story_id\":\"24635\",\"autoRank\":\"0.30835164644337842\"},{\"query\":\"yellow cab\",\"clip_id\":\"48299\",\"story_id\":\"12061\",\"autoRank\":\"0.30754998322173638\"},{\"query\":\"yellow cab\",\"clip_id\":\"267953\",\"story_id\":\"20726\",\"autoRank\":\"0.30686233282208275\"},{\"query\":\"yellow cab\",\"clip_id\":\"334958\",\"story_id\":\"22760\",\"autoRank\":\"0.30678618791833928\"},{\"query\":\"yellow cab\",\"clip_id\":\"46497\",\"story_id\":\"11883\",\"autoRank\":\"0.30557487937214051\"},{\"query\":\"yellow cab\",\"clip_id\":\"114919\",\"story_id\":\"15399\",\"autoRank\":\"0.30529442861903155\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"yellow cab\"",
+        "uid" : "e00a5ca2d68d8131",
+        "parentUid" : "2cd5fb7c1b3d3aab4e319b923c7a5138",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490290240,
+          "stop" : 1667490292426,
+          "duration" : 2186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "2cd5fb7c1b3d3aab4e319b923c7a5138"
+    }, {
+      "name" : "The expected results didnt show up in the returned results. Pls inspect attachments. \nLength of expected list: 10 \nLength of returned list: 235 \nReturned mandatory clips: 1 \nUnreturned mandatory clips: [{\"query\":\"youtube\",\"clip_id\":\"361562\",\"story_id\":\"23643\",\"autoRank\":\"0.30952772472458118\"},{\"query\":\"youtube\",\"clip_id\":\"235201\",\"story_id\":\"19604\",\"autoRank\":\"0.30831352873208673\"},{\"query\":\"youtube\",\"clip_id\":\"261416\",\"story_id\":\"20514\",\"autoRank\":\"0.30688196515027566\"},{\"query\":\"youtube\",\"clip_id\":\"410389\",\"story_id\":\"25264\",\"autoRank\":\"0.30678731235779205\"},{\"query\":\"youtube\",\"clip_id\":\"371849\",\"story_id\":\"23968\",\"autoRank\":\"0.30660660962270064\"},{\"query\":\"youtube\",\"clip_id\":\"178667\",\"story_id\":\"18097\",\"autoRank\":\"0.3065348006528309\"},{\"query\":\"youtube\",\"clip_id\":\"187354\",\"story_id\":\"18066\",\"autoRank\":\"0.30645314472044616\"},{\"query\":\"youtube\",\"clip_id\":\"410297\",\"story_id\":\"25262\",\"autoRank\":\"0.30606738433194408\"},{\"query\":\"youtube\",\"clip_id\":\"420070\",\"story_id\":\"25625\",\"autoRank\":\"0.30604649927139616\"}]",
+      "children" : [ {
+        "name" : "Verify search term = \"youtube\"",
+        "uid" : "8ac6387545420a36",
+        "parentUid" : "3c4ccfa7256771e91c4049546482d673",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667490292428,
+          "stop" : 1667490297576,
+          "duration" : 5148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "6", "azure", "200", "https://dev-search-api.artlist.me/v1/graphql" ]
+      } ],
+      "uid" : "3c4ccfa7256771e91c4049546482d673"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

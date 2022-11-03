@@ -1,0 +1,2222 @@
+[
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130302",
+    "order": 0
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256688",
+    "order": 1
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256675",
+    "order": 2
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256624",
+    "order": 3
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256676",
+    "order": 4
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256625",
+    "order": 5
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130300",
+    "order": 6
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130314",
+    "order": 7
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130307",
+    "order": 8
+  },
+  {
+    "storyId": 12049,
+    "name": "Woman in red top dances in an empty hallway",
+    "clip_id": "48166",
+    "order": 9
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256626",
+    "order": 10
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256658",
+    "order": 11
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256648",
+    "order": 12
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130309",
+    "order": 13
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256617",
+    "order": 14
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256684",
+    "order": 15
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256671",
+    "order": 16
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256695",
+    "order": 17
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256699",
+    "order": 18
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Girl, Modern, Dancing",
+    "clip_id": "317709",
+    "order": 19
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256622",
+    "order": 20
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256650",
+    "order": 21
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130295",
+    "order": 22
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130294",
+    "order": 23
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130310",
+    "order": 24
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256721",
+    "order": 25
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130313",
+    "order": 26
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130289",
+    "order": 27
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancing, Modern, Girl, Dancer",
+    "clip_id": "317706",
+    "order": 28
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130306",
+    "order": 29
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256669",
+    "order": 30
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130297",
+    "order": 31
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130296",
+    "order": 32
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130303",
+    "order": 33
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130311",
+    "order": 34
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130299",
+    "order": 35
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130305",
+    "order": 36
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130287",
+    "order": 37
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130312",
+    "order": 38
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130293",
+    "order": 39
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130308",
+    "order": 40
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Woman, Dancing, Modern",
+    "clip_id": "317705",
+    "order": 41
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256649",
+    "order": 42
+  },
+  {
+    "storyId": 10949,
+    "name": "modern dancers dancing in studio",
+    "clip_id": "20557",
+    "order": 43
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256720",
+    "order": 44
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256723",
+    "order": 45
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130304",
+    "order": 46
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256732",
+    "order": 47
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256719",
+    "order": 48
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256685",
+    "order": 49
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130316",
+    "order": 50
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130291",
+    "order": 51
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130315",
+    "order": 52
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130290",
+    "order": 53
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130292",
+    "order": 54
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449350",
+    "order": 55
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449352",
+    "order": 56
+  },
+  {
+    "storyId": 12049,
+    "name": "Modern dancer with red shirt dancing in the corridor",
+    "clip_id": "48171",
+    "order": 57
+  },
+  {
+    "storyId": 12049,
+    "name": "Woman does modern dance in a red shirt",
+    "clip_id": "48174",
+    "order": 58
+  },
+  {
+    "storyId": 22306,
+    "name": "Woman, Dancing, Rooftop, Buildings",
+    "clip_id": "320512",
+    "order": 59
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Guy, Dance, Modern",
+    "clip_id": "317714",
+    "order": 60
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers rolling shoulder in dance studio",
+    "clip_id": "20563",
+    "order": 61
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256674",
+    "order": 62
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers roll onto knees and slide in dance studio",
+    "clip_id": "20554",
+    "order": 63
+  },
+  {
+    "storyId": 12066,
+    "name": "woman wearing dress dancing in a green field with mountains in background",
+    "clip_id": "48370",
+    "order": 64
+  },
+  {
+    "storyId": 20383,
+    "name": "Dancing-Shoes, Studio, Training, Modern",
+    "clip_id": "256700",
+    "order": 65
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256677",
+    "order": 66
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130301",
+    "order": 67
+  },
+  {
+    "storyId": 12066,
+    "name": "woman dancing in a windy field near a snowy mountain ",
+    "clip_id": "48367",
+    "order": 68
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Standing, Dancing, Barefoot",
+    "clip_id": "515056",
+    "order": 69
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Modern, Girl, Movements",
+    "clip_id": "317716",
+    "order": 70
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515027",
+    "order": 71
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancers, Woman, Man, Modern",
+    "clip_id": "317700",
+    "order": 72
+  },
+  {
+    "storyId": 10949,
+    "name": "modern dancers rolling shoulder in dance studio",
+    "clip_id": "20562",
+    "order": 73
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers jumping then kneeling in dance studio",
+    "clip_id": "20559",
+    "order": 74
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers spinning and opening arms in studio",
+    "clip_id": "20556",
+    "order": 75
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Barefoot, Modern",
+    "clip_id": "515048",
+    "order": 76
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515057",
+    "order": 77
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515051",
+    "order": 78
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515030",
+    "order": 79
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515031",
+    "order": 80
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515065",
+    "order": 81
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515028",
+    "order": 82
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515059",
+    "order": 83
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515043",
+    "order": 84
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515029",
+    "order": 85
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515058",
+    "order": 86
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515054",
+    "order": 87
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515062",
+    "order": 88
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515026",
+    "order": 89
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515055",
+    "order": 90
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515053",
+    "order": 91
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515060",
+    "order": 92
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Barefoot, Modern",
+    "clip_id": "515042",
+    "order": 93
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515064",
+    "order": 94
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Modern, Dancing, Pink",
+    "clip_id": "317715",
+    "order": 95
+  },
+  {
+    "storyId": 27722,
+    "name": "Dancer, Training, Dance Hall, Practicing",
+    "clip_id": "486264",
+    "order": 96
+  },
+  {
+    "storyId": 12066,
+    "name": "woman with curly hair dancing in a field with snow patches ",
+    "clip_id": "48369",
+    "order": 97
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449359",
+    "order": 98
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Barefoot, Modern",
+    "clip_id": "515049",
+    "order": 99
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515052",
+    "order": 100
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515061",
+    "order": 101
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515063",
+    "order": 102
+  },
+  {
+    "storyId": 12066,
+    "name": "woman smiles and dances in field near lake and snowy mountain on windy day",
+    "clip_id": "48372",
+    "order": 103
+  },
+  {
+    "storyId": 27722,
+    "name": "Dancer, Training, Dance Hall, Practicing",
+    "clip_id": "486265",
+    "order": 104
+  },
+  {
+    "storyId": 27722,
+    "name": "Dancer, Training, Dance Hall, Practicing",
+    "clip_id": "486266",
+    "order": 105
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449354",
+    "order": 106
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Man, Modern, Dancing",
+    "clip_id": "317711",
+    "order": 107
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Woman, Dancing, Modern",
+    "clip_id": "317703",
+    "order": 108
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Guy, Dance, Modern",
+    "clip_id": "317712",
+    "order": 109
+  },
+  {
+    "storyId": 10949,
+    "name": "modern dancers jumping and hug knees while landing in dance studio",
+    "clip_id": "20560",
+    "order": 110
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancing, Girl, Dancer, Modern",
+    "clip_id": "317698",
+    "order": 111
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Girl, Dance, Modern",
+    "clip_id": "317697",
+    "order": 112
+  },
+  {
+    "storyId": 12066,
+    "name": "woman dancing modern dance in field near lake and mountain on windy day",
+    "clip_id": "48371",
+    "order": 113
+  },
+  {
+    "storyId": 22895,
+    "name": "Women, Dancing, Modern, Choreography",
+    "clip_id": "338238",
+    "order": 114
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Girl, Modern, Dancing",
+    "clip_id": "317710",
+    "order": 115
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Modern, Dancing, Blue",
+    "clip_id": "317718",
+    "order": 116
+  },
+  {
+    "storyId": 16072,
+    "name": "Dancer, Art, Contemporary, Modern",
+    "clip_id": "130288",
+    "order": 117
+  },
+  {
+    "storyId": 12066,
+    "name": "woman dancing with snowy mountains in background on windy day ",
+    "clip_id": "48368",
+    "order": 118
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515045",
+    "order": 119
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515037",
+    "order": 120
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449351",
+    "order": 121
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515066",
+    "order": 122
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515035",
+    "order": 123
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515047",
+    "order": 124
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515039",
+    "order": 125
+  },
+  {
+    "storyId": 12066,
+    "name": "Woman dancing in a green field near snowy mountains on windy day",
+    "clip_id": "48366",
+    "order": 126
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515046",
+    "order": 127
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515033",
+    "order": 128
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515050",
+    "order": 129
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515032",
+    "order": 130
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515034",
+    "order": 131
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Concrete",
+    "clip_id": "515038",
+    "order": 132
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515041",
+    "order": 133
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515036",
+    "order": 134
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515044",
+    "order": 135
+  },
+  {
+    "storyId": 23437,
+    "name": "Man, Model, Dancing, Studio Shoot",
+    "clip_id": "356804",
+    "order": 136
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancing, Guy, Dancer, Dance",
+    "clip_id": "317696",
+    "order": 137
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449348",
+    "order": 138
+  },
+  {
+    "storyId": 28622,
+    "name": "Woman, Dancing, Modern, Black",
+    "clip_id": "515040",
+    "order": 139
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449362",
+    "order": 140
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449360",
+    "order": 141
+  },
+  {
+    "storyId": 23437,
+    "name": "Man, Model, Dancing, Studio Shoot",
+    "clip_id": "356806",
+    "order": 142
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449353",
+    "order": 143
+  },
+  {
+    "storyId": 23437,
+    "name": "Man, Model, Dancing, Studio Shoot",
+    "clip_id": "356805",
+    "order": 144
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449355",
+    "order": 145
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449349",
+    "order": 146
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449357",
+    "order": 147
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Girl, Modern, Dance",
+    "clip_id": "317708",
+    "order": 148
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Dancing, Woman, Modern",
+    "clip_id": "317707",
+    "order": 149
+  },
+  {
+    "storyId": 12049,
+    "name": "Woman does modern dance in warehouse corridor",
+    "clip_id": "48172",
+    "order": 150
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Man, Dancing, Modern",
+    "clip_id": "317704",
+    "order": 151
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Modern, Dancing, Movements",
+    "clip_id": "317694",
+    "order": 152
+  },
+  {
+    "storyId": 10853,
+    "name": "Woman dancing in a warehouse",
+    "clip_id": "17866",
+    "order": 153
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Woman, Dancing, Modern",
+    "clip_id": "317701",
+    "order": 154
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449363",
+    "order": 155
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449361",
+    "order": 156
+  },
+  {
+    "storyId": 26475,
+    "name": "Woman, Dancing, Parking Lot, Fluorescent Lights",
+    "clip_id": "449356",
+    "order": 157
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancing, Modern, Dance, Blue",
+    "clip_id": "317717",
+    "order": 158
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Guy, Modern, Dancing",
+    "clip_id": "317713",
+    "order": 159
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancing, Dancer, Guy, Colorful",
+    "clip_id": "317695",
+    "order": 160
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Modern, Dancing, Woman",
+    "clip_id": "317702",
+    "order": 161
+  },
+  {
+    "storyId": 22895,
+    "name": "Women, Dancing, Practicing, Modern",
+    "clip_id": "338237",
+    "order": 162
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman moves hands in front of the camera during modern dance",
+    "clip_id": "17888",
+    "order": 163
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman waves hands in front of face during modern dance",
+    "clip_id": "17887",
+    "order": 164
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman does modern dance with blue purple light",
+    "clip_id": "17883",
+    "order": 165
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman curls hand in front of her during modern dance",
+    "clip_id": "17886",
+    "order": 166
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256651",
+    "order": 167
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman tosses hair into the air during modern dance",
+    "clip_id": "17885",
+    "order": 168
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman moves back and forth during modern dance",
+    "clip_id": "17884",
+    "order": 169
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256627",
+    "order": 170
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473688",
+    "order": 171
+  },
+  {
+    "storyId": 20383,
+    "name": "Man, Walking, City, Bag",
+    "clip_id": "256623",
+    "order": 172
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473685",
+    "order": 173
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440668",
+    "order": 174
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256621",
+    "order": 175
+  },
+  {
+    "storyId": 29571,
+    "name": "Japanese, Dancer, Looking At Camera, Contemporary",
+    "clip_id": "538137",
+    "order": 176
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473684",
+    "order": 177
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Looking At Camera",
+    "clip_id": "440678",
+    "order": 178
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440671",
+    "order": 179
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440673",
+    "order": 180
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256640",
+    "order": 181
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256712",
+    "order": 182
+  },
+  {
+    "storyId": 28867,
+    "name": "Stage, White Dress, Performing, Woman",
+    "clip_id": "521180",
+    "order": 183
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440663",
+    "order": 184
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256693",
+    "order": 185
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers lying on floor and curling up in studio",
+    "clip_id": "20551",
+    "order": 186
+  },
+  {
+    "storyId": 20383,
+    "name": "Dancer, Undressed, Taking-Off-Shirt, Warm-Up",
+    "clip_id": "256637",
+    "order": 187
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256647",
+    "order": 188
+  },
+  {
+    "storyId": 20383,
+    "name": "Man, Walking, City, Bag",
+    "clip_id": "256607",
+    "order": 189
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256687",
+    "order": 190
+  },
+  {
+    "storyId": 29571,
+    "name": "Japanese, Dancer, Facial Expressions, Contemporary",
+    "clip_id": "538139",
+    "order": 191
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman with violin tattoo on her back does modern dance",
+    "clip_id": "17890",
+    "order": 192
+  },
+  {
+    "storyId": 12049,
+    "name": "Dancer in red does modern dance in the empty rooms",
+    "clip_id": "48170",
+    "order": 193
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256631",
+    "order": 194
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256646",
+    "order": 195
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421384",
+    "order": 196
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256711",
+    "order": 197
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Entering, Looking At Camera, Dancers",
+    "clip_id": "421415",
+    "order": 198
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Floor Performance, Pop Style",
+    "clip_id": "421364",
+    "order": 199
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256710",
+    "order": 200
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Neon Light",
+    "clip_id": "421416",
+    "order": 201
+  },
+  {
+    "storyId": 25656,
+    "name": "Models, Posing, Pop Style, Neon Light",
+    "clip_id": "421423",
+    "order": 202
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Entering, Looking At Camera, Dancers",
+    "clip_id": "421420",
+    "order": 203
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421383",
+    "order": 204
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Hand Performance",
+    "clip_id": "421425",
+    "order": 205
+  },
+  {
+    "storyId": 10855,
+    "name": "Woman with violin tattoos on her back does modern dance",
+    "clip_id": "17889",
+    "order": 206
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421362",
+    "order": 207
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Neon Light",
+    "clip_id": "421422",
+    "order": 208
+  },
+  {
+    "storyId": 22306,
+    "name": "Woman, Dancing, Roof, Buildings",
+    "clip_id": "320509",
+    "order": 209
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440660",
+    "order": 210
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440665",
+    "order": 211
+  },
+  {
+    "storyId": 29571,
+    "name": "Japanese, Dancer, Contemporary, Face",
+    "clip_id": "538141",
+    "order": 212
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421386",
+    "order": 213
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440664",
+    "order": 214
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Looking At Camera",
+    "clip_id": "440679",
+    "order": 215
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440662",
+    "order": 216
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473690",
+    "order": 217
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440659",
+    "order": 218
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256697",
+    "order": 219
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers fall to floor and roll onto back in studio",
+    "clip_id": "20552",
+    "order": 220
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Performance",
+    "clip_id": "440680",
+    "order": 221
+  },
+  {
+    "storyId": 10949,
+    "name": "Instructor instructing group of dancers in studio",
+    "clip_id": "20555",
+    "order": 222
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440674",
+    "order": 223
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Looking At Camera",
+    "clip_id": "440681",
+    "order": 224
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256615",
+    "order": 225
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440675",
+    "order": 226
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473686",
+    "order": 227
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473691",
+    "order": 228
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Dancing-Shoes, Cup",
+    "clip_id": "256612",
+    "order": 229
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256652",
+    "order": 230
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440669",
+    "order": 231
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440670",
+    "order": 232
+  },
+  {
+    "storyId": 12049,
+    "name": "Woman moves in modern dance in the empty room",
+    "clip_id": "48186",
+    "order": 233
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256614",
+    "order": 234
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256735",
+    "order": 235
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256738",
+    "order": 236
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421354",
+    "order": 237
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Man, Voguing, Pop Style",
+    "clip_id": "421365",
+    "order": 238
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Ice, Pain",
+    "clip_id": "256654",
+    "order": 239
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421370",
+    "order": 240
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256692",
+    "order": 241
+  },
+  {
+    "storyId": 28867,
+    "name": "Woman, Stage, White Dress, Performing",
+    "clip_id": "521200",
+    "order": 242
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Studio, Dancer, Industrial-Building",
+    "clip_id": "256728",
+    "order": 243
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256690",
+    "order": 244
+  },
+  {
+    "storyId": 25656,
+    "name": "Man, Dancer, Voguing, Pop Style",
+    "clip_id": "421351",
+    "order": 245
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421355",
+    "order": 246
+  },
+  {
+    "storyId": 29571,
+    "name": "Japanese, Dancer, Contemporary, Makeup",
+    "clip_id": "538129",
+    "order": 247
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421378",
+    "order": 248
+  },
+  {
+    "storyId": 10854,
+    "name": "Woman does modern dance on a roof",
+    "clip_id": "17876",
+    "order": 249
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421360",
+    "order": 250
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421361",
+    "order": 251
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421359",
+    "order": 252
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421397",
+    "order": 253
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421363",
+    "order": 254
+  },
+  {
+    "storyId": 10949,
+    "name": "dancers lunging forward then rolling on back in studio",
+    "clip_id": "20553",
+    "order": 255
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Dance Battle, Pop Style",
+    "clip_id": "421382",
+    "order": 256
+  },
+  {
+    "storyId": 25656,
+    "name": "Man, Dancer, Voguing, Pop Style",
+    "clip_id": "421352",
+    "order": 257
+  },
+  {
+    "storyId": 20383,
+    "name": "Dancing-Shoes, Studio, Industrial-Building, Dance",
+    "clip_id": "256682",
+    "order": 258
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Woman, Voguing, Pop Style",
+    "clip_id": "421369",
+    "order": 259
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256714",
+    "order": 260
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421379",
+    "order": 261
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256733",
+    "order": 262
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421392",
+    "order": 263
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Woman, Voguing, Pop Style",
+    "clip_id": "421366",
+    "order": 264
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421426",
+    "order": 265
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256737",
+    "order": 266
+  },
+  {
+    "storyId": 25656,
+    "name": "Man, Dancer, Voguing, Pop Style",
+    "clip_id": "421350",
+    "order": 267
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421424",
+    "order": 268
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421372",
+    "order": 269
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Man, Voguing, Pop Style",
+    "clip_id": "421368",
+    "order": 270
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421371",
+    "order": 271
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256707",
+    "order": 272
+  },
+  {
+    "storyId": 25656,
+    "name": "Man, Model, Entering, Dancers",
+    "clip_id": "421419",
+    "order": 273
+  },
+  {
+    "storyId": 25656,
+    "name": "Man, Model, Entering, Looking At Camera",
+    "clip_id": "421421",
+    "order": 274
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256716",
+    "order": 275
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256734",
+    "order": 276
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421389",
+    "order": 277
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Neon Light",
+    "clip_id": "421418",
+    "order": 278
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256730",
+    "order": 279
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Woman, Voguing, Pop Style",
+    "clip_id": "421367",
+    "order": 280
+  },
+  {
+    "storyId": 28867,
+    "name": "Woman, Stage, Dancing, White Dress",
+    "clip_id": "521208",
+    "order": 281
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421429",
+    "order": 282
+  },
+  {
+    "storyId": 22306,
+    "name": "Dancing, Class, Online, Rooftop",
+    "clip_id": "320511",
+    "order": 283
+  },
+  {
+    "storyId": 23437,
+    "name": "Man, Model, Dancing, Studio Shoot",
+    "clip_id": "356803",
+    "order": 284
+  },
+  {
+    "storyId": 23437,
+    "name": "Man, Model, Posing, Dancing",
+    "clip_id": "356821",
+    "order": 285
+  },
+  {
+    "storyId": 29571,
+    "name": "Japanese, Dancer, Looking At Camera, Contemporary",
+    "clip_id": "538133",
+    "order": 286
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256731",
+    "order": 287
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Resting, Exhaling",
+    "clip_id": "256713",
+    "order": 288
+  },
+  {
+    "storyId": 10853,
+    "name": "Woman dancing in warehouse with sunlight",
+    "clip_id": "17874",
+    "order": 289
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256608",
+    "order": 290
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256729",
+    "order": 291
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Ice, Pain",
+    "clip_id": "256668",
+    "order": 292
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256610",
+    "order": 293
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256722",
+    "order": 294
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256725",
+    "order": 295
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440672",
+    "order": 296
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440666",
+    "order": 297
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256703",
+    "order": 298
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440661",
+    "order": 299
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256702",
+    "order": 300
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421428",
+    "order": 301
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421390",
+    "order": 302
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Studio, Dancer, Industrial-Building",
+    "clip_id": "256727",
+    "order": 303
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421413",
+    "order": 304
+  },
+  {
+    "storyId": 28867,
+    "name": "Woman, Stage, White Dress, Performing",
+    "clip_id": "521220",
+    "order": 305
+  },
+  {
+    "storyId": 25656,
+    "name": "Man, Dancer, Voguing, Pop Style",
+    "clip_id": "421349",
+    "order": 306
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Model, Sitting, Armchair",
+    "clip_id": "421401",
+    "order": 307
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421387",
+    "order": 308
+  },
+  {
+    "storyId": 26243,
+    "name": "Men, Dancing, Hip Hop, Back Lights",
+    "clip_id": "440667",
+    "order": 309
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421396",
+    "order": 310
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421395",
+    "order": 311
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421427",
+    "order": 312
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421357",
+    "order": 313
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421391",
+    "order": 314
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Dancing",
+    "clip_id": "256705",
+    "order": 315
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421388",
+    "order": 316
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421375",
+    "order": 317
+  },
+  {
+    "storyId": 10854,
+    "name": "Woman does unusual modern dance on a rooftop",
+    "clip_id": "17877",
+    "order": 318
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421374",
+    "order": 319
+  },
+  {
+    "storyId": 25656,
+    "name": "Dancers, Voguing, Pop Style, Studio Room",
+    "clip_id": "421385",
+    "order": 320
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421353",
+    "order": 321
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421414",
+    "order": 322
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421377",
+    "order": 323
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421393",
+    "order": 324
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421376",
+    "order": 325
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421373",
+    "order": 326
+  },
+  {
+    "storyId": 25656,
+    "name": "Men, Dancers, Voguing, Pop Style",
+    "clip_id": "421394",
+    "order": 327
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421356",
+    "order": 328
+  },
+  {
+    "storyId": 25656,
+    "name": "Woman, Dancer, Voguing, Pop Style",
+    "clip_id": "421358",
+    "order": 329
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Ice, Pain",
+    "clip_id": "256613",
+    "order": 330
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance inside with hands",
+    "clip_id": "22322",
+    "order": 331
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Ice, Pain",
+    "clip_id": "256681",
+    "order": 332
+  },
+  {
+    "storyId": 20383,
+    "name": "Man, Walking, Black-Man, City",
+    "clip_id": "256736",
+    "order": 333
+  },
+  {
+    "storyId": 10855,
+    "name": "Modern dance with head movements and purple blue light",
+    "clip_id": "17882",
+    "order": 334
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Ice, Pain",
+    "clip_id": "256673",
+    "order": 335
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Studio, Dancer, Industrial-Building",
+    "clip_id": "256718",
+    "order": 336
+  },
+  {
+    "storyId": 20383,
+    "name": "Dancer, Training, Barre, Warm-Up",
+    "clip_id": "256708",
+    "order": 337
+  },
+  {
+    "storyId": 20383,
+    "name": "Dancer, Training, Barre, Warm-Up",
+    "clip_id": "256656",
+    "order": 338
+  },
+  {
+    "storyId": 20383,
+    "name": "Dancer, Training, Barre, Warm-Up",
+    "clip_id": "256704",
+    "order": 339
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Lying-Down, Floor",
+    "clip_id": "256701",
+    "order": 340
+  },
+  {
+    "storyId": 25656,
+    "name": "Women, Dancers, Voguing, Pop Style",
+    "clip_id": "421412",
+    "order": 341
+  },
+  {
+    "storyId": 10853,
+    "name": "Woman dancing in corset in empty warehouse",
+    "clip_id": "17867",
+    "order": 342
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman dancing outside in court yard",
+    "clip_id": "22330",
+    "order": 343
+  },
+  {
+    "storyId": 20383,
+    "name": "Black-Man, Dancer, Training, Warm-Up",
+    "clip_id": "256742",
+    "order": 344
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance with window behind",
+    "clip_id": "22321",
+    "order": 345
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance in a rundown apartment",
+    "clip_id": "22319",
+    "order": 346
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman doing interpretive dance at a window",
+    "clip_id": "22323",
+    "order": 347
+  },
+  {
+    "storyId": 11012,
+    "name": "Women in red does interpretive dance in a rundown home",
+    "clip_id": "22317",
+    "order": 348
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red dances in a large open rundown house",
+    "clip_id": "22318",
+    "order": 349
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance with windows behind",
+    "clip_id": "22316",
+    "order": 350
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance in a rundown house, spinning",
+    "clip_id": "22314",
+    "order": 351
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman presses hands and body onto window ",
+    "clip_id": "22324",
+    "order": 352
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance at a window",
+    "clip_id": "22311",
+    "order": 353
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman dancing in abandoned court",
+    "clip_id": "22332",
+    "order": 354
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance at a window wearing red",
+    "clip_id": "22312",
+    "order": 355
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance on a table",
+    "clip_id": "22320",
+    "order": 356
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance in a rundown kitchen",
+    "clip_id": "22313",
+    "order": 357
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does contemporary dance in empty kitchen",
+    "clip_id": "22315",
+    "order": 358
+  },
+  {
+    "storyId": 18783,
+    "name": "Afrobeat, Attractive, Background, Beard",
+    "clip_id": "210758",
+    "order": 359
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206288",
+    "order": 360
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206308",
+    "order": 361
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206283",
+    "order": 362
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206277",
+    "order": 363
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206286",
+    "order": 364
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206285",
+    "order": 365
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206284",
+    "order": 366
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206274",
+    "order": 367
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206271",
+    "order": 368
+  },
+  {
+    "storyId": 20478,
+    "name": "Men, Bet, Win, Money",
+    "clip_id": "260156",
+    "order": 369
+  }
+]

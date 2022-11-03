@@ -1,0 +1,20 @@
+[
+  {
+    "storyId": 20683,
+    "name": "Protester, Walking, Sign, Demonstration",
+    "clip_id": "266750",
+    "order": 0
+  },
+  {
+    "storyId": 18065,
+    "name": "the word \"fresh\" flashing on a broken screen ",
+    "clip_id": "187306",
+    "order": 1
+  },
+  {
+    "storyId": 19596,
+    "name": "1980S, Words, Retro, Text",
+    "clip_id": "234956",
+    "order": 2
+  }
+]

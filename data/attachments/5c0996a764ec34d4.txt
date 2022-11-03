@@ -1,0 +1,38 @@
+[
+  {
+    "query": "goosebumps",
+    "clip_id": "196183",
+    "story_id": "18275",
+    "autoRank": "0.30339991550241813"
+  },
+  {
+    "query": "goosebumps",
+    "clip_id": "201437",
+    "story_id": "18449",
+    "autoRank": "0.30339991550241813"
+  },
+  {
+    "query": "goosebumps",
+    "clip_id": "365634",
+    "story_id": "23762",
+    "autoRank": "0.303112102308806"
+  },
+  {
+    "query": "goosebumps",
+    "clip_id": "310681",
+    "story_id": "22085",
+    "autoRank": "0.30271138665471814"
+  },
+  {
+    "query": "goosebumps",
+    "clip_id": "107400",
+    "story_id": "15056",
+    "autoRank": "0.30251707264354355"
+  },
+  {
+    "query": "goosebumps",
+    "clip_id": "47970",
+    "story_id": "12028",
+    "autoRank": "0.30248256328718293"
+  }
+]

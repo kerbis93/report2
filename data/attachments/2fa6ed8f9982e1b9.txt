@@ -1,0 +1,62 @@
+[
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "359118",
+    "story_id": "23535",
+    "autoRank": "0.30764681346887679"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "416414",
+    "story_id": "25507",
+    "autoRank": "0.30673856485504564"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "178416",
+    "story_id": "17785",
+    "autoRank": "0.30476979637075324"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "234769",
+    "story_id": "19596",
+    "autoRank": "0.30426024000883128"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "235006",
+    "story_id": "19604",
+    "autoRank": "0.30372115781323039"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "410205",
+    "story_id": "25261",
+    "autoRank": "0.30305060270115647"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "410390",
+    "story_id": "25264",
+    "autoRank": "0.30301172718800667"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "178492",
+    "story_id": "17794",
+    "autoRank": "0.30291236880188754"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "247162",
+    "story_id": "20075",
+    "autoRank": "0.3024601061959642"
+  },
+  {
+    "query": "goofing around  - slang",
+    "clip_id": "216666",
+    "story_id": "18988",
+    "autoRank": "0.30244300813742764"
+  }
+]

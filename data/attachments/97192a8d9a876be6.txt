@@ -1,0 +1,26 @@
+[
+  {
+    "query": "valetines",
+    "clip_id": "414657",
+    "story_id": "25459",
+    "autoRank": "0.30472626345590303"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "391714",
+    "story_id": "24667",
+    "autoRank": "0.30452283133056107"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "367039",
+    "story_id": "23804",
+    "autoRank": "0.30419564221406492"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "286800",
+    "story_id": "21327",
+    "autoRank": "0.30390785255373048"
+  }
+]

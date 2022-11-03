@@ -1,0 +1,20 @@
+[
+  {
+    "query": "lights in a tunnel",
+    "clip_id": "219570",
+    "story_id": "19093",
+    "autoRank": "0.36284474849811077"
+  },
+  {
+    "query": "lights in a tunnel",
+    "clip_id": "176152",
+    "story_id": "17681",
+    "autoRank": "0.36233593956125809"
+  },
+  {
+    "query": "lights in a tunnel",
+    "clip_id": "203852",
+    "story_id": "18545",
+    "autoRank": "0.35896826069613141"
+  }
+]

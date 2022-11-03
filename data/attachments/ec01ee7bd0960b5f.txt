@@ -1,0 +1,62 @@
+[
+  {
+    "query": "working out at home",
+    "clip_id": "160811",
+    "story_id": "17117",
+    "autoRank": "0.34947329103816083"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "22368",
+    "story_id": "11013",
+    "autoRank": "0.33210781554190894"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "160939",
+    "story_id": "17122",
+    "autoRank": "0.32491552704547078"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "131942",
+    "story_id": "16142",
+    "autoRank": "0.31950242763618014"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "179862",
+    "story_id": "17865",
+    "autoRank": "0.31950242763618014"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "235933",
+    "story_id": "19638",
+    "autoRank": "0.31786541303067878"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "175725",
+    "story_id": "17673",
+    "autoRank": "0.3174169540066995"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "226705",
+    "story_id": "19322",
+    "autoRank": "0.31733782310600078"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "188739",
+    "story_id": "18593",
+    "autoRank": "0.317293603108121"
+  },
+  {
+    "query": "working out at home",
+    "clip_id": "322283",
+    "story_id": "22350",
+    "autoRank": "0.3172903115727867"
+  }
+]

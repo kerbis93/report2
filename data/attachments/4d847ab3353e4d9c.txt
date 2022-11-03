@@ -1,0 +1,872 @@
+[
+  {
+    "storyId": 18685,
+    "name": "Young Adult, Portrait, Lgbtqi, Lesbian",
+    "clip_id": "207715",
+    "order": 0
+  },
+  {
+    "storyId": 18685,
+    "name": "Young Adult, Portrait, Lgbtqi, Gender Neutral",
+    "clip_id": "207755",
+    "order": 1
+  },
+  {
+    "storyId": 18685,
+    "name": "Young Adult, Portrait, Lgbtqi, Gender Neutral",
+    "clip_id": "207714",
+    "order": 2
+  },
+  {
+    "storyId": 18685,
+    "name": "Young Adult, Portrait, Lgbtqi, Gender Neutral",
+    "clip_id": "207754",
+    "order": 3
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, 4Th Wall, Gaze",
+    "clip_id": "321999",
+    "order": 4
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, 4Th Wall, Gaze",
+    "clip_id": "321927",
+    "order": 5
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, Wig",
+    "clip_id": "321956",
+    "order": 6
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Getting Up, Bed",
+    "clip_id": "321929",
+    "order": 7
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Combing, Wig",
+    "clip_id": "321957",
+    "order": 8
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Makeup",
+    "clip_id": "321954",
+    "order": 9
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Restaurant, Nightlife",
+    "clip_id": "321996",
+    "order": 10
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Makeup, Cultivation",
+    "clip_id": "321939",
+    "order": 11
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Makeup",
+    "clip_id": "321953",
+    "order": 12
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Applying, Lipstick",
+    "clip_id": "321998",
+    "order": 13
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Applying, Mascara",
+    "clip_id": "321940",
+    "order": 14
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Face, Cream",
+    "clip_id": "321936",
+    "order": 15
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, 4Th Wall, Gaze",
+    "clip_id": "321988",
+    "order": 16
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321980",
+    "order": 17
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Makeup",
+    "clip_id": "321952",
+    "order": 18
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Makeup, Applying",
+    "clip_id": "321945",
+    "order": 19
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wig, Wearing",
+    "clip_id": "321955",
+    "order": 20
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Talking, Phone",
+    "clip_id": "322000",
+    "order": 21
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Friends, Hanging Out",
+    "clip_id": "321994",
+    "order": 22
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Hanging Out, Friends",
+    "clip_id": "321992",
+    "order": 23
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Combing, Wig",
+    "clip_id": "321958",
+    "order": 24
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Friends, Nightlife",
+    "clip_id": "321982",
+    "order": 25
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Restaurant, Nightlife",
+    "clip_id": "321987",
+    "order": 26
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, High Heels",
+    "clip_id": "321961",
+    "order": 27
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Makeup, Powder",
+    "clip_id": "321947",
+    "order": 28
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Hanging Out, Friends",
+    "clip_id": "321991",
+    "order": 29
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Applying",
+    "clip_id": "321997",
+    "order": 30
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Mascara, Applying",
+    "clip_id": "321941",
+    "order": 31
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Applying, Lipstick",
+    "clip_id": "321970",
+    "order": 32
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Makeup",
+    "clip_id": "321951",
+    "order": 33
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Hanging Out, Friends",
+    "clip_id": "321993",
+    "order": 34
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Mascara, Applying",
+    "clip_id": "321943",
+    "order": 35
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Eye, Shadow",
+    "clip_id": "321948",
+    "order": 36
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Eye, Shadow",
+    "clip_id": "321949",
+    "order": 37
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Nightlife, Socializing",
+    "clip_id": "321983",
+    "order": 38
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Mirror, Cultivation",
+    "clip_id": "321965",
+    "order": 39
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Gazzing, Smoking",
+    "clip_id": "321931",
+    "order": 40
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Smoking, Cigarette",
+    "clip_id": "321932",
+    "order": 41
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Restaurant, Socializing",
+    "clip_id": "321985",
+    "order": 42
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Restaurant, Hanging Out",
+    "clip_id": "321986",
+    "order": 43
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Restaurant, Nightlife",
+    "clip_id": "321990",
+    "order": 44
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Hanging Out, Friends",
+    "clip_id": "321995",
+    "order": 45
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Friends, Hanging Out",
+    "clip_id": "321984",
+    "order": 46
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Socializing, Public",
+    "clip_id": "321977",
+    "order": 47
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Smoking, Cigarette",
+    "clip_id": "321935",
+    "order": 48
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Mirror, Cultivation",
+    "clip_id": "321938",
+    "order": 49
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Bruised, Taken Care Of",
+    "clip_id": "322002",
+    "order": 50
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, Jacket",
+    "clip_id": "321966",
+    "order": 51
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Sitting, Stairs",
+    "clip_id": "321934",
+    "order": 52
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Applying",
+    "clip_id": "321969",
+    "order": 53
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321974",
+    "order": 54
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, 4Th Wall, Gaze",
+    "clip_id": "321973",
+    "order": 55
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, High Heels",
+    "clip_id": "321962",
+    "order": 56
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321976",
+    "order": 57
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, Earings",
+    "clip_id": "321963",
+    "order": 58
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Cigarette, Smoking",
+    "clip_id": "321930",
+    "order": 59
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Eye Shadow, Makeup",
+    "clip_id": "321950",
+    "order": 60
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Waking, Up",
+    "clip_id": "321926",
+    "order": 61
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Waking, Up",
+    "clip_id": "321925",
+    "order": 62
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Bathroom, Mirror",
+    "clip_id": "321967",
+    "order": 63
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Restaurant, Nightlife",
+    "clip_id": "321989",
+    "order": 64
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Dancing, Public",
+    "clip_id": "321975",
+    "order": 65
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Eyebrow, Makeup",
+    "clip_id": "321944",
+    "order": 66
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321968",
+    "order": 67
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, Pantyhose",
+    "clip_id": "321959",
+    "order": 68
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, Necklace",
+    "clip_id": "321964",
+    "order": 69
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Wearing, Pantyhose",
+    "clip_id": "321960",
+    "order": 70
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Mascara, Applying",
+    "clip_id": "321942",
+    "order": 71
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Face, Cream",
+    "clip_id": "321937",
+    "order": 72
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Waking, Up",
+    "clip_id": "321924",
+    "order": 73
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321978",
+    "order": 74
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321979",
+    "order": 75
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Bruised, Friends",
+    "clip_id": "322004",
+    "order": 76
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Public, Bathroom",
+    "clip_id": "321971",
+    "order": 77
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Lipstick, Public",
+    "clip_id": "321972",
+    "order": 78
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Bruised, Friends",
+    "clip_id": "322003",
+    "order": 79
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Waking, Up",
+    "clip_id": "321928",
+    "order": 80
+  },
+  {
+    "storyId": 22346,
+    "name": "Queer, Man, Posing, 4Th Wall",
+    "clip_id": "321981",
+    "order": 81
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206287",
+    "order": 82
+  },
+  {
+    "storyId": 18685,
+    "name": "Lesbian, Lgbtqi, Couple, Kissing",
+    "clip_id": "207756",
+    "order": 83
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206302",
+    "order": 84
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206299",
+    "order": 85
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206292",
+    "order": 86
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206293",
+    "order": 87
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206307",
+    "order": 88
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206304",
+    "order": 89
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206258",
+    "order": 90
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206272",
+    "order": 91
+  },
+  {
+    "storyId": 18648,
+    "name": "Portrait, Woman, Looking At Camera, People",
+    "clip_id": "206265",
+    "order": 92
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206267",
+    "order": 93
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206246",
+    "order": 94
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206278",
+    "order": 95
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206261",
+    "order": 96
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206281",
+    "order": 97
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206294",
+    "order": 98
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206308",
+    "order": 99
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206282",
+    "order": 100
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206249",
+    "order": 101
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206257",
+    "order": 102
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206298",
+    "order": 103
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206251",
+    "order": 104
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206295",
+    "order": 105
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206277",
+    "order": 106
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206300",
+    "order": 107
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206283",
+    "order": 108
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206289",
+    "order": 109
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206286",
+    "order": 110
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206250",
+    "order": 111
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206306",
+    "order": 112
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206285",
+    "order": 113
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206273",
+    "order": 114
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206276",
+    "order": 115
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206262",
+    "order": 116
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206296",
+    "order": 117
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206288",
+    "order": 118
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206284",
+    "order": 119
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206259",
+    "order": 120
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206260",
+    "order": 121
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206263",
+    "order": 122
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206301",
+    "order": 123
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206248",
+    "order": 124
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206274",
+    "order": 125
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206254",
+    "order": 126
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206266",
+    "order": 127
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206290",
+    "order": 128
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206303",
+    "order": 129
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206247",
+    "order": 130
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206252",
+    "order": 131
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206253",
+    "order": 132
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206305",
+    "order": 133
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206269",
+    "order": 134
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206297",
+    "order": 135
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206255",
+    "order": 136
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206264",
+    "order": 137
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206271",
+    "order": 138
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206280",
+    "order": 139
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206275",
+    "order": 140
+  },
+  {
+    "storyId": 18648,
+    "name": "Millennial Generation, Generation Z, Studio Shot, Individuality",
+    "clip_id": "206256",
+    "order": 141
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206279",
+    "order": 142
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206268",
+    "order": 143
+  },
+  {
+    "storyId": 18648,
+    "name": "Technology, Millennial Generation, Generation Z, Studio Shot",
+    "clip_id": "206270",
+    "order": 144
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "query": "earth",
+    "clip_id": "359099",
+    "story_id": "23535",
+    "autoRank": "0.36000916388691978"
+  },
+  {
+    "query": "earth",
+    "clip_id": "366589",
+    "story_id": "23790",
+    "autoRank": "0.35732954618201679"
+  },
+  {
+    "query": "earth",
+    "clip_id": "349989",
+    "story_id": "23259",
+    "autoRank": "0.35264949788362704"
+  }
+]

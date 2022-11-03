@@ -1,0 +1,62 @@
+[
+  {
+    "query": "valetines",
+    "clip_id": "120176",
+    "story_id": "15622",
+    "autoRank": "0.30681884805463561"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "224216",
+    "story_id": "19212",
+    "autoRank": "0.30530486804113116"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "414657",
+    "story_id": "25459",
+    "autoRank": "0.30472626345590303"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "391714",
+    "story_id": "24667",
+    "autoRank": "0.30452283133056107"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "102190",
+    "story_id": "14817",
+    "autoRank": "0.30437064244044326"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "101333",
+    "story_id": "14794",
+    "autoRank": "0.304350574664987"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "188010",
+    "story_id": "18083",
+    "autoRank": "0.30422084973854974"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "367039",
+    "story_id": "23804",
+    "autoRank": "0.30419564221406492"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "174673",
+    "story_id": "17603",
+    "autoRank": "0.30409619381710412"
+  },
+  {
+    "query": "valetines",
+    "clip_id": "286800",
+    "story_id": "21327",
+    "autoRank": "0.30390785255373048"
+  }
+]

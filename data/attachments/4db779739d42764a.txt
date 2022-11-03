@@ -1,0 +1,20 @@
+[
+  {
+    "query": "google",
+    "clip_id": "308496",
+    "story_id": "21935",
+    "autoRank": "0.30294895898361879"
+  },
+  {
+    "query": "google",
+    "clip_id": "178533",
+    "story_id": "17794",
+    "autoRank": "0.30279681265337516"
+  },
+  {
+    "query": "google",
+    "clip_id": "395356",
+    "story_id": "24776",
+    "autoRank": "0.30278126791841259"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217117",
+    "order": 0
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Clouds, Sky",
+    "clip_id": "217132",
+    "order": 1
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Clouds, Sky",
+    "clip_id": "217134",
+    "order": 2
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Clouds, Sky",
+    "clip_id": "217131",
+    "order": 3
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217116",
+    "order": 4
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217118",
+    "order": 5
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217128",
+    "order": 6
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Clouds, Sky",
+    "clip_id": "217121",
+    "order": 7
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217129",
+    "order": 8
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217125",
+    "order": 9
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217120",
+    "order": 10
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217126",
+    "order": 11
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217127",
+    "order": 12
+  },
+  {
+    "storyId": 19007,
+    "name": "Lake, Water, Calm, Reflection",
+    "clip_id": "217122",
+    "order": 13
+  },
+  {
+    "storyId": 19007,
+    "name": "Mountains, Rocks, Sunbeams, Clouds",
+    "clip_id": "217119",
+    "order": 14
+  },
+  {
+    "storyId": 19007,
+    "name": "Lake, Water, Calm, Reflection",
+    "clip_id": "217133",
+    "order": 15
+  },
+  {
+    "storyId": 19007,
+    "name": "Lake, Water, Calm, Reflection",
+    "clip_id": "217123",
+    "order": 16
+  }
+]

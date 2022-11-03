@@ -1,0 +1,194 @@
+[
+  {
+    "storyId": 11012,
+    "name": "Woman in the mirror wipes away tears from eyes",
+    "clip_id": "22307",
+    "order": 0
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman hangs from window of house",
+    "clip_id": "22310",
+    "order": 1
+  },
+  {
+    "storyId": 11012,
+    "name": "Sad woman wearing lipstick looks out the window",
+    "clip_id": "22309",
+    "order": 2
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman fixes hair in mirror focus switches from mirror to face",
+    "clip_id": "22306",
+    "order": 3
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman fixes eyebrows in dirty window mirror",
+    "clip_id": "22308",
+    "order": 4
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman fixing her hair seen through the glass window",
+    "clip_id": "22304",
+    "order": 5
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman fixing her hair looking past camera into mirror",
+    "clip_id": "22305",
+    "order": 6
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman dancing outside in court yard",
+    "clip_id": "22330",
+    "order": 7
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman looking at camera while performing a dance ",
+    "clip_id": "22334",
+    "order": 8
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman performing a dance routine outsdoors",
+    "clip_id": "22331",
+    "order": 9
+  },
+  {
+    "storyId": 11012,
+    "name": "Redhead woman walking in old court ",
+    "clip_id": "22329",
+    "order": 10
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman performing a dance in her house ",
+    "clip_id": "22327",
+    "order": 11
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance inside with hands",
+    "clip_id": "22322",
+    "order": 12
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman uses a dirty window as a mirror and fixes her hair",
+    "clip_id": "22303",
+    "order": 13
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman leaning on a window and covering her eyes ",
+    "clip_id": "22328",
+    "order": 14
+  },
+  {
+    "storyId": 11012,
+    "name": "Women in red does interpretive dance in a rundown home",
+    "clip_id": "22317",
+    "order": 15
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman doing a dance routine near window ",
+    "clip_id": "22325",
+    "order": 16
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman dancing in abandoned court",
+    "clip_id": "22332",
+    "order": 17
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance with window behind",
+    "clip_id": "22321",
+    "order": 18
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance in a rundown apartment",
+    "clip_id": "22319",
+    "order": 19
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman performing dramatic dance routine outdoors ",
+    "clip_id": "22333",
+    "order": 20
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance in a rundown house, spinning",
+    "clip_id": "22314",
+    "order": 21
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance with windows behind",
+    "clip_id": "22316",
+    "order": 22
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red dances in a large open rundown house",
+    "clip_id": "22318",
+    "order": 23
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance at a window",
+    "clip_id": "22311",
+    "order": 24
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman presses hands and body onto window ",
+    "clip_id": "22324",
+    "order": 25
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman doing interpretive dance at a window",
+    "clip_id": "22323",
+    "order": 26
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does interpretive dance at a window wearing red",
+    "clip_id": "22312",
+    "order": 27
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance on a table",
+    "clip_id": "22320",
+    "order": 28
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman talking to herself and making hand gestures near window",
+    "clip_id": "22326",
+    "order": 29
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman in red does interpretive dance in a rundown kitchen",
+    "clip_id": "22313",
+    "order": 30
+  },
+  {
+    "storyId": 11012,
+    "name": "Woman does contemporary dance in empty kitchen",
+    "clip_id": "22315",
+    "order": 31
+  }
+]

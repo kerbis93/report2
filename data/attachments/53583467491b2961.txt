@@ -1,0 +1,26 @@
+[
+  {
+    "storyId": 28618,
+    "name": "Statue, Melting, Woman, Stand",
+    "clip_id": "514905",
+    "order": 0
+  },
+  {
+    "storyId": 28618,
+    "name": "Statue, Melting, Person, Modern Art",
+    "clip_id": "514904",
+    "order": 1
+  },
+  {
+    "storyId": 28618,
+    "name": "Statue, Melting, Woman, Modern Art",
+    "clip_id": "514903",
+    "order": 2
+  },
+  {
+    "storyId": 28618,
+    "name": "Statue, Melting, Woman, Stand",
+    "clip_id": "514906",
+    "order": 3
+  }
+]

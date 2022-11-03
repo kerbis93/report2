@@ -1,0 +1,296 @@
+[
+  {
+    "storyId": 11265,
+    "name": "young girl with dress runs through field ",
+    "clip_id": "32708",
+    "order": 0
+  },
+  {
+    "storyId": 11598,
+    "name": "green turtle walking on a black floor",
+    "clip_id": "39612",
+    "order": 1
+  },
+  {
+    "storyId": 11265,
+    "name": "baby holding a stick outdoors",
+    "clip_id": "32702",
+    "order": 2
+  },
+  {
+    "storyId": 14030,
+    "name": "baby with blue eyes looking around",
+    "clip_id": "83509",
+    "order": 3
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying down on his stomach and looking around",
+    "clip_id": "83502",
+    "order": 4
+  },
+  {
+    "storyId": 14030,
+    "name": "baby rocking back and forth ",
+    "clip_id": "83495",
+    "order": 5
+  },
+  {
+    "storyId": 14030,
+    "name": "baby with blue eyes smiling while lying on his back",
+    "clip_id": "83489",
+    "order": 6
+  },
+  {
+    "storyId": 14030,
+    "name": "baby with blue eyes lying on his back",
+    "clip_id": "83488",
+    "order": 7
+  },
+  {
+    "storyId": 11265,
+    "name": "girl with sandals runs through field ",
+    "clip_id": "32706",
+    "order": 8
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his back and looking straight at camera",
+    "clip_id": "83497",
+    "order": 9
+  },
+  {
+    "storyId": 11265,
+    "name": "mother and baby holding hands outdoors",
+    "clip_id": "32704",
+    "order": 10
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his stomach and laughing",
+    "clip_id": "83496",
+    "order": 11
+  },
+  {
+    "storyId": 14030,
+    "name": "baby about to start crawling",
+    "clip_id": "83513",
+    "order": 12
+  },
+  {
+    "storyId": 11265,
+    "name": "young child with sandals runs through field",
+    "clip_id": "32707",
+    "order": 13
+  },
+  {
+    "storyId": 14030,
+    "name": "mother holding her baby",
+    "clip_id": "83498",
+    "order": 14
+  },
+  {
+    "storyId": 11265,
+    "name": "young girl runs on grass",
+    "clip_id": "32705",
+    "order": 15
+  },
+  {
+    "storyId": 14030,
+    "name": "baby sucking his fingers and turning over",
+    "clip_id": "83503",
+    "order": 16
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his back in a diaper and moving around",
+    "clip_id": "83491",
+    "order": 17
+  },
+  {
+    "storyId": 14030,
+    "name": "baby holding and moving his leg",
+    "clip_id": "83492",
+    "order": 18
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his back and kicking",
+    "clip_id": "83511",
+    "order": 19
+  },
+  {
+    "storyId": 14030,
+    "name": "baby turning over and laughing",
+    "clip_id": "83493",
+    "order": 20
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his back and turning over",
+    "clip_id": "83494",
+    "order": 21
+  },
+  {
+    "storyId": 11598,
+    "name": "red parrot behaving naturally in front of green screen",
+    "clip_id": "39618",
+    "order": 22
+  },
+  {
+    "storyId": 14030,
+    "name": "mother tickling her baby and making him laugh",
+    "clip_id": "83505",
+    "order": 23
+  },
+  {
+    "storyId": 14030,
+    "name": "mother smiling and kissing her baby",
+    "clip_id": "83514",
+    "order": 24
+  },
+  {
+    "storyId": 14030,
+    "name": "mother kissing and holding her child",
+    "clip_id": "83501",
+    "order": 25
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his stomach in a diaper and smiling ",
+    "clip_id": "83510",
+    "order": 26
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup shot of black and white bunny in front of green screen",
+    "clip_id": "39611",
+    "order": 27
+  },
+  {
+    "storyId": 14030,
+    "name": "mother leaning over and kissing her baby",
+    "clip_id": "83507",
+    "order": 28
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup shot of Guinea Pig in front of green screen",
+    "clip_id": "39619",
+    "order": 29
+  },
+  {
+    "storyId": 14030,
+    "name": "mom holding and kissing her baby",
+    "clip_id": "83500",
+    "order": 30
+  },
+  {
+    "storyId": 14030,
+    "name": "mother kissing her baby as he tries to crawl",
+    "clip_id": "83504",
+    "order": 31
+  },
+  {
+    "storyId": 14030,
+    "name": "baby lying on his stomach and looking up",
+    "clip_id": "83512",
+    "order": 32
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup over orange cat acting naturally in front of green screen",
+    "clip_id": "39617",
+    "order": 33
+  },
+  {
+    "storyId": 14030,
+    "name": "mother kissing her baby on the neck",
+    "clip_id": "83508",
+    "order": 34
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup of orange cat acting naturally in front of green screen",
+    "clip_id": "39616",
+    "order": 35
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup over white dog eyes in front of green screen",
+    "clip_id": "39613",
+    "order": 36
+  },
+  {
+    "storyId": 14030,
+    "name": "mom kissing her baby while he is lying on his back",
+    "clip_id": "83506",
+    "order": 37
+  },
+  {
+    "storyId": 11045,
+    "name": "close up of crayons in a basket",
+    "clip_id": "23292",
+    "order": 38
+  },
+  {
+    "storyId": 19705,
+    "name": "Baby, Child, Playful, Stare",
+    "clip_id": "237295",
+    "order": 39
+  },
+  {
+    "storyId": 19705,
+    "name": "Baby, Play, Remote, Act",
+    "clip_id": "237291",
+    "order": 40
+  },
+  {
+    "storyId": 19705,
+    "name": "Baby, Child, Playful, Act",
+    "clip_id": "237292",
+    "order": 41
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup over white dog eyes in front of green screen",
+    "clip_id": "39615",
+    "order": 42
+  },
+  {
+    "storyId": 19705,
+    "name": "Baby, Playful, Cheerful, Happy",
+    "clip_id": "237288",
+    "order": 43
+  },
+  {
+    "storyId": 19705,
+    "name": "Baby, Bending, Stare, Indoor",
+    "clip_id": "237287",
+    "order": 44
+  },
+  {
+    "storyId": 11598,
+    "name": "closeup over big brown dog eyes in front of green screen",
+    "clip_id": "39620",
+    "order": 45
+  },
+  {
+    "storyId": 19705,
+    "name": "Baby, Playful, Remote, Act",
+    "clip_id": "237290",
+    "order": 46
+  },
+  {
+    "storyId": 19705,
+    "name": "Child, Baby, Stare, Gaze",
+    "clip_id": "237300",
+    "order": 47
+  },
+  {
+    "storyId": 19705,
+    "name": "Child, Rollover, Crawl, Bed",
+    "clip_id": "237299",
+    "order": 48
+  }
+]

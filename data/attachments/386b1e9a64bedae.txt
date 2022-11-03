@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Eye Candy",
+    "clip_id": "131927",
+    "story_id": "16142",
+    "autoRank": "0.30921891622711994"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "179847",
+    "story_id": "17865",
+    "autoRank": "0.30921891622711994"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "179882",
+    "story_id": "17866",
+    "autoRank": "0.30783265747470007"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "285494",
+    "story_id": "21279",
+    "autoRank": "0.30657582904425007"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "406104",
+    "story_id": "25121",
+    "autoRank": "0.30391480620923966"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "239541",
+    "story_id": "19798",
+    "autoRank": "0.30385936660527"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "320203",
+    "story_id": "22291",
+    "autoRank": "0.30383886862045556"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "32541",
+    "story_id": "11256",
+    "autoRank": "0.30339795984678375"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "217016",
+    "story_id": "19001",
+    "autoRank": "0.30328160499167234"
+  },
+  {
+    "query": "Eye Candy",
+    "clip_id": "406407",
+    "story_id": "25128",
+    "autoRank": "0.30327599981585612"
+  }
+]

@@ -1,0 +1,1034 @@
+[
+  {
+    "storyId": 18912,
+    "name": "School, Kids, Girl, Boy",
+    "clip_id": "214548",
+    "order": 0
+  },
+  {
+    "storyId": 26690,
+    "name": "School Bus, Driver, Kids, Boys",
+    "clip_id": "455287",
+    "order": 1
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, School Bus, Boys, Backpacks",
+    "clip_id": "455291",
+    "order": 2
+  },
+  {
+    "storyId": 11671,
+    "name": "residential complex on the edge of a education compound surrounded by farmland",
+    "clip_id": "40634",
+    "order": 3
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Mother, Waving, Hugging",
+    "clip_id": "455280",
+    "order": 4
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Mom, Waving, Kids",
+    "clip_id": "455273",
+    "order": 5
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Goodbye, Leaving, Kids",
+    "clip_id": "455267",
+    "order": 6
+  },
+  {
+    "storyId": 26689,
+    "name": "Woman, Kids, School Bus, Doorway",
+    "clip_id": "455268",
+    "order": 7
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Sitting, School Bus, Windows",
+    "clip_id": "455344",
+    "order": 8
+  },
+  {
+    "storyId": 26690,
+    "name": "Man, School Bus, Driver, Kids",
+    "clip_id": "455288",
+    "order": 9
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Sitting, School Bus, Windows",
+    "clip_id": "455342",
+    "order": 10
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Kids, Driver, Entering",
+    "clip_id": "455266",
+    "order": 11
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Waving, Kids, Looking",
+    "clip_id": "455265",
+    "order": 12
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455340",
+    "order": 13
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455341",
+    "order": 14
+  },
+  {
+    "storyId": 26689,
+    "name": "Mother, Waving, Kid, School Bus",
+    "clip_id": "455257",
+    "order": 15
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Leaving, Waving, Goodbye",
+    "clip_id": "455274",
+    "order": 16
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Driver, Parking",
+    "clip_id": "455250",
+    "order": 17
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Waving, Boy, Leaving",
+    "clip_id": "455278",
+    "order": 18
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Driver",
+    "clip_id": "455249",
+    "order": 19
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, School Bus, Students, Sitting",
+    "clip_id": "455339",
+    "order": 20
+  },
+  {
+    "storyId": 26689,
+    "name": "Smiling, Boy, School Bus, Window",
+    "clip_id": "455277",
+    "order": 21
+  },
+  {
+    "storyId": 26689,
+    "name": "Woman, Goodbye, Mother, Boy",
+    "clip_id": "455258",
+    "order": 22
+  },
+  {
+    "storyId": 26700,
+    "name": "Elementary, School, Glass, Doors",
+    "clip_id": "455649",
+    "order": 23
+  },
+  {
+    "storyId": 11671,
+    "name": "students on the play court at a school",
+    "clip_id": "40632",
+    "order": 24
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, School Bus, Students, Sitting",
+    "clip_id": "455354",
+    "order": 25
+  },
+  {
+    "storyId": 26688,
+    "name": "Man, Looking At Camera, School Bus, Portrait",
+    "clip_id": "455244",
+    "order": 26
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455343",
+    "order": 27
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Man, Looking At Camera",
+    "clip_id": "455246",
+    "order": 28
+  },
+  {
+    "storyId": 11671,
+    "name": "school bus travels on side road past school property and tennis courts",
+    "clip_id": "40628",
+    "order": 29
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Man, Bus, Portrait",
+    "clip_id": "455245",
+    "order": 30
+  },
+  {
+    "storyId": 11671,
+    "name": "college in the middle of farmland with school buses parked outside",
+    "clip_id": "40631",
+    "order": 31
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Man, Bus, Looking At Camera",
+    "clip_id": "455242",
+    "order": 32
+  },
+  {
+    "storyId": 11671,
+    "name": "school bus travels down the roadway to pick up students",
+    "clip_id": "40630",
+    "order": 33
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Phone",
+    "clip_id": "455318",
+    "order": 34
+  },
+  {
+    "storyId": 26688,
+    "name": "Man, School Bus, Looking At Camera, Portrait",
+    "clip_id": "455243",
+    "order": 35
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Driver Seat, Yellow",
+    "clip_id": "455228",
+    "order": 36
+  },
+  {
+    "storyId": 26689,
+    "name": "Kids, School Bus, Smiling, Window",
+    "clip_id": "455263",
+    "order": 37
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Man, Bus, Standing",
+    "clip_id": "455240",
+    "order": 38
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Man",
+    "clip_id": "455241",
+    "order": 39
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Mother, Boy, Son",
+    "clip_id": "455279",
+    "order": 40
+  },
+  {
+    "storyId": 26689,
+    "name": "Mom, School Bus, Leaving, Goodbye",
+    "clip_id": "455262",
+    "order": 41
+  },
+  {
+    "storyId": 21578,
+    "name": "Kid, Boy, School Bus, Sitting",
+    "clip_id": "295453",
+    "order": 42
+  },
+  {
+    "storyId": 26689,
+    "name": "Girl, School Bus, Smiling, Peering",
+    "clip_id": "455264",
+    "order": 43
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Boys, Friends, School Bus",
+    "clip_id": "455294",
+    "order": 44
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Goodbye, Mom, Smiling",
+    "clip_id": "455270",
+    "order": 45
+  },
+  {
+    "storyId": 26690,
+    "name": "Girls, School Bus, Standing, Talking",
+    "clip_id": "455298",
+    "order": 46
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Boys, Friends, School Bus",
+    "clip_id": "455296",
+    "order": 47
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Boys, Blond, School Bus",
+    "clip_id": "455295",
+    "order": 48
+  },
+  {
+    "storyId": 26689,
+    "name": "Woman, School Bus, Goodbye, Waving",
+    "clip_id": "455256",
+    "order": 49
+  },
+  {
+    "storyId": 26690,
+    "name": "School Bus, Driver, Kids, Girl",
+    "clip_id": "455283",
+    "order": 50
+  },
+  {
+    "storyId": 26700,
+    "name": "Kids, Running, Departing, Leaving",
+    "clip_id": "455647",
+    "order": 51
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Teens, School Bus, Standing",
+    "clip_id": "455304",
+    "order": 52
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, School Bus, Boys, Girls",
+    "clip_id": "455292",
+    "order": 53
+  },
+  {
+    "storyId": 26690,
+    "name": "Teens, Girls, School Bus, Standing",
+    "clip_id": "455303",
+    "order": 54
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Mother, Son, Leaving",
+    "clip_id": "455255",
+    "order": 55
+  },
+  {
+    "storyId": 26689,
+    "name": "Mom, Son, Goodbye, School Bus",
+    "clip_id": "455269",
+    "order": 56
+  },
+  {
+    "storyId": 26689,
+    "name": "Waving, Goodbye, School Bus, Window",
+    "clip_id": "455281",
+    "order": 57
+  },
+  {
+    "storyId": 26689,
+    "name": "School Bus, Entering, Doorway, Kids",
+    "clip_id": "455271",
+    "order": 58
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Sitting",
+    "clip_id": "455308",
+    "order": 59
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Sitting",
+    "clip_id": "455309",
+    "order": 60
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, School Bus, Students, Playing",
+    "clip_id": "455360",
+    "order": 61
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Front",
+    "clip_id": "455224",
+    "order": 62
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Sitting",
+    "clip_id": "455307",
+    "order": 63
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Seats, School Bus, Sitting",
+    "clip_id": "455353",
+    "order": 64
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girls, School Bus, Students",
+    "clip_id": "455328",
+    "order": 65
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Running",
+    "clip_id": "455305",
+    "order": 66
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Front",
+    "clip_id": "455223",
+    "order": 67
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, School Bus, Student",
+    "clip_id": "455321",
+    "order": 68
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Man, Walking",
+    "clip_id": "455239",
+    "order": 69
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Yellow, School Bus, Driver",
+    "clip_id": "455251",
+    "order": 70
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Taillights",
+    "clip_id": "455227",
+    "order": 71
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, Students, School Bus",
+    "clip_id": "455325",
+    "order": 72
+  },
+  {
+    "storyId": 26689,
+    "name": "Running, School Bus, Kids, Mother",
+    "clip_id": "455272",
+    "order": 73
+  },
+  {
+    "storyId": 26690,
+    "name": "School Bus, Open Door, Kids, Boys",
+    "clip_id": "455300",
+    "order": 74
+  },
+  {
+    "storyId": 26689,
+    "name": "Holding Hands, School Bus, Crossing, Walking",
+    "clip_id": "455261",
+    "order": 75
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kid, Girl, School Bus",
+    "clip_id": "455317",
+    "order": 76
+  },
+  {
+    "storyId": 26689,
+    "name": "Holding Hands, Walking, Crossing, School Bus",
+    "clip_id": "455260",
+    "order": 77
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455312",
+    "order": 78
+  },
+  {
+    "storyId": 26688,
+    "name": "Man, Looking At Camera, Portrait, Smiling",
+    "clip_id": "455247",
+    "order": 79
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Man",
+    "clip_id": "455226",
+    "order": 80
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, School Bus, Student",
+    "clip_id": "455322",
+    "order": 81
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Front",
+    "clip_id": "455238",
+    "order": 82
+  },
+  {
+    "storyId": 26690,
+    "name": "School Bus, Kids, Getting Off, Yellow Bus",
+    "clip_id": "455301",
+    "order": 83
+  },
+  {
+    "storyId": 21578,
+    "name": "School Bus, Seats, Boy, Kid",
+    "clip_id": "295455",
+    "order": 84
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Boys, School Bus, Classmates",
+    "clip_id": "455297",
+    "order": 85
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Girls, Classmates, School Bus",
+    "clip_id": "455299",
+    "order": 86
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, School Bus, Boys, Girls",
+    "clip_id": "455293",
+    "order": 87
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Getting Off, School Bus, Teens",
+    "clip_id": "455302",
+    "order": 88
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girls, School Bus, Students",
+    "clip_id": "455326",
+    "order": 89
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455313",
+    "order": 90
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Front",
+    "clip_id": "455225",
+    "order": 91
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455306",
+    "order": 92
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455310",
+    "order": 93
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kids, School Bus, Students",
+    "clip_id": "455311",
+    "order": 94
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, School Bus, Students, Sitting",
+    "clip_id": "455361",
+    "order": 95
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Girl, Boy",
+    "clip_id": "214499",
+    "order": 96
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Sign",
+    "clip_id": "214530",
+    "order": 97
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Drive",
+    "clip_id": "214478",
+    "order": 98
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Door",
+    "clip_id": "214505",
+    "order": 99
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Kids, Girl, Boy",
+    "clip_id": "214508",
+    "order": 100
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Seats",
+    "clip_id": "214549",
+    "order": 101
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Men",
+    "clip_id": "214495",
+    "order": 102
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Men",
+    "clip_id": "214540",
+    "order": 103
+  },
+  {
+    "storyId": 15946,
+    "name": "school bus passing by an abandoned house",
+    "clip_id": "127356",
+    "order": 104
+  },
+  {
+    "storyId": 18912,
+    "name": "School, Bus, Schoolbus, Men",
+    "clip_id": "214473",
+    "order": 105
+  },
+  {
+    "storyId": 26688,
+    "name": "School Bus, Bus, Yellow, Parking",
+    "clip_id": "455248",
+    "order": 106
+  },
+  {
+    "storyId": 11671,
+    "name": "school buildings surrounded by fields with school bus bringing students",
+    "clip_id": "40629",
+    "order": 107
+  },
+  {
+    "storyId": 26690,
+    "name": "Kids, Feet, Sneakers, Steps",
+    "clip_id": "455290",
+    "order": 108
+  },
+  {
+    "storyId": 26689,
+    "name": "Hugging, Leaving, Boy, Looking At Camera",
+    "clip_id": "455282",
+    "order": 109
+  },
+  {
+    "storyId": 27290,
+    "name": "8Bit, Pixels, Video Games, Arcade",
+    "clip_id": "473660",
+    "order": 110
+  },
+  {
+    "storyId": 21578,
+    "name": "Boy, Kid, Blonde, Cubes",
+    "clip_id": "295454",
+    "order": 111
+  },
+  {
+    "storyId": 26549,
+    "name": "Boston, City, Traffic, Cars",
+    "clip_id": "451546",
+    "order": 112
+  },
+  {
+    "storyId": 26549,
+    "name": "Boston, City, Traffic, Cars",
+    "clip_id": "451529",
+    "order": 113
+  },
+  {
+    "storyId": 11671,
+    "name": "drone view of education complex in the countryside",
+    "clip_id": "40633",
+    "order": 114
+  },
+  {
+    "storyId": 11671,
+    "name": "residential area surrounded by farm land on a summer day",
+    "clip_id": "40626",
+    "order": 115
+  },
+  {
+    "storyId": 26688,
+    "name": "Wheel, Steering Wheel, Bus, Buttons",
+    "clip_id": "455230",
+    "order": 116
+  },
+  {
+    "storyId": 11671,
+    "name": "new residential area surrounded by newly tilled fields in summer",
+    "clip_id": "40635",
+    "order": 117
+  },
+  {
+    "storyId": 26688,
+    "name": "Steering Wheel, Bus, Buttons, Wheel",
+    "clip_id": "455236",
+    "order": 118
+  },
+  {
+    "storyId": 26700,
+    "name": "Kids, Running, School, Reception",
+    "clip_id": "455646",
+    "order": 119
+  },
+  {
+    "storyId": 14566,
+    "name": "group of children stepping onto a parked school bus ",
+    "clip_id": "94872",
+    "order": 120
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Driver, Looking At Camera, Portrait",
+    "clip_id": "455252",
+    "order": 121
+  },
+  {
+    "storyId": 14566,
+    "name": "group of children stepping out of a parked school bus",
+    "clip_id": "94875",
+    "order": 122
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Student, Sitting, Girl",
+    "clip_id": "455352",
+    "order": 123
+  },
+  {
+    "storyId": 11671,
+    "name": "large house in a residential area on a cul de sac sunny day",
+    "clip_id": "40625",
+    "order": 124
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Listening",
+    "clip_id": "455348",
+    "order": 125
+  },
+  {
+    "storyId": 26689,
+    "name": "Woman, Waving, Smiling, Kiss",
+    "clip_id": "455275",
+    "order": 126
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Student, Windows",
+    "clip_id": "455315",
+    "order": 127
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, Talking, Smiling",
+    "clip_id": "455358",
+    "order": 128
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Sitting, Glasses",
+    "clip_id": "455355",
+    "order": 129
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Sitting",
+    "clip_id": "455346",
+    "order": 130
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Sitting",
+    "clip_id": "455349",
+    "order": 131
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Looking At Camera, Headphones",
+    "clip_id": "455362",
+    "order": 132
+  },
+  {
+    "storyId": 11671,
+    "name": "cars and trucks travel a highway next to farmland and a residential district",
+    "clip_id": "40627",
+    "order": 133
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Student, Sitting",
+    "clip_id": "455314",
+    "order": 134
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Student",
+    "clip_id": "455332",
+    "order": 135
+  },
+  {
+    "storyId": 26689,
+    "name": "Woman, Waving, Smiling, Standing",
+    "clip_id": "455276",
+    "order": 136
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, Sitting, Talking",
+    "clip_id": "455357",
+    "order": 137
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Looking, Windows",
+    "clip_id": "455334",
+    "order": 138
+  },
+  {
+    "storyId": 26691,
+    "name": "Girl, Headphones, Bus, Sitting",
+    "clip_id": "455350",
+    "order": 139
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Seats",
+    "clip_id": "455347",
+    "order": 140
+  },
+  {
+    "storyId": 14566,
+    "name": "children wearing backpacks stepping up into a school bus",
+    "clip_id": "94874",
+    "order": 141
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Steering Wheel, Hands, Buttons",
+    "clip_id": "455254",
+    "order": 142
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Buttons, Control, Wheel",
+    "clip_id": "455237",
+    "order": 143
+  },
+  {
+    "storyId": 14566,
+    "name": "group of children exiting a parked school bus",
+    "clip_id": "94873",
+    "order": 144
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Seats, Empty, Cabin",
+    "clip_id": "455231",
+    "order": 145
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Empty, Seats, Windows",
+    "clip_id": "455235",
+    "order": 146
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Seats, Windows, Cabin",
+    "clip_id": "455233",
+    "order": 147
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Empty, Seats, Windows",
+    "clip_id": "455232",
+    "order": 148
+  },
+  {
+    "storyId": 26688,
+    "name": "Bus, Driver, Driver Seat, Looking At Camera",
+    "clip_id": "455253",
+    "order": 149
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Listening",
+    "clip_id": "455335",
+    "order": 150
+  },
+  {
+    "storyId": 26690,
+    "name": "Steps, Bus, Stairs, Sign",
+    "clip_id": "455289",
+    "order": 151
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Kid, Playing, Game",
+    "clip_id": "455338",
+    "order": 152
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Student, Looking At Camera, Windows",
+    "clip_id": "455320",
+    "order": 153
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, Ride, Windows",
+    "clip_id": "455336",
+    "order": 154
+  },
+  {
+    "storyId": 26691,
+    "name": "Hand, Ring, Jacket, Jeans",
+    "clip_id": "455351",
+    "order": 155
+  },
+  {
+    "storyId": 26689,
+    "name": "Boy, Leaving, Smiling, Backpack",
+    "clip_id": "455259",
+    "order": 156
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Looking At Camera, Windows",
+    "clip_id": "455330",
+    "order": 157
+  },
+  {
+    "storyId": 26691,
+    "name": "Boy, Looking At Camera, Face, Serious",
+    "clip_id": "455324",
+    "order": 158
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Headphones, Talking",
+    "clip_id": "455345",
+    "order": 159
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, Sitting, Talking",
+    "clip_id": "455364",
+    "order": 160
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Sitting, Girl, Student",
+    "clip_id": "455316",
+    "order": 161
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Windows, Sitting, Student",
+    "clip_id": "455319",
+    "order": 162
+  },
+  {
+    "storyId": 26691,
+    "name": "Hands, Tablet, Touching, Windows",
+    "clip_id": "455331",
+    "order": 163
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, Student, Sitting",
+    "clip_id": "455323",
+    "order": 164
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Student, Talking, Sitting",
+    "clip_id": "455329",
+    "order": 165
+  },
+  {
+    "storyId": 14566,
+    "name": "group of children smiling directly at camera next to a parked school bus",
+    "clip_id": "94876",
+    "order": 166
+  },
+  {
+    "storyId": 26688,
+    "name": "Watch Your Step, Sign, Steps",
+    "clip_id": "455229",
+    "order": 167
+  },
+  {
+    "storyId": 26691,
+    "name": "Arm, Hand, Plaster Hand",
+    "clip_id": "455337",
+    "order": 168
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Boy, Sitting, Plaster Hand",
+    "clip_id": "455363",
+    "order": 169
+  },
+  {
+    "storyId": 26691,
+    "name": "Hands, Tablet, Touching, Windows",
+    "clip_id": "455327",
+    "order": 170
+  },
+  {
+    "storyId": 26691,
+    "name": "Bus, Girl, Looking, Windows",
+    "clip_id": "455333",
+    "order": 171
+  }
+]

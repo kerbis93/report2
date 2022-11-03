@@ -1,0 +1,62 @@
+[
+  {
+    "query": "yellow cab",
+    "clip_id": "95306",
+    "story_id": "14586",
+    "autoRank": "0.31274298383765814"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "247174",
+    "story_id": "20075",
+    "autoRank": "0.31246192716284993"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "118439",
+    "story_id": "15558",
+    "autoRank": "0.31215534667764033"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "111428",
+    "story_id": "15244",
+    "autoRank": "0.31010881731414675"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "390058",
+    "story_id": "24635",
+    "autoRank": "0.30835164644337842"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "48299",
+    "story_id": "12061",
+    "autoRank": "0.30754998322173638"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "267953",
+    "story_id": "20726",
+    "autoRank": "0.30686233282208275"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "334958",
+    "story_id": "22760",
+    "autoRank": "0.30678618791833928"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "46497",
+    "story_id": "11883",
+    "autoRank": "0.30557487937214051"
+  },
+  {
+    "query": "yellow cab",
+    "clip_id": "114919",
+    "story_id": "15399",
+    "autoRank": "0.30529442861903155"
+  }
+]

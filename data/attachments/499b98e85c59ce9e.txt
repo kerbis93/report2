@@ -1,0 +1,56 @@
+[
+  {
+    "query": "the big bang",
+    "clip_id": "416638",
+    "story_id": "25513",
+    "autoRank": "0.31066434302555979"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "336890",
+    "story_id": "22858",
+    "autoRank": "0.30841127767271637"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "289576",
+    "story_id": "21395",
+    "autoRank": "0.30782283427798823"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "97066",
+    "story_id": "14637",
+    "autoRank": "0.30758709447191512"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "297383",
+    "story_id": "21654",
+    "autoRank": "0.30717076159670242"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "290324",
+    "story_id": "21429",
+    "autoRank": "0.30684561306305647"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "291886",
+    "story_id": "21478",
+    "autoRank": "0.30682254655653707"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "128103",
+    "story_id": "15982",
+    "autoRank": "0.3068205348667124"
+  },
+  {
+    "query": "the big bang",
+    "clip_id": "329734",
+    "story_id": "22593",
+    "autoRank": "0.30654275375557244"
+  }
+]

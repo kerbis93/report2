@@ -1,0 +1,188 @@
+[
+  {
+    "storyId": 12675,
+    "name": "baker with tattooed arm and black apron breaks egg ",
+    "clip_id": "58856",
+    "order": 0
+  },
+  {
+    "storyId": 22321,
+    "name": "Egg White, Spilled, Yolk, Albumen",
+    "clip_id": "320814",
+    "order": 1
+  },
+  {
+    "storyId": 17577,
+    "name": "Mixer, Tasty, Whisk, Foam",
+    "clip_id": "173171",
+    "order": 2
+  },
+  {
+    "storyId": 17577,
+    "name": "Mixer, Tasty, Whisk, Foam",
+    "clip_id": "173170",
+    "order": 3
+  },
+  {
+    "storyId": 24659,
+    "name": "Eggs, Tray, White Background, Carton",
+    "clip_id": "391391",
+    "order": 4
+  },
+  {
+    "storyId": 22321,
+    "name": "Whisk, Eggs, Bowl, Kitchen",
+    "clip_id": "320815",
+    "order": 5
+  },
+  {
+    "storyId": 17577,
+    "name": "Edible Color, Tasty, Mixer, Whisk",
+    "clip_id": "173172",
+    "order": 6
+  },
+  {
+    "storyId": 17577,
+    "name": "Edible Color, Tasty, Mixer, Whisk",
+    "clip_id": "173173",
+    "order": 7
+  },
+  {
+    "storyId": 17577,
+    "name": "Edible Color, Tasty, Mixer, Whisk",
+    "clip_id": "173174",
+    "order": 8
+  },
+  {
+    "storyId": 17577,
+    "name": "Edible Color, Tasty, Mixer, Whisk",
+    "clip_id": "173175",
+    "order": 9
+  },
+  {
+    "storyId": 11254,
+    "name": "close up of bread being painted with egg mixture",
+    "clip_id": "32426",
+    "order": 10
+  },
+  {
+    "storyId": 17577,
+    "name": "Mixture, Tasty, Edible Color, Mixer",
+    "clip_id": "173177",
+    "order": 11
+  },
+  {
+    "storyId": 17577,
+    "name": "Mixture, Tasty, Edible Color, Mixer",
+    "clip_id": "173176",
+    "order": 12
+  },
+  {
+    "storyId": 12438,
+    "name": "Person purchases eggs in a carton from shopkeeper and exchanges money",
+    "clip_id": "55756",
+    "order": 13
+  },
+  {
+    "storyId": 18031,
+    "name": "man preparing food with a boy in a kitchen",
+    "clip_id": "185960",
+    "order": 14
+  },
+  {
+    "storyId": 18031,
+    "name": "man mixing ingredients with a boy in a kitchen",
+    "clip_id": "185962",
+    "order": 15
+  },
+  {
+    "storyId": 18031,
+    "name": "two men cooking with a boy indoors",
+    "clip_id": "185963",
+    "order": 16
+  },
+  {
+    "storyId": 18031,
+    "name": "boy and a man cooking at home",
+    "clip_id": "185972",
+    "order": 17
+  },
+  {
+    "storyId": 18031,
+    "name": "man baking with a boy in a kitchen",
+    "clip_id": "185965",
+    "order": 18
+  },
+  {
+    "storyId": 18031,
+    "name": "man and a boy making cookies in a kitchen",
+    "clip_id": "185971",
+    "order": 19
+  },
+  {
+    "storyId": 18031,
+    "name": "man cooking with a boy at home",
+    "clip_id": "185961",
+    "order": 20
+  },
+  {
+    "storyId": 18031,
+    "name": "man cooking together with a boy in a kitchen",
+    "clip_id": "185959",
+    "order": 21
+  },
+  {
+    "storyId": 18031,
+    "name": "man baking with his son at home in a kitchen",
+    "clip_id": "185969",
+    "order": 22
+  },
+  {
+    "storyId": 18031,
+    "name": "man baking cookies with a boy in a kitchen",
+    "clip_id": "185966",
+    "order": 23
+  },
+  {
+    "storyId": 18031,
+    "name": "man cooking with a boy indoors",
+    "clip_id": "185957",
+    "order": 24
+  },
+  {
+    "storyId": 18031,
+    "name": "man baking with a boy at home in a kitchen",
+    "clip_id": "185968",
+    "order": 25
+  },
+  {
+    "storyId": 18031,
+    "name": "man and a boy making cookies",
+    "clip_id": "185970",
+    "order": 26
+  },
+  {
+    "storyId": 18031,
+    "name": "two men cooking with a boy in a kitchen",
+    "clip_id": "185964",
+    "order": 27
+  },
+  {
+    "storyId": 18031,
+    "name": "man baking biscuits with a boy in a kitchen",
+    "clip_id": "185967",
+    "order": 28
+  },
+  {
+    "storyId": 18031,
+    "name": "man cooking with a boy in a kitchen",
+    "clip_id": "185958",
+    "order": 29
+  },
+  {
+    "storyId": 12438,
+    "name": "Eggs in egg cartons displayed for sale on a table",
+    "clip_id": "55757",
+    "order": 30
+  }
+]

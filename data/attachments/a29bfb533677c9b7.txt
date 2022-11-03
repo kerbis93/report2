@@ -1,0 +1,1082 @@
+[
+  {
+    "storyId": 14321,
+    "name": "Two classic Mustangs racing up a hill",
+    "clip_id": "89750",
+    "order": 0
+  },
+  {
+    "storyId": 29082,
+    "name": "Car, Hyperlapse, Pov, Driving",
+    "clip_id": "525896",
+    "order": 1
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359167",
+    "order": 2
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359162",
+    "order": 3
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359163",
+    "order": 4
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359164",
+    "order": 5
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359166",
+    "order": 6
+  },
+  {
+    "storyId": 29082,
+    "name": "Car, Driving, Road, Pov",
+    "clip_id": "525897",
+    "order": 7
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race Car",
+    "clip_id": "359160",
+    "order": 8
+  },
+  {
+    "storyId": 15070,
+    "name": "two sports cars speeding down the road ",
+    "clip_id": "107775",
+    "order": 9
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359168",
+    "order": 10
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485183",
+    "order": 11
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485182",
+    "order": 12
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485185",
+    "order": 13
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485193",
+    "order": 14
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485181",
+    "order": 15
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485187",
+    "order": 16
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485186",
+    "order": 17
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485184",
+    "order": 18
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485192",
+    "order": 19
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Woods, Rural",
+    "clip_id": "496357",
+    "order": 20
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359161",
+    "order": 21
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Woods, Rural",
+    "clip_id": "496338",
+    "order": 22
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Woods, Rural",
+    "clip_id": "496371",
+    "order": 23
+  },
+  {
+    "storyId": 14468,
+    "name": "cars on the highway timelapse ",
+    "clip_id": "91572",
+    "order": 24
+  },
+  {
+    "storyId": 23537,
+    "name": "Car, Lights, Fast Car, Race",
+    "clip_id": "359165",
+    "order": 25
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485195",
+    "order": 26
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485180",
+    "order": 27
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496346",
+    "order": 28
+  },
+  {
+    "storyId": 11059,
+    "name": "Man driving on unique buggy vehicle ",
+    "clip_id": "23769",
+    "order": 29
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Woods, Road",
+    "clip_id": "496335",
+    "order": 30
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496350",
+    "order": 31
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496343",
+    "order": 32
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496376",
+    "order": 33
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496359",
+    "order": 34
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496351",
+    "order": 35
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496349",
+    "order": 36
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496365",
+    "order": 37
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496333",
+    "order": 38
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496366",
+    "order": 39
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496361",
+    "order": 40
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496367",
+    "order": 41
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496373",
+    "order": 42
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496362",
+    "order": 43
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496355",
+    "order": 44
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496337",
+    "order": 45
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496364",
+    "order": 46
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496363",
+    "order": 47
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Driving, Forest, Trees",
+    "clip_id": "457424",
+    "order": 48
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496339",
+    "order": 49
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496370",
+    "order": 50
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496344",
+    "order": 51
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485190",
+    "order": 52
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485188",
+    "order": 53
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485194",
+    "order": 54
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Driving, Trees",
+    "clip_id": "457422",
+    "order": 55
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Woods, Rural",
+    "clip_id": "496372",
+    "order": 56
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Woods, Fast, Trees",
+    "clip_id": "457425",
+    "order": 57
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485189",
+    "order": 58
+  },
+  {
+    "storyId": 27691,
+    "name": "Police, Chase, Fast, Speed",
+    "clip_id": "485191",
+    "order": 59
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Woods, Rural",
+    "clip_id": "496356",
+    "order": 60
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Driving, Trees",
+    "clip_id": "457421",
+    "order": 61
+  },
+  {
+    "storyId": 13479,
+    "name": "Cars driving in busy boulevard at night timelapse",
+    "clip_id": "71283",
+    "order": 62
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496360",
+    "order": 63
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496369",
+    "order": 64
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496358",
+    "order": 65
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496345",
+    "order": 66
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496368",
+    "order": 67
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496375",
+    "order": 68
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496342",
+    "order": 69
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496347",
+    "order": 70
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496382",
+    "order": 71
+  },
+  {
+    "storyId": 28014,
+    "name": "Muscle Car, Driving, Rural, Road",
+    "clip_id": "496334",
+    "order": 72
+  },
+  {
+    "storyId": 28014,
+    "name": "Driving, Rural, Road, Fast",
+    "clip_id": "496377",
+    "order": 73
+  },
+  {
+    "storyId": 13479,
+    "name": "Large building in city with clouds behind timelapse",
+    "clip_id": "71296",
+    "order": 74
+  },
+  {
+    "storyId": 11636,
+    "name": "view of cars riding past pillars in tunnel at low shutter speed",
+    "clip_id": "40294",
+    "order": 75
+  },
+  {
+    "storyId": 15070,
+    "name": "two sports cars speeding onto the road ",
+    "clip_id": "107778",
+    "order": 76
+  },
+  {
+    "storyId": 15070,
+    "name": "two cars speeding down the road ",
+    "clip_id": "107772",
+    "order": 77
+  },
+  {
+    "storyId": 15070,
+    "name": "blue and red sports cars speeding on the road ",
+    "clip_id": "107774",
+    "order": 78
+  },
+  {
+    "storyId": 15826,
+    "name": "ground moving fast from a moving car",
+    "clip_id": "124777",
+    "order": 79
+  },
+  {
+    "storyId": 15826,
+    "name": "white muscle car driving away fast ",
+    "clip_id": "124773",
+    "order": 80
+  },
+  {
+    "storyId": 15826,
+    "name": "car mirror ",
+    "clip_id": "124776",
+    "order": 81
+  },
+  {
+    "storyId": 15082,
+    "name": "car driving fast by a field",
+    "clip_id": "108060",
+    "order": 82
+  },
+  {
+    "storyId": 14169,
+    "name": " grey road surface moving at speed",
+    "clip_id": "86050",
+    "order": 83
+  },
+  {
+    "storyId": 15082,
+    "name": "car driving down a road by the fields ",
+    "clip_id": "108066",
+    "order": 84
+  },
+  {
+    "storyId": 15082,
+    "name": "car driving down a dirt road by the fields aerial ",
+    "clip_id": "108061",
+    "order": 85
+  },
+  {
+    "storyId": 15082,
+    "name": "car driving down a dirt road fast and leaving dust behind ",
+    "clip_id": "108063",
+    "order": 86
+  },
+  {
+    "storyId": 15082,
+    "name": "man driving on a dirt road ",
+    "clip_id": "108064",
+    "order": 87
+  },
+  {
+    "storyId": 15082,
+    "name": "car driving down a dirt road aerial",
+    "clip_id": "108059",
+    "order": 88
+  },
+  {
+    "storyId": 15826,
+    "name": "car driving by the fields ",
+    "clip_id": "124779",
+    "order": 89
+  },
+  {
+    "storyId": 12489,
+    "name": "red car driving on empty road at sunset",
+    "clip_id": "56368",
+    "order": 90
+  },
+  {
+    "storyId": 12489,
+    "name": "red car riding around bend in road at sunset",
+    "clip_id": "56367",
+    "order": 91
+  },
+  {
+    "storyId": 11637,
+    "name": "blurry speeding motion on streets ",
+    "clip_id": "40296",
+    "order": 92
+  },
+  {
+    "storyId": 12489,
+    "name": "Red car riding on road at sunset",
+    "clip_id": "56366",
+    "order": 93
+  },
+  {
+    "storyId": 11923,
+    "name": "Bright orange moon over bridge",
+    "clip_id": "46937",
+    "order": 94
+  },
+  {
+    "storyId": 12489,
+    "name": "driver turning ignition on and putting car in gear",
+    "clip_id": "56369",
+    "order": 95
+  },
+  {
+    "storyId": 28021,
+    "name": "Bridge, Vfx, River, Laser Rays",
+    "clip_id": "496540",
+    "order": 96
+  },
+  {
+    "storyId": 13577,
+    "name": "traffic moving in Manhattan at night timelapse",
+    "clip_id": "73577",
+    "order": 97
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Driving, Trees",
+    "clip_id": "457417",
+    "order": 98
+  },
+  {
+    "storyId": 13900,
+    "name": "taxicab lineup on the street timelapse",
+    "clip_id": "81069",
+    "order": 99
+  },
+  {
+    "storyId": 13900,
+    "name": "train moving through the busy city at night timelapse",
+    "clip_id": "81047",
+    "order": 100
+  },
+  {
+    "storyId": 14696,
+    "name": "pedestrians and traffic crossing at a busy city junction timelapse",
+    "clip_id": "98806",
+    "order": 101
+  },
+  {
+    "storyId": 16493,
+    "name": "Japan, Tower, Tokyo, Timelapse",
+    "clip_id": "141888",
+    "order": 102
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Trees, Driving",
+    "clip_id": "457420",
+    "order": 103
+  },
+  {
+    "storyId": 16493,
+    "name": "Japan, Tower, Tokyo, Timelapse",
+    "clip_id": "141887",
+    "order": 104
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Driving, Fields",
+    "clip_id": "457419",
+    "order": 105
+  },
+  {
+    "storyId": 16493,
+    "name": "Japan, Tower, Tokyo, Timelapse",
+    "clip_id": "141884",
+    "order": 106
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Fields, Driving",
+    "clip_id": "457414",
+    "order": 107
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Driving, Landscape",
+    "clip_id": "457415",
+    "order": 108
+  },
+  {
+    "storyId": 11636,
+    "name": "view of cars riding in tunnel seen through rearview mirror",
+    "clip_id": "40287",
+    "order": 109
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Driving, Trees",
+    "clip_id": "457423",
+    "order": 110
+  },
+  {
+    "storyId": 14184,
+    "name": "traffic at a busy city intersection timelapse",
+    "clip_id": "86306",
+    "order": 111
+  },
+  {
+    "storyId": 14321,
+    "name": "Two Mustangs driving side by side",
+    "clip_id": "89749",
+    "order": 112
+  },
+  {
+    "storyId": 26765,
+    "name": "Electric Car, Road, Trees, Driving",
+    "clip_id": "457416",
+    "order": 113
+  },
+  {
+    "storyId": 13577,
+    "name": "traffic and billboards at Times Square timelapse",
+    "clip_id": "73580",
+    "order": 114
+  },
+  {
+    "storyId": 14696,
+    "name": "people and traffic moving on a busy junction at night timelapse",
+    "clip_id": "98797",
+    "order": 115
+  },
+  {
+    "storyId": 11402,
+    "name": "riders spin donuts leaving skid marks on cement roof",
+    "clip_id": "36188",
+    "order": 116
+  },
+  {
+    "storyId": 14696,
+    "name": "pedestrians and traffic moving at a junction in a city timelapse",
+    "clip_id": "98801",
+    "order": 117
+  },
+  {
+    "storyId": 14696,
+    "name": "traffic moving through a city at night and at day timelapse",
+    "clip_id": "98802",
+    "order": 118
+  },
+  {
+    "storyId": 14696,
+    "name": "traffic moving on a downtown street in a city timelapse",
+    "clip_id": "98803",
+    "order": 119
+  },
+  {
+    "storyId": 14184,
+    "name": "lights from nighttime traffic passing an intersection bokeh ",
+    "clip_id": "86309",
+    "order": 120
+  },
+  {
+    "storyId": 13612,
+    "name": "traffic in the city by the water and bridge at night timelapse",
+    "clip_id": "74367",
+    "order": 121
+  },
+  {
+    "storyId": 11508,
+    "name": "person driving vintage car fast on foggy bridge",
+    "clip_id": "37636",
+    "order": 122
+  },
+  {
+    "storyId": 12489,
+    "name": "red car driving down a road on a hill at sunset",
+    "clip_id": "56371",
+    "order": 123
+  },
+  {
+    "storyId": 14673,
+    "name": "car driving fast on a road near trees during a lightning storm",
+    "clip_id": "98087",
+    "order": 124
+  },
+  {
+    "storyId": 13900,
+    "name": "pedestrians and traffic in the city timelapse",
+    "clip_id": "81051",
+    "order": 125
+  },
+  {
+    "storyId": 13577,
+    "name": "traffic inside New York City timelapse ",
+    "clip_id": "73575",
+    "order": 126
+  },
+  {
+    "storyId": 13577,
+    "name": "traffic inside Manhattan timelapse",
+    "clip_id": "73576",
+    "order": 127
+  },
+  {
+    "storyId": 14353,
+    "name": "brooklyn bridge timelapse ",
+    "clip_id": "90090",
+    "order": 128
+  },
+  {
+    "storyId": 13596,
+    "name": "moon rising over the Brooklyn Bridge timelapse",
+    "clip_id": "73933",
+    "order": 129
+  },
+  {
+    "storyId": 16722,
+    "name": "traffic on the Manhattan Bridge timelapse",
+    "clip_id": "148784",
+    "order": 130
+  },
+  {
+    "storyId": 14353,
+    "name": "cars going over the Manhattan and Brooklyn Bridge timelapse ",
+    "clip_id": "90088",
+    "order": 131
+  },
+  {
+    "storyId": 14184,
+    "name": "traffic moving through and intersection with a traffic light and pedestrian crossing timelapse",
+    "clip_id": "86315",
+    "order": 132
+  },
+  {
+    "storyId": 13838,
+    "name": "sun going down over the city timelapse",
+    "clip_id": "79545",
+    "order": 133
+  },
+  {
+    "storyId": 14976,
+    "name": "Manhattan Bridge at sunrise timelapse",
+    "clip_id": "105752",
+    "order": 134
+  },
+  {
+    "storyId": 14976,
+    "name": "queensborow Bridge at night timelapse",
+    "clip_id": "105750",
+    "order": 135
+  },
+  {
+    "storyId": 14976,
+    "name": "boats passing underneath a bridge by Manhattan timelapse",
+    "clip_id": "105753",
+    "order": 136
+  },
+  {
+    "storyId": 13610,
+    "name": "water moving under a bridge by the city at sunrise timelapse",
+    "clip_id": "74300",
+    "order": 137
+  },
+  {
+    "storyId": 13900,
+    "name": "clouds and fog moving over the city timelapse",
+    "clip_id": "81049",
+    "order": 138
+  },
+  {
+    "storyId": 13580,
+    "name": "cable cars next to the Queensboro Bridge timelapse",
+    "clip_id": "73672",
+    "order": 139
+  },
+  {
+    "storyId": 11696,
+    "name": "clouds over small town timelapse",
+    "clip_id": "41849",
+    "order": 140
+  },
+  {
+    "storyId": 14089,
+    "name": "Moon rise above the Manhattan Bridge",
+    "clip_id": "84543",
+    "order": 141
+  },
+  {
+    "storyId": 13594,
+    "name": "Manhattan Bridge timelapse",
+    "clip_id": "73845",
+    "order": 142
+  },
+  {
+    "storyId": 13194,
+    "name": "clouds moving over a city timelapse",
+    "clip_id": "66665",
+    "order": 143
+  },
+  {
+    "storyId": 14089,
+    "name": "Moon set over Manhattan's Financial District timelapse",
+    "clip_id": "84542",
+    "order": 144
+  },
+  {
+    "storyId": 16037,
+    "name": "stunt car skidding while driving fast near a film crew aerial",
+    "clip_id": "129313",
+    "order": 145
+  },
+  {
+    "storyId": 13900,
+    "name": "city by the water fish-eye timelapse",
+    "clip_id": "81062",
+    "order": 146
+  },
+  {
+    "storyId": 13844,
+    "name": "Sunset in a big city timelapse ",
+    "clip_id": "79881",
+    "order": 147
+  },
+  {
+    "storyId": 14623,
+    "name": "cars and lights in the city hyperlapse aerial",
+    "clip_id": "96745",
+    "order": 148
+  },
+  {
+    "storyId": 14673,
+    "name": "car with headlights on and driving fast on a road",
+    "clip_id": "98080",
+    "order": 149
+  },
+  {
+    "storyId": 14586,
+    "name": "traffic next to hotels at night in Las Vegas timelapse",
+    "clip_id": "95298",
+    "order": 150
+  },
+  {
+    "storyId": 13844,
+    "name": "Sunset at a city with tall buildings timelapse ",
+    "clip_id": "79882",
+    "order": 151
+  },
+  {
+    "storyId": 14586,
+    "name": "cars driving in Manhattan at night timelapse",
+    "clip_id": "95305",
+    "order": 152
+  },
+  {
+    "storyId": 14623,
+    "name": "cars and traffic in a roundabout in the city at night hyperlapse aerial",
+    "clip_id": "96781",
+    "order": 153
+  },
+  {
+    "storyId": 14623,
+    "name": "traffic by the main square in Mexico City hyperlapse aerial",
+    "clip_id": "96768",
+    "order": 154
+  },
+  {
+    "storyId": 14623,
+    "name": "The Angel of Independence in Mexico City hyperlapse aerial",
+    "clip_id": "96791",
+    "order": 155
+  },
+  {
+    "storyId": 14586,
+    "name": "cars and lights at night in New York City timelapse ",
+    "clip_id": "95309",
+    "order": 156
+  },
+  {
+    "storyId": 14673,
+    "name": "car driving fast and turning a corner outdoors",
+    "clip_id": "98083",
+    "order": 157
+  },
+  {
+    "storyId": 14623,
+    "name": "bus station in the city hyperlapse aerial",
+    "clip_id": "96779",
+    "order": 158
+  },
+  {
+    "storyId": 14623,
+    "name": "building lit up with colorful light in the city at night hyperlapse aerial",
+    "clip_id": "96757",
+    "order": 159
+  },
+  {
+    "storyId": 14673,
+    "name": "grey car driving fast on a road near a building and trees",
+    "clip_id": "98084",
+    "order": 160
+  },
+  {
+    "storyId": 14623,
+    "name": "large traffic circle in the city hyperlapse aerial",
+    "clip_id": "96790",
+    "order": 161
+  },
+  {
+    "storyId": 14623,
+    "name": "main bus station in the city",
+    "clip_id": "96780",
+    "order": 162
+  },
+  {
+    "storyId": 14623,
+    "name": "morning traffic in the city hyperlapse aerial",
+    "clip_id": "96775",
+    "order": 163
+  },
+  {
+    "storyId": 14840,
+    "name": "sunset over the city timelapse",
+    "clip_id": "102684",
+    "order": 164
+  },
+  {
+    "storyId": 14623,
+    "name": "trees and small forests on the outskirts of the city hyperlapse aerial",
+    "clip_id": "96787",
+    "order": 165
+  },
+  {
+    "storyId": 16722,
+    "name": "city neighborhood against a skyline timelapse",
+    "clip_id": "148785",
+    "order": 166
+  },
+  {
+    "storyId": 20497,
+    "name": "Cars, Timelapse, Time-Lapse, Highway",
+    "clip_id": "261112",
+    "order": 167
+  },
+  {
+    "storyId": 14858,
+    "name": "cars driving over the Brooklyn Bridge timelapse ",
+    "clip_id": "103144",
+    "order": 168
+  },
+  {
+    "storyId": 20497,
+    "name": "Cars, Timelapse, Time-Lapse, Highway",
+    "clip_id": "261113",
+    "order": 169
+  },
+  {
+    "storyId": 20497,
+    "name": "Cars, Timelapse, Time-Lapse, Highway",
+    "clip_id": "261114",
+    "order": 170
+  },
+  {
+    "storyId": 20497,
+    "name": "Cars, Timelapse, Time-Lapse, Highway",
+    "clip_id": "261110",
+    "order": 171
+  },
+  {
+    "storyId": 19334,
+    "name": "Train Track, Train, No Traffic, Train Station",
+    "clip_id": "226987",
+    "order": 172
+  },
+  {
+    "storyId": 20497,
+    "name": "Cars, Timelapse, Time-Lapse, Highway",
+    "clip_id": "261111",
+    "order": 173
+  },
+  {
+    "storyId": 19334,
+    "name": "Train Track, Train, No Traffic, Train Station",
+    "clip_id": "226985",
+    "order": 174
+  },
+  {
+    "storyId": 19334,
+    "name": "Train Track, Train, No Traffic, Train Station",
+    "clip_id": "226990",
+    "order": 175
+  },
+  {
+    "storyId": 19334,
+    "name": "Train Track, Train, No Traffic, Train Station",
+    "clip_id": "226984",
+    "order": 176
+  },
+  {
+    "storyId": 19334,
+    "name": "Train Track, Train, No Traffic, Train Station",
+    "clip_id": "226988",
+    "order": 177
+  },
+  {
+    "storyId": 19334,
+    "name": "Train Track, Train, No Traffic, Train Station",
+    "clip_id": "226989",
+    "order": 178
+  },
+  {
+    "storyId": 19334,
+    "name": "Munich Opera, Classic House, Opera House, Bavarian State Opera",
+    "clip_id": "226986",
+    "order": 179
+  }
+]

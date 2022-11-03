@@ -1,0 +1,20 @@
+[
+  {
+    "query": "bussiness",
+    "clip_id": "359153",
+    "story_id": "23536",
+    "autoRank": "0.30849656277850995"
+  },
+  {
+    "query": "bussiness",
+    "clip_id": "187306",
+    "story_id": "18065",
+    "autoRank": "0.302447822671329"
+  },
+  {
+    "query": "bussiness",
+    "clip_id": "234956",
+    "story_id": "19596",
+    "autoRank": "0.30229357963207421"
+  }
+]

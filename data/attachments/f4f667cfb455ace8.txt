@@ -1,0 +1,38 @@
+[
+  {
+    "query": "black children",
+    "clip_id": "304700",
+    "story_id": "21853",
+    "autoRank": "0.3666180260244834"
+  },
+  {
+    "query": "black children",
+    "clip_id": "96484",
+    "story_id": "14614",
+    "autoRank": "0.36278864197546978"
+  },
+  {
+    "query": "black children",
+    "clip_id": "295468",
+    "story_id": "21578",
+    "autoRank": "0.35882691589400578"
+  },
+  {
+    "query": "black children",
+    "clip_id": "248863",
+    "story_id": "20144",
+    "autoRank": "0.3563614306222464"
+  },
+  {
+    "query": "black children",
+    "clip_id": "216814",
+    "story_id": "18989",
+    "autoRank": "0.35406020804729504"
+  },
+  {
+    "query": "black children",
+    "clip_id": "203268",
+    "story_id": "18521",
+    "autoRank": "0.33649622102543625"
+  }
+]

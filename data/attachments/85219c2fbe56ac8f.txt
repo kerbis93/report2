@@ -1,0 +1,56 @@
+[
+  {
+    "query": "war zone",
+    "clip_id": "344438",
+    "story_id": "23104",
+    "autoRank": "0.31072795298945927"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "419410",
+    "story_id": "25589",
+    "autoRank": "0.31049263754355794"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "66773",
+    "story_id": "13199",
+    "autoRank": "0.3067186654605849"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "71239",
+    "story_id": "13476",
+    "autoRank": "0.30587997299800906"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "125286",
+    "story_id": "15860",
+    "autoRank": "0.30491426024394913"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "18460",
+    "story_id": "10879",
+    "autoRank": "0.30409969103988266"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "55490",
+    "story_id": "12420",
+    "autoRank": "0.30409305626655186"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "344426",
+    "story_id": "23374",
+    "autoRank": "0.30404116041242624"
+  },
+  {
+    "query": "war zone",
+    "clip_id": "19470",
+    "story_id": "10907",
+    "autoRank": "0.30401848233794693"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Car, Street",
+    "clip_id": "490086",
+    "order": 0
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Car, Street",
+    "clip_id": "490089",
+    "order": 1
+  },
+  {
+    "storyId": 27842,
+    "name": "Taxi Top Sign, Yellow Cab, Taxi, Street",
+    "clip_id": "490116",
+    "order": 2
+  },
+  {
+    "storyId": 27842,
+    "name": "Taxi Top Sign, Yellow Cab, Taxi, Street",
+    "clip_id": "490113",
+    "order": 3
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Taxi, Car Window, Cab",
+    "clip_id": "490147",
+    "order": 4
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Taxi, Car Window, Cab",
+    "clip_id": "490146",
+    "order": 5
+  },
+  {
+    "storyId": 27842,
+    "name": "Taxi Top Sign, Yellow Cab, Taxi, Street",
+    "clip_id": "490114",
+    "order": 6
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Taxi, Car Window, Cab",
+    "clip_id": "490149",
+    "order": 7
+  },
+  {
+    "storyId": 27842,
+    "name": "Taxi Top Sign, Yellow Cab, Taxi, Street",
+    "clip_id": "490115",
+    "order": 8
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Taxi, Car Window, Cab",
+    "clip_id": "490148",
+    "order": 9
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Passenger, Taxi, Back Seat",
+    "clip_id": "490100",
+    "order": 10
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Passenger, Taxi, Back Seat",
+    "clip_id": "490096",
+    "order": 11
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Passenger, Taxi, Back Seat",
+    "clip_id": "490097",
+    "order": 12
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Passenger, Taxi, Back Seat",
+    "clip_id": "490098",
+    "order": 13
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Passenger, Taxi, Back Seat",
+    "clip_id": "490099",
+    "order": 14
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Woman, Taxi, Car Window",
+    "clip_id": "490150",
+    "order": 15
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Driver, Taxi, Man",
+    "clip_id": "490154",
+    "order": 16
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Taxi, Driver, Street",
+    "clip_id": "490106",
+    "order": 17
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Back Seat, Cab, Passenger",
+    "clip_id": "490134",
+    "order": 18
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Driver, Passenger",
+    "clip_id": "490087",
+    "order": 19
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Back Seat, Passenger",
+    "clip_id": "490131",
+    "order": 20
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Back Seat, Passenger",
+    "clip_id": "490132",
+    "order": 21
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Back Seat, Passenger",
+    "clip_id": "490130",
+    "order": 22
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Back Seat, Passenger",
+    "clip_id": "490128",
+    "order": 23
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Driver, Taxi, Man",
+    "clip_id": "490155",
+    "order": 24
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Taxi, Driver, Street",
+    "clip_id": "490107",
+    "order": 25
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Exit, Taxi, Street",
+    "clip_id": "490111",
+    "order": 26
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Taxi, Driver, Street",
+    "clip_id": "490109",
+    "order": 27
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Taxi, Driver, Street",
+    "clip_id": "490108",
+    "order": 28
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Back Seat, Cab, Passenger",
+    "clip_id": "490133",
+    "order": 29
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Back Seat, Cab, Passenger",
+    "clip_id": "490135",
+    "order": 30
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490139",
+    "order": 31
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Hailing, Cab, Street",
+    "clip_id": "490092",
+    "order": 32
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Car, Street",
+    "clip_id": "490088",
+    "order": 33
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Paying, Taxi, Driver",
+    "clip_id": "490104",
+    "order": 34
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Paying, Taxi, Driver",
+    "clip_id": "490105",
+    "order": 35
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Driver, Taxi, Man",
+    "clip_id": "490152",
+    "order": 36
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490136",
+    "order": 37
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Entering, Cab, Back Seat",
+    "clip_id": "490095",
+    "order": 38
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Taxi, Street",
+    "clip_id": "490144",
+    "order": 39
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490120",
+    "order": 40
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Man, Taxi, Back Seat",
+    "clip_id": "490127",
+    "order": 41
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Man, Passenger",
+    "clip_id": "490083",
+    "order": 42
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Woman, Hailing, Cab",
+    "clip_id": "490125",
+    "order": 43
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Man, Taxi, Back Seat",
+    "clip_id": "490126",
+    "order": 44
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Taxi, Street",
+    "clip_id": "490145",
+    "order": 45
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Taxi, Driver, Street",
+    "clip_id": "490102",
+    "order": 46
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Driver, Passenger",
+    "clip_id": "490085",
+    "order": 47
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490121",
+    "order": 48
+  },
+  {
+    "storyId": 27842,
+    "name": "Taxi, Driver, Man, Passenger",
+    "clip_id": "490101",
+    "order": 49
+  },
+  {
+    "storyId": 27842,
+    "name": "Taxi, Driver, Man, Passenger",
+    "clip_id": "490101",
+    "order": 50
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Cab, Taxi, Street",
+    "clip_id": "490143",
+    "order": 51
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Umbrella, Hailing, Cab",
+    "clip_id": "490118",
+    "order": 52
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490090",
+    "order": 53
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Man, Taxi, Back Seat",
+    "clip_id": "490129",
+    "order": 54
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Driver, Taxi, Man",
+    "clip_id": "490151",
+    "order": 55
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Cab, Taxi, Street",
+    "clip_id": "490141",
+    "order": 56
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Hailing, Cab, Street",
+    "clip_id": "490091",
+    "order": 57
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490138",
+    "order": 58
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Driver, Passenger",
+    "clip_id": "490082",
+    "order": 59
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Man, Passenger",
+    "clip_id": "490084",
+    "order": 60
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Taxi, Driver, Passenger",
+    "clip_id": "490156",
+    "order": 61
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Woman, Hailing, Cab",
+    "clip_id": "490123",
+    "order": 62
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Entering, Cab, Back Seat",
+    "clip_id": "490094",
+    "order": 63
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Woman, Hailing, Cab",
+    "clip_id": "490122",
+    "order": 64
+  },
+  {
+    "storyId": 27842,
+    "name": "Cab, Driver, Taxi, Man",
+    "clip_id": "490153",
+    "order": 65
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Woman, Hailing, Cab",
+    "clip_id": "490124",
+    "order": 66
+  },
+  {
+    "storyId": 27842,
+    "name": "Man, Hailing, Cab, Street",
+    "clip_id": "490137",
+    "order": 67
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Hailing, Cab, Street",
+    "clip_id": "490093",
+    "order": 68
+  },
+  {
+    "storyId": 27842,
+    "name": "Woman, Paying, Taxi, Driver",
+    "clip_id": "490103",
+    "order": 69
+  }
+]

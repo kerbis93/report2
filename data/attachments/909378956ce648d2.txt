@@ -1,0 +1,14 @@
+[
+  {
+    "query": "domestic violence",
+    "clip_id": "338325",
+    "story_id": "22898",
+    "autoRank": "0.30516526097158342"
+  },
+  {
+    "query": "domestic violence",
+    "clip_id": "338356",
+    "story_id": "23135",
+    "autoRank": "0.30310717997638909"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "cherry blossom",
+    "clip_id": "80888",
+    "story_id": "13894",
+    "autoRank": "0.32090453277894715"
+  },
+  {
+    "query": "cherry blossom",
+    "clip_id": "116213",
+    "story_id": "15453",
+    "autoRank": "0.3204701656104369"
+  }
+]

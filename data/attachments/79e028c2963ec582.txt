@@ -1,0 +1,68 @@
+[
+  {
+    "storyId": 19849,
+    "name": "Drone, Aerial, Kenya, Africa",
+    "clip_id": "240947",
+    "order": 0
+  },
+  {
+    "storyId": 19486,
+    "name": "Mountain, Sunset, Love, Nature",
+    "clip_id": "231362",
+    "order": 1
+  },
+  {
+    "storyId": 19849,
+    "name": "Drone, Aerial, Kenya, Africa",
+    "clip_id": "240956",
+    "order": 2
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Urridafoss, Aerial, Aerial View",
+    "clip_id": "232654",
+    "order": 3
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Aerial, Aerial View, Cabin",
+    "clip_id": "232653",
+    "order": 4
+  },
+  {
+    "storyId": 19849,
+    "name": "Drone, Aerial, Kenya, Africa",
+    "clip_id": "240954",
+    "order": 5
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Thingvallavatn, Tingvellir, Aerial",
+    "clip_id": "234186",
+    "order": 6
+  },
+  {
+    "storyId": 19849,
+    "name": "Drone, Aerial, Kenya, Africa",
+    "clip_id": "240955",
+    "order": 7
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Thingvallavatn, Tingvellir, Aerial",
+    "clip_id": "234188",
+    "order": 8
+  },
+  {
+    "storyId": 19535,
+    "name": "Europe, Thingvallavatn, Tingvellir, Aerial",
+    "clip_id": "234187",
+    "order": 9
+  },
+  {
+    "storyId": 20488,
+    "name": "Beautiful, Coastline, Cliff, Seascape",
+    "clip_id": "260810",
+    "order": 10
+  }
+]

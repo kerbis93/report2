@@ -1,0 +1,8 @@
+[
+  {
+    "query": "pop colture",
+    "clip_id": "125225",
+    "story_id": "15858",
+    "autoRank": "0.30224291608952636"
+  }
+]

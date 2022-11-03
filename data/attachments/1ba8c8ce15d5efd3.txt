@@ -1,0 +1,62 @@
+[
+  {
+    "query": "black background",
+    "clip_id": "181018",
+    "story_id": "17898",
+    "autoRank": "0.3740773752133944"
+  },
+  {
+    "query": "black background",
+    "clip_id": "274887",
+    "story_id": "20994",
+    "autoRank": "0.3730167564373304"
+  },
+  {
+    "query": "black background",
+    "clip_id": "180381",
+    "story_id": "17876",
+    "autoRank": "0.37143259465870637"
+  },
+  {
+    "query": "black background",
+    "clip_id": "275621",
+    "story_id": "21019",
+    "autoRank": "0.36876492628486196"
+  },
+  {
+    "query": "black background",
+    "clip_id": "51701",
+    "story_id": "12257",
+    "autoRank": "0.36867212206738637"
+  },
+  {
+    "query": "black background",
+    "clip_id": "87137",
+    "story_id": "14208",
+    "autoRank": "0.36838334285544444"
+  },
+  {
+    "query": "black background",
+    "clip_id": "119063",
+    "story_id": "15574",
+    "autoRank": "0.36728956325623907"
+  },
+  {
+    "query": "black background",
+    "clip_id": "201437",
+    "story_id": "18449",
+    "autoRank": "0.36724930794373212"
+  },
+  {
+    "query": "black background",
+    "clip_id": "295896",
+    "story_id": "21589",
+    "autoRank": "0.36661227088345782"
+  },
+  {
+    "query": "black background",
+    "clip_id": "227893",
+    "story_id": "19376",
+    "autoRank": "0.36601771144478767"
+  }
+]

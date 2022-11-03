@@ -1,0 +1,134 @@
+[
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442981",
+    "order": 0
+  },
+  {
+    "storyId": 26307,
+    "name": "Digital, Text, Typing, Animation",
+    "clip_id": "442985",
+    "order": 1
+  },
+  {
+    "storyId": 17794,
+    "name": "the words \"danger\" and \"covid-19\" flashing on a screen",
+    "clip_id": "178492",
+    "order": 2
+  },
+  {
+    "storyId": 21953,
+    "name": "Man, Bed, Tiredness, Depression",
+    "clip_id": "308755",
+    "order": 3
+  },
+  {
+    "storyId": 18140,
+    "name": "Phishing, Text, Words, Screen",
+    "clip_id": "190641",
+    "order": 4
+  },
+  {
+    "storyId": 17794,
+    "name": "\"danger\" flashing in caps on a broken screen ",
+    "clip_id": "178496",
+    "order": 5
+  },
+  {
+    "storyId": 17794,
+    "name": "circle and grid on a glitchy screen ",
+    "clip_id": "178540",
+    "order": 6
+  },
+  {
+    "storyId": 17794,
+    "name": "grid and circle flashing on a screen ",
+    "clip_id": "178538",
+    "order": 7
+  },
+  {
+    "storyId": 18065,
+    "name": "\"danger\" flashing on a cracked screen ",
+    "clip_id": "187303",
+    "order": 8
+  },
+  {
+    "storyId": 18065,
+    "name": "\"danger\" flashing on a broken screen ",
+    "clip_id": "187302",
+    "order": 9
+  },
+  {
+    "storyId": 17794,
+    "name": "shapes flashing on a broken screen ",
+    "clip_id": "178486",
+    "order": 10
+  },
+  {
+    "storyId": 21460,
+    "name": "Gang, Young, Smoking, Hanging Out",
+    "clip_id": "291183",
+    "order": 11
+  },
+  {
+    "storyId": 18150,
+    "name": "Glitch, Vintage, Retro, Console",
+    "clip_id": "191210",
+    "order": 12
+  },
+  {
+    "storyId": 22211,
+    "name": "Dancer, Modern, Dancing, Pink",
+    "clip_id": "317715",
+    "order": 13
+  },
+  {
+    "storyId": 17794,
+    "name": "\"love\" and glitchy symbols on a screen ",
+    "clip_id": "178522",
+    "order": 14
+  },
+  {
+    "storyId": 25261,
+    "name": "Green Screen, Woman, Dancing, Party",
+    "clip_id": "410224",
+    "order": 15
+  },
+  {
+    "storyId": 19974,
+    "name": "Woman, Dancing, Rooftop, Buildings",
+    "clip_id": "244524",
+    "order": 16
+  },
+  {
+    "storyId": 26372,
+    "name": "Woman, Dancing, Headphones, Music",
+    "clip_id": "445304",
+    "order": 17
+  },
+  {
+    "storyId": 27893,
+    "name": "Man, Looking At Camera, Headphones, Sitting",
+    "clip_id": "492256",
+    "order": 18
+  },
+  {
+    "storyId": 28186,
+    "name": "Man, Bridge, Dark, Alone",
+    "clip_id": "501435",
+    "order": 19
+  },
+  {
+    "storyId": 20493,
+    "name": "Man, Soldier, Smoking, Cigarette",
+    "clip_id": "260912",
+    "order": 20
+  },
+  {
+    "storyId": 17794,
+    "name": "\"covid-19\" flashing on a broken screen ",
+    "clip_id": "178478",
+    "order": 21
+  }
+]

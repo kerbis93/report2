@@ -1,0 +1,14 @@
+[
+  {
+    "query": "empty train",
+    "clip_id": "130142",
+    "story_id": "16068",
+    "autoRank": "0.3528317319698781"
+  },
+  {
+    "query": "empty train",
+    "clip_id": "74065",
+    "story_id": "13603",
+    "autoRank": "0.3506471484813995"
+  }
+]

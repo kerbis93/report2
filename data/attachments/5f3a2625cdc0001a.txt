@@ -1,0 +1,38 @@
+[
+  {
+    "storyId": 28824,
+    "name": "Santa Claus, Sled, Deer, Comic",
+    "clip_id": "519881",
+    "order": 0
+  },
+  {
+    "storyId": 19930,
+    "name": "Internet, Laptop, Network, Program",
+    "clip_id": "243345",
+    "order": 1
+  },
+  {
+    "storyId": 28527,
+    "name": "2D, Animated, Playing, Soccer",
+    "clip_id": "512327",
+    "order": 2
+  },
+  {
+    "storyId": 28527,
+    "name": "2D, Animated, Buying, Store",
+    "clip_id": "512326",
+    "order": 3
+  },
+  {
+    "storyId": 17794,
+    "name": "\"play\" flashing on a broken screen ",
+    "clip_id": "178533",
+    "order": 4
+  },
+  {
+    "storyId": 21935,
+    "name": "Flare, Lens Flare, Light Leaks, Effect",
+    "clip_id": "308496",
+    "order": 5
+  }
+]

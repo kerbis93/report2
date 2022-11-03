@@ -1,0 +1,50 @@
+[
+  {
+    "query": "cinematic shot",
+    "clip_id": "226949",
+    "story_id": "19334",
+    "autoRank": "0.33435554583739274"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "41491",
+    "story_id": "11686",
+    "autoRank": "0.33204195544345416"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "37802",
+    "story_id": "11522",
+    "autoRank": "0.32957991408706644"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "217911",
+    "story_id": "19047",
+    "autoRank": "0.32923231756897414"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "137599",
+    "story_id": "16325",
+    "autoRank": "0.32863545380164755"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "407775",
+    "story_id": "25173",
+    "autoRank": "0.32775419187916005"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "37594",
+    "story_id": "11500",
+    "autoRank": "0.32752557087088185"
+  },
+  {
+    "query": "cinematic shot",
+    "clip_id": "55617",
+    "story_id": "12431",
+    "autoRank": "0.32454764926390861"
+  }
+]
